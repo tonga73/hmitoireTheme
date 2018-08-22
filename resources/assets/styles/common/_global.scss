@@ -1,0 +1,21 @@
+.content {
+  border-radius: 15px 15px 0 0;
+  -webkit-box-shadow: 0 -3px 3px 3px rgba(59, 68, 75, 0.35);
+  -moz-box-shadow: 0 -3px 3px 3px rgba(59, 68, 75, 0.35);
+  box-shadow: 0 -3px 3px 3px rgba(59, 68, 75, 0.35);
+}
+
+.row {
+  /* column width */
+  -moz-column-width: 19em;
+  -webkit-column-width: 19em;
+
+  /* space between columns */
+  -moz-column-gap: 1em;
+  -webkit-column-gap: 1em;
+}
+
+.item {
+  display: inline-block;
+  width: 100%;
+}

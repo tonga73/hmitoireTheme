@@ -1,0 +1,46 @@
+#libros-list {
+  .card {
+    .card-body {
+      ul {
+        list-style: upper-roman;
+
+        li {
+          cursor: default;
+
+          a {
+            display: flex;
+            justify-content: space-between;
+            text-decoration: none;
+            color: $dark;
+            margin: 0;
+            padding: 0;
+            -webkit-transition: 0.37591s ease-in-out;
+            -moz-transition: 0.37591s ease-in-out;
+            -o-transition: 0.37591s ease-in-out;
+            transition: 0.37591s ease-in-out;
+
+            #leer {
+              background-color: $primary;
+              color: $light;
+              padding: 0.1em 0.5em;
+              border-radius: 3px;
+            }
+
+            &:hover {
+              background-color: $secondary;
+              color: $light;
+              font-weight: bold;
+              padding: 0 0.3em;
+
+              #leer {
+                background-color: $light;
+                color: $primary;
+                border-radius: 0;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

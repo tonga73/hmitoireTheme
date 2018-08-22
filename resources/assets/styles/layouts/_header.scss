@@ -1,0 +1,162 @@
+.banner a.brand {
+  text-decoration: none;
+  font-size: 3.7vw;
+  letter-spacing: 3px;
+  position: relative;
+  width: 100%;
+}
+
+.scrolled .nav a {
+  color: $light !important;
+}
+
+.banner {
+  .nav {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    border-radius: 15px;
+
+    .menu-item {
+      border-radius: 15px 0 15px 0;
+      -webkit-transition: 0.273519s ease-in-out;
+      -moz-transition: 0.273519s ease-in-out;
+      -o-transition: 0.273519s ease-in-out;
+      transition: 0.273519s ease-in-out;
+
+      a {
+        @extend .nav-link;
+
+        color: $gray-800;
+      }
+
+      &:hover {
+        background-color: $dgreen;
+        border-radius: 0 15px 0 15px;
+
+        a {
+          color: $light;
+        }
+      }
+    }
+
+    .menu-item.current-menu-item {
+      background-color: $green;
+
+      a {
+        color: $light;
+      }
+    }
+  }
+}
+
+.banner .nav li {
+  @extend .nav-item;
+}
+
+.scrolled {
+  position: fixed;
+  -webkit-transition: 0.73195s ease-in-out;
+  -moz-transition: 0.73195s ease-in-out;
+  -o-transition: 0.73195s ease-in-out;
+  transition: 0.73195s ease-in-out;
+  background: rgba($dark, 0.9);
+  top: 0;
+  width: 100%;
+  z-index: 99;
+  padding: 0.3em;
+
+  .brand {
+    font-size: 2vw;
+    width: auto;
+    color: $light;
+    display: none;
+  }
+}
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (max-width: 576px) {
+  .banner {
+    .nav {
+      .menu-item {
+        a {
+          i {
+            margin: 0;
+          }
+
+          span {
+            display: none;
+          }
+        }
+
+        &:hover {
+          background-color: $light;
+
+          i {
+            color: $dgreen;
+          }
+        }
+      }
+
+      .menu-item.current-menu-item {
+        a {
+          i {
+            display: none;
+          }
+
+          span {
+            display: inherit;
+          }
+        }
+
+        &:hover {
+          span {
+            color: $dgreen;
+          }
+        }
+      }
+    }
+  }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .banner {
+    .nav {
+      a {
+        span {
+          display: inherit;
+        }
+      }
+    }
+  }
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .banner {
+    .nav {
+      a {
+        span {
+          display: inherit;
+        }
+      }
+    }
+  }
+}
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  .banner {
+    .nav {
+      a {
+        span {
+          display: inherit;
+        }
+      }
+    }
+  }
+}
