@@ -4,4 +4,37 @@
   .modal-dialog {
     max-width: 80%;
   }
+
+  .modal-title {
+    font-size: 3vw;
+  }
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (max-width: 576px) {
+  .modal {
+    .modal-dialog {
+      max-width: 100%;
+      margin: 0 auto !important;
+    }
+
+    .modal-title {
+      font-size: 7vw;
+    }
+  }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (max-width: 768px) {
+  .modal {
+    .modal-dialog {
+      max-width: 100%;
+      margin: 0 auto !important;
+      word-break: keep-all;
+    }
+
+    .modal-title {
+      font-size: 7vw;
+    }
+  }
 }

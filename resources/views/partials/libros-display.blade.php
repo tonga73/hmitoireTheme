@@ -48,7 +48,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -244,816 +244,6 @@
 			</nav>
 	    </div>
 	  </div>
-	<!-- IV -->
-	  <div class="card">
-		    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-4.jpg" alt="Card image cap">
-		    <div class="card-body">
-				<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-				  <!-- Button trigger modal -->
-				  <a class="btn btn-warning" data-toggle="collapse" href="#collapse4Terror" role="button" aria-expanded="false" aria-controls="collapse4Terror">Índice</a>
-
-					<div class="collapse" id="collapse4Terror">
-					  <div class="card card-body">
-					    <ul>
-					    	<li>
-					    		<p>La bestia 
-					    			<span class="text-muted float-right">
-					    				(1ra Parte)
-					    			</span>
-					    		</p>
-					    	</li>
-					    	<li>
-					    		<p>Eduardo el lobisón  
-					    			<span class="text-muted float-right">
-					    				(3ra Parte)
-					    			</span>
-					    		</p>
-					    	</li>
-					    	<li>
-					    		<p>
-									<!-- Button trigger modal -->
-					    			<a data-toggle="modal" data-target="#esterosModal" href="#">
-						    			Estero cuatro diablos
-						    			<small id="leer">
-						    		      <i class="fab fa-readme"></i>
-						    		    </small>
-					    			</a>
-
-									<!-- Modal -->
-									<div class="modal fade bd-example-modal-lg" id="esterosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-									  <div class="modal-dialog modal-dialog-centered" role="document">
-									    <div class="modal-content">
-									      <div class="modal-header">
-									        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Estero cuatro diablos</h5>
-									        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
-									          <i class="fas fa-times text-muted"></i>
-									        </button>
-									      </div>
-									      <div class="modal-body container belle h4">
-											<p>
-												En el Chaco, como si no fuera suficiente tener un diablo, existe un estero donde habitan cuatro ¡Cuatro diablos! No uno, ni dos, ni tres ¡Cuatro! ¿Quién resistiría eso? Es el colmo. Y si alguno cree que esto es un invento mío para asustar a algún distraído o para hacerme el gracioso, que agarre la ruta once, que va desde Resistencia a Formosa, y que después me cuente, que encuentra luego del cruce con la ruta noventa. A menos de cien metros de ese cruce, verán un cartel verde con letras blancas y mayúsculas, de solo tres palabras: ESTERO CUATRO DIABLOS. 
-											</p>
-											<p>
-												Cuando era chico siempre pensaba que ese nombre seguro lo puso alguno para hacerse el gracioso o para asustar a los que pasaban por allí. Mucho tiempo después, pude comprender el por qué de ese nombre siniestro.
-											</p>
-											<p>
-												Es un interminable y misterioso estero que se extiende –a la derecha siguiendo por la ruta- hasta Lapachito, y sus otros límites son el río Guaycurú, el Paraje Yatay y la siniestra Cañada Címbaro ¡Mamita querida! ¡Qué miedo da pasar por ahí! Son leguas y leguas de llanura con pajonales amarillos, tacurúes, palmeras y mogotes de algarrobos. Cientos de cuervos revolotean el lugar buscando una osamenta; alguno que otro caraun solitario suele verse, y los caracoleros, en los postes de telégrafo o en las ramas de un árbol seco.
-											</p>
-											<p>
-												Yo jamás pisé el estero, ni pienso hacerlo, aunque estuviera totalmente chiflado, pero cada vez que voy a visitar a mis padres a La Leonesa ¡Tengo que pasar por esa ruta! Y durante todo ese trayecto, que son como veinte kilómetros, voy rezando y haciendo gancho duro para que el auto o el colectivo no se descomponga, para que no ocurra nada raro, ni aparezca alguna cosa extraña.
-											</p>
-											<p>
-												La verdad es que nunca me pasó nada grave ni trágico. Las únicas cosas que recuerdo son anécdotas, algunas las experimenté yo mismo, otras, fueron padecidas por amigos o conocidos.
-											</p>
-											<p>
-												Cuando era estudiante, casi siempre viajaba a dedo, y en muchas oportunidades me tocó hacerlo en la parte de atrás de alguna camioneta o camión, o sea al aire libre. En dos o tres de esos viajes, tuve la mala suerte de pasar por ese tenebroso lugar en horas de la noche. En una de esas oportunidades, viajaba solo y luego de pasar el cruce…¡Qué miedo virgencita santa! Empecé a rezar y temblaba como una hoja. De a ratos cerraba los ojos, después los abría y miraba el cielo estrellado, o miraba hacia atrás ¡Ni por las tapas quería mirar el estero! Pero había una fuerza extraña, un impulso desconocido o una diabólica atracción, que sin que me diera cuenta, llevaba mi vista hacia el maldito lugar ¡Ahí sí que me encomendaba a todos los santos! 
-											</p>
-											<p>
-												Lo único que podía verse, era lo que iba iluminando el vehículo a su paso. Pajonales, palmeras, mogotes y la negra e interminable oscuridad. Iba como hipnotizado mirando ese misterioso y perpetuo paisaje, cuando de pronto, comencé a ver unos puntos luminosos sobre la negritud del estero. Poco a poco, se hacían más grandes, como si se acercaran, hasta que pude distinguir lo que eran ¡Cuatro pares de ojos que brillaban en la profunda negritud! Eran ojos rojos y parecían estar a unos cincuenta metros de la ruta y nunca quedaban atrás ¡Nos estaban siguiendo! Ahí me di cuenta que esos ojos siempre estaban a la misma distancia, como si se desplazaran a la misma velocidad ¡Cómo aceleré mis rezos en ese momento! Cerré con fuerza mis ojos y me tapé los oídos, y así estuve unos cuantos segundos o minutos, hasta que la terrible atracción diabólica o ese impulso misterioso, me obligó a abrirlos nuevamente y mirar ¡Y otra vez los cuatro pares de ojos seguían a la misma distancia! ¡Maldita mi suerte! Para evitar mirar de nuevo, me concentraba en el ruido del motor y miraba las estrellas, y así seguí unos cuantos kilómetros.  
-											</p>
-											<p>
-												El tormento terminó cuando llegamos a Lapachito, porque ahí ya no había más estero. A mí me dolía todo el cuerpo, de tanto temblar y hacer fuerza para aguantar el miedo. Cuando llegué a mi casa, se lo conté a mi papá y me dijo que el miedo me hacía ver esas cosas, y creo que tenía razón en la mitad nada más: en que tenía miedo; pero esos cuatro pares de ojos rojos yo les juro, por todos los santos y dioses, que los vi nítidamente. 
-											</p>
-											<p>
-												Me hubiese quedado tranquilo o apenas con alguna duda de todo ese asunto, de no haber sido por una revelación que tuve un tiempo después. Ocurrió a las dos o tres semanas, cuando mi primo me invitó a un asado en el campo de los Robles, en Cancha Larga. Allí tuve oportunidad de conocer a un viejito, que supo ser tropero por muchos años, pero que ahora solo se dedicaba a criar gallinas y marruecos y tenía una chacrita de algodón. Vivía en Lapacho Viejo, o sea cerca del… maldito Estero. Enseguida me entusiasmé cuando lo escuché hablar. Tenía esa forma de narrar de los que saben contar historias, de los que saben muchas cosas, y no me equivoqué. El viejito era un sabio.
-											</p>
-											<p>
-												Agarré dos vasos con Cinzano y lo llevé al viejito debajo de un aromito cerca del corral, para poder hablar tranquilos. En las galerías y alrededores de la casa, era puro jolgorio, gente hablando o gritando, jugando al truco, o matándose de risa por algún chiste, chicos jugando a la embopa o a las escondidas, y que no dejaban de gritar. Un clima así, no es bueno para contar ni escuchar historias misteriosas. Yo había pensado preguntarle muchas cosas y, sobre todo, escuchar sus historias.
-											</p>
-											<p>
-												Y así fue. Empezamos a hablar y yo, para entrar en confianza, le conté que estudiaba medicina, que estaba en segundo año y que ya sabía bastante sobre el funcionamiento del cuerpo. El viejito estaba maravillado conmigo, porque a la gente de campo le encanta hablar con un médico, o bueno, con un futuro médico como yo. Me empezó a preguntar por unos dolores que tenía en la cintura y las rodillas. Yo no sabía un pito de eso, porque todavía no lo había estudiado, pero para no quedar mal, le dije que esas cosas eran de la edad y de tanto hacer fuerza en el trabajo. Quedó contento con mi diagnóstico y seguimos hablando de algunas enfermedades de las vacas y de las personas.  
-											</p>
-											<p>
-												Después, como quien no quiere la cosa, empecé a preguntarle sobre su vida de tropero, arreando animales, recorriendo montes y cañadas, en fin, quería que empezara a hablar del maldito Estero ¡Y lo logré!
-											</p>
-											<p>
-												Narró muchas situaciones de su vida tropera, algunas muy cómicas, otras desgraciadas, algunas un poco terroríficas, hasta que en un momento se puso más serio, tomó todo lo que quedaba del Cinzano y aclarándose la garganta, con tono grave dijo:
-											</p>
-											<p class="p-2">
-												-Ahora le voy a contar algunas cosas del Estero ese... que seguramente usted, que es un muchacho que está en la ciencia, no me va a creer o pensará que estoy desvariando.
-											</p>
-											<p class="p-2">
-												-¡Pero por favor don Anacleto! Cuente, cuente nomás... –dije al tiempo que el viejito miraba su vaso vacío. Ahí me di cuenta que le estaba haciendo falta más combustible.
-											</p>
-											<p class="p-2">
-												-Espere un momentito don Anacleto –le dije agarrando su vaso y corrí hasta la casa. Llené el vaso con hielo y Cinzano y por las dudas me traje la botella. No iba a arriesgarme a que se quedara sin la bebida en medio del relato.
-											</p>
-											<p>
-												Con los ojos iluminados mirando el vaso lleno, don Anacleto comenzó:
-											</p>
-											<p class="p-2">
-												-Yo trabajé más de cuarenta años arreando animales, buscando bueyes perdidos o cuidando el pastoreo. Siempre en los alrededores o en el mismísimo Estero, o sea que lo conozco como a la palma de mi mano. Después de una caída muy fea de mi caballo, ya no quise seguir en eso y desde hace diez años, me dedico a la chacra y al corral ¡Eh, ya estoy pisando los setenta!
-											</p>
-											<p class="p-2">
-												-¿Y qué me cuenta de ese Estero...? Algunos dicen que ahí ocurrieron cosas bastante fuleras... –dije para que, de una vez por todas, hablara de lo que yo estaba esperando.
-											</p>
-											<p class="p-2">
-												-La gente habla por hablar, pero no saben nada. Nadie anduvo por ese Estero, salvo unos pocos troperos, como yo. Le voy a contar sobre dos casos que vi con mis propios ojos –dijo al tiempo que ingería medio vaso de Cinzano.
-											</p>
-											<p>
-												Para animarlo, ahí nomás llené de nuevo su vaso. Y para que no se sintiera solo, yo también tomaba unos tragos. Ya me estaba dando vueltas la cabeza, por la emoción y... por el Cinzano.
-											</p>
-											<p class="p-2">
-												-Una tardecita, venía desde Pindó arreando unas vaquillonas del finado Ismael Codutti. Se me había hecho muy tarde, porque en el camino se me espantaron y tuve que correrlas un buen rato hasta juntarlas de nuevo. Encima, una de las desgraciadas se me había perdido, y la tuve que buscar más de tres horas. Enseguida comprendí, que me iba a agarrar la noche atravesando ese maldito Estero, porque todavía me faltaban unas dos leguas por lo menos. Decidí acampar, porque no es bueno arrear animales de noche. Arrimé la tropilla contra un mogote y desensillé. Hice un fueguito y me recosté sobre mis calchas. Saqué de la bolsa de avíos unos salamines y galletas ¡Y también mi caramañola con el tinto! ¡Qué embromar! Comí tranquilito, ahí en medio de la noche. Lo único que se escuchaba era alguna que otra lechuza y cada tanto el canto de una urraca. Usted, doctorcito... ¿Sabía que la urraca canta de noche?
-											</p>
-											<p class="p-2">
-												-Sí, eso me han dicho –le mentí para no interrumpir su relato.
-											</p>
-											<p class="p-2">
-												-Bueno, la cosa fue que después de comer y tomarme el vinito, me armé un camastro con los pellones, saqué mi ponchillo para taparme, y puse a mano el 38 y el machete ¡Nunca le vaya a facilitar a la noche en medio del monte! Siempre hay que estar preparado. Puse unos buenos tronquitos para asegurar el fuego durante toda la noche y me dispuse a dormir.  
-											</p>
-											<p class="p-2">
-												-Y... 
-											</p>
-											<p class="p-2">
-												-Enseguida me dormí nomás. No sé cuanto tiempo habrá pasado, pero de repente, los perros empezaron a gemir como si los estuvieran garroteando, o como si hubieran visto algo muy espantoso, algo que los hubiese llenado de miedo ¡Y eso que no es fácil a asustar a la perrada!
-											</p>
-											<p class="p-2">
-												-¿Y...? ¿Qué era...?
-											</p>
-											<p class="p-2">
-												-No me va a creer... Me despierto y me levanto como un resorte, mientras manoteaba mi facón y el 38, y lo que vi me dejó helado. Ni en una pesadilla uno podría ver algo así...
-											</p>
-											<p class="p-2">
-												-¿Qué fue lo que vio don Anacleto?
-											</p>
-											<p class="p-2">
-												-Eran cuatro demonios.
-											</p>
-											<p class="p-2">
-												-¡¿Ehhh?! ¡¿Cuatro demonios?!
-											</p>
-											<p class="p-2">
-												-Como lo escucha doctorcito. Cuatro demonios bajo la forma mitad humana y mitad bestia.
-											</p>
-											<p class="p-2">
-												-¿¡Ehhh?! ¿Cómo...?
-											</p>
-											<p class="p-2">
-												-Eran una cruza de hombre con cabra. La cabeza, el cuello y las patas delanteras, de animal; el resto del cuerpo de persona, pero con muchos pelos, como si tuviera el cuero de la cabra. Tenían los ojos muy rojos y la mirada maligna... diabólica.
-											</p>
-											<p>
-												Yo me quedé helado y patitieso con semejante revelación. La verdad es que no lo podía creer, entonces pregunté:
-											</p>
-											<p class="p-2">
-												-Pero... ¿No será que usted a lo mejor... lo soñó nomás?
-											</p>
-											<p class="p-2">
-												-Mire muchacho, yo sé muy bien lo que es un sueño y lo que es realidad, y le digo también que a mí no me van a venir a arrear así nomás, a querer llevarme por delante. No suelo asustarme con facilidad, pero eso me dejó paralizado. Nunca voy a olvidarme de ese instante cuando desperté, y vi a los demonios parados alrededor del fuego. Apenas intentaba incorporarme, cuando esas bestias empezaron a arremeter contra todo, perros, caballo, el fuego, y... yo también ligué un guampazo en ese despelote. 
-											</p>
-											<p class="p-2">
-												-¿Un guampazo?
-											</p>
-											<p class="p-2">
-												-Como lo oye doctorcito. Y del susto se me cayeron el revólver y el facón. Se armó un remolino de tierra, cenizas y tizones que volaban por el aire y los bramidos o rugidos de esos bichos, que le helaban la sangre a cualquiera ¡Jamás de los jamases escuché semejantes chillidos! Eran una mezcla de alarido humano con balido interminable de cabra, algo espeluznante... –dijo bajando la cabeza, y agarrando el vaso de Cinzano, que de una sola empinada se lo tomó enterito.
-											</p>
-											<p>
-												Yo también apuré mi Cinzano, como para acompañarlo en ese momento tan angustioso, y ataqué de nuevo:
-											</p>
-											<p class="p-2">
-												-¿Y ahí don Anacleto...? ¿Qué hizo?
-											</p>
-											<p class="p-2">
-												-Y... ¿qué voy a hacer con semejantes bestias humanas? Me tiré cuerpo a tierra bajo una enramada y me arrastré monte adentro, escapando de ese lugar. Después me trepé a un árbol como si fuera un mono ¡Todo eso en medio de la oscuridad, mi amigo! ¡Es creer o reventar!
-											</p>
-											<p class="p-2">
-												-Me imagino don Anacleto...
-											</p>
-											<p class="p-2">
-												-Desde el árbol observé el lugar del campamento, y sólo podía distinguir el fuego todo desparramado, tizones por todas partes y chispas en el aire envueltas en una terrible polvareda de tierra y cenizas, y en medio de todo eso, las siluetas de las bestias dando saltos y haciendo firuletes en el aire, sin dejar de lanzar esos terribles alaridos. Era una danza infernal doctorcito. Los perros habían desaparecido, y ni se los escuchaba.
-											</p>
-											<p class="p-2">
-												-¿Y usted seguía arriba del árbol?
-											</p>
-											<p class="p-2">
-												-¡Por supuesto doctorcito! Ni borracho iba a bajar de allí. Creo que habré estado por lo menos dos o tres horas horquetado ahí arriba, hasta que empezó a amanecer y ya podía ver nítidamente el lugar del campamento.
-											</p>
-											<p class="p-2">
-												-¿Y qué vio don Anacleto?
-											</p>
-											<p class="p-2">
-												-¿Y qué voy a ver...? ¡Un tremendo despelote! El lugar parecía como si por allí hubiese pasado una tropilla de redomones...
-											</p>
-											<p class="p-2">
-												-¿Y los demonios...?
-											</p>
-											<p class="p-2">
-												-Los demonios habían desaparecido, igual que mis perros, mi tropa y mi caballo ¡Me quedé a pie, doctorcito!
-											</p>
-											<p class="p-2">
-												-¡A la flauta!
-											</p>
-											<p class="p-2">
-												-Cuando bajé del árbol, me puse a recorrer y mirar el lugar, había un gran desparramo de tizones, de mis calchas, de los arreos, y contra el tronco de un gran algarrobo... lo que vi me dejó mudo...
-											</p>
-											<p class="p-2">
-												-¿Qué vio...?
-											</p>
-											<p class="p-2">
-												-La estampita de la Virgen de Itatí, estaba atravesada por mi facón y clavada en el tronco de ese árbol...
-											</p>
-											<p class="p-2">
-												-¿La estampita? ¿Qué estampita?
-											</p>
-											<p class="p-2">
-												-Una estampita que yo solía llevar cada vez que salía con alguna tropa, para que me protegiera de cualquier cosa. Me la regaló mi suegra. La había traído de Itatí ¡y estaba bendecida! ¿Qué me cuenta?
-											</p>
-											<p class="p-2">
-												-Realmente increíble y para morirse de miedo don...
-											</p>
-											<p class="p-2">
-												-Y sí... Esos demonios no sólo casi me matan del susto, sino que me dejaron solo y a pata en medio del estero. Tuve que caminar unas cinco horas para llegar a mi casa.
-											</p>
-											<p>
-												Ahí sí que ya no me quedó ninguna duda de su historia. Veía su rostro alterado cuando narraba, sus ojitos brillosos, como si en ese mismo momento estuviera viendo a los demonios. Le serví otro vaso de Cinzano, y tomó la mitad en el acto. Se aclaró la garganta y arrancó nuevamente.
-											</p>
-											<p class="p-2">
-												-Y por si me había quedado alguna duda de lo que había visto, al mes más o menos, se me volvieron a presentar los cuatro demonios...
-											</p>
-											<p class="p-2">
-												-¿Otra vez?
-											</p>
-											<p class="p-2">
-												-Sí, fue una madrugada que salimos desde mi chacra arreando una tropilla de veinte vaquillonas. Partimos con mi compadre, el Eugenio Ávalos. Capaz que lo oyó nombrar...
-											</p>
-											<p class="p-2">
-												-No, la verdad que no, don Anacleto.
-											</p>
-											<p class="p-2">
-												-Bueno, la cosa fue que salimos a eso de las tres de la mañana y no habremos hecho ni una hora de camino, y ya bordeábamos el estero, para agarrar el camino a Yatay, cuando los animales se espantaron, como si hubieran visto diez fantasmas juntos. Salieron espantados y empezaron a correr en todas las direcciones, algo que sólo ocurre cuando los animales se asustan mucho. 
-											</p>
-											<p class="p-2">
-												-¿Y ahí...?
-											</p>
-											<p class="p-2">
-												-Empezamos a los chicotazos y gritos, para ver si podíamos reagruparlos, pero esos animales corrían como si hubieran visto al mismísimo demonio ¿Y qué le cuento? ¡No habían visto al demonio! ¡¡Habían visto a los cuatro demonios!!
-											</p>
-											<p class="p-2">
-												-¡¿No me diga?!
-											</p>
-											<p class="p-2">
-												-Sí doctorcito, los mismos cuatro demonios que me habían aparecido, estaban a la orilla del estero, parados y mirándonos... ¡Son los cuatro Diablos! Le grité a mi compadre.
-											</p>
-											<p class="p-2">
-												-¿Y cómo los vieron? Era de madrugada y seguramente estaba todo oscuro...
-											</p>
-											<p class="p-2">
-												-Los ojos, muchacho, esos cuatro pares de ojos rojos brillando como brazas en la oscuridad, son inconfundibles, y los tengo grabados en mi memoria para siempre. Yo enseguida los reconocí, pero además, el Eugenio sacó la linterna y alumbró ¡Y ni le cuento el julepe que se agarró el compadre! Esas cuatro figuras diabólicas, mitad persona y mitad bestia, eran algo que podía matar del susto a cualquiera. El Eugenio sacó el 32 largo y le metió plomo sin asco. Yo también desenfundé mi 38 y le vacié el tanque...
-											</p>
-											<p class="p-2">
-												-¿Y... los mataron?
-											</p>
-											<p class="p-2">
-												-¡Pero doctorcito! ¿Dónde habrá visto o escuchado que puedan matar al demonio? Después de la balacera, los cuatro demonios seguían parados en el mismo lugar como si nada, y ahí se nos vinieron al humo.
-											</p>
-											<p class="p-2">
-												-¡Qué lo tiró! Y ahí me imagino que sacaron los facones, para pelearlos...
-											</p>
-											<p class="p-2">
-												-¿A usted le parece que yo mastico vidrio doctorcito? ¡Ni locos íbamos a enfrentarlos! Cuando vimos que se nos venían, le metimos espuela y chicote a los caballitos y salimos a galope tendido ¡Parecíamos dos cohetes! Meta guacha, gritos y espuela íbamos con el compadre hasta que, de repente, a mi costado, se me aparea uno de los demonios, me mira con sus ojos diabólicos, a menos de un metro de distancia y ahí parece que el caballito también vio al demonio, porque frenó en seco del susto, como para cambiar de rumbo, y yo volé por el aire como un cachilito y me estampé contra un tacurú. A partir de ahí, no me acuerdo de nada y cuando desperté, después de estar cuatro días inconsciente, ya estaba en mi casa, todo golpeado y vendado y con mi pierna derecha rota. Quedé medio descaderado también. A mi compadre lo encontraron a unos doscientos metros de donde yo había caído. Estaba acurrucado entre unos espartillos, hecho un ovillo, con la cabeza entre las piernas...
-											</p>
-											<p class="p-2">
-												-Tendría frío seguramente –deduje.
-											</p>
-											<p class="p-2">
-												-Estaba muerto, doctorcito. Se murió del susto. Así, en esa posición todo acurrucado, suelen encontrarse a las personas cuando mueren del susto. El corazón no le aguantó al compadre y quien sabe todas las cosas que vio y padeció antes de morir. Yo creo que me salvé porque perdí la conciencia. Desde ese día dejé para siempre la vida de tropero.
-											</p>
-											<p class="p-2">
-												Me quedé con la boca abierta. Su historia confirmaba mi visión de los cuatro pares de ojos rojos sobre el estero y el por qué de ese nombre.
-											</p>
-											<p class="p-2">
-												Hablamos un rato más, hasta que se nos terminó la botella de Cinzano, justo cuando ya nos llamaban para el asado.
-											</p>
-									      </div>
-									      <div class="modal-footer">
-									        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-									      </div>
-									    </div>
-									  </div>
-									</div>
-					    		</p>
-					    	</li>
-					    	<li>
-					    		<p>Un extraño en la ventana</p>
-					    	</li>
-					    	<li>
-					    		<p>El ojeo</p>
-					    	</li>
-					    	<li>
-					    		<p>Crispín Soto y El Diablo 
-					    			<span class="text-muted float-right">
-					    				(1ra Parte)
-					    			</span>
-					    		</p>
-					    	</li>
-					    	<li>
-					    		<p>Armas y Diablo</p>
-					    	</li>
-					    	<li>
-					    		<p>La Poseída </p>
-					    	</li>
-					    	<li>
-					    		<p>Una historia sobre el hombre del capote negro</p>
-					    	</li>
-					    </ul>
-					  </div>
-					</div>
-
-				  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-				  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
-				</nav>
-		    </div>
-		  </div>
-	<!-- VII -->
-	  <div class="card">
-	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-7.jpg" alt="Card image cap">
-	    <div class="card-body">
-			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapse7Terror" role="button" aria-expanded="false" aria-controls="collapse7Terror">Índice</a>
-
-				<div class="collapse" id="collapse7Terror">
-				  <div class="card card-body">
-				    <ul>
-				    	<li>
-				    		<p>
-								<!-- Button trigger modal -->
-				    			<a data-toggle="modal" data-target="#ataudModal" href="#">
-					    			El ataúd 
-					    			<small id="leer">
-					    		      <i class="fab fa-readme"></i>
-					    		    </small>
-				    			</a>
-
-								<!-- Modal -->
-								<div class="modal fade bd-example-modal-lg" id="ataudModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-								  <div class="modal-dialog modal-dialog-centered" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">El ataúd</h5>
-								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
-								          <i class="fas fa-times text-muted"></i>
-								        </button>
-								      </div>
-								      <div class="modal-body container belle h4">
-										<p>
-											A los nietos del Sr. Fortunacio les encantaba jugar a las escondidas en casa de su abuelo. Y no era para menos, ya que tenían muchísimos lugares donde esconderse. Además de la inmensa casa con varias piezas, baños, salas y living, cocina y despensa, galerías y garaje, también había dos galpones muy grandes y un amplio patio y jardines con muchos árboles y ligustrinas, y… un lugar increíble, un lugar que ningún otro abuelo de toda la zona podía tener en su casa. Ese lugar era… un salón con ataúdes. Ah… me había olvidado de decirles algo importante: el Sr. Fortunacio era el funebrero del pueblo. ¡Qué emoción indescriptible, qué mezcla espanto y peligro experimentaban esos niños escondiéndose en ese salón!
-										</p>
-										<p>
-											Vivían en el pequeño pueblo de La Leonesa, y la casa estaba situada en el centro de un terreno muy grande y con muchos árboles en los jardines que la rodeaban. Sobre uno de los costados del terreno, estaba el garaje y en el fondo, un gran patio y los dos galpones. El salón de los ataúdes y una pequeña oficina se encontraban hacia el frente.
-										</p>
-										<p>
-											Cada domingo o cada vez que los seis nietos se encontraban en casa de su abuelo, al instante, los más grandecitos ya se ponían a organizar el juego de las escondidas. A veces invitaban a algunos primos o amiguitos del vecindario. ¡Qué mezcla de julepe y entusiasmo tenían esos niños!
-										</p>
-										<p>
-											En realidad, solamente los dos nietos mayores —de once y doce años— y otro niño del vecindario (un tal “Tomasito”), eran los únicos que se animaban a esconderse y permanecer un buen rato dentro de los cajones; unos pocos, a lo sumo si aguantaban dos o tres minutos escondidos en ese tétrico salón; y los restantes apenas si asomaban la nariz a la puerta durante las búsquedas ¡pero ni por las tapas entraban o se escondían allí!
-										</p>
-										<p>
-											En el salón no había muchos cajones, apenas unos seis o siete, y eso era bastante lógico para ese pueblo, ya que la gente no se moría a cada rato, sino que de tanto en tanto alguno estiraba las patas.
-										</p>
-										<p>
-											Entre esos cajones se notaba una diferencia de calidad. Algunos eran muy rústicos y sencillos, de forma rectangular; otros, un poco mejores y de forma hexagonal, lucían brillosos y se notaba la calidad de la madera; y había uno —un solo ataúd— que llamaba poderosamente la atención por su forma, lujo y color: era negro, ovalado y muy lustroso; tenía unas hermosas y resplandecientes manijas de bronce con una gran cruz del mismo metal, adornando la tapa. Había para todos los gustos y de todos los precios. 
-										</p>
-										<p>
-											El ataúd negro se constituyó en la gran atracción de todos los chicos, tanto de los nietos como de los invitados. Nadie quedaba indiferente ante ese siniestro pero atractivo objeto. Los chicos nunca se cansaban de observarlo y estremecerse. Para más, ese cajón estuvo mucho tiempo en el salón, al parecer, porque ningún rico se moría, y hasta tanto eso no sucediera, seguiría estando ahí ¡porque era carísimo!
-										</p>
-										<p>
-											El nieto mayor de don Fortunacio, a quien sus amigos y compañeros de colegio lo habían apodado con toda justicia “Cajoncito”, se sabía todos los precios y siempre recitaba los valores de cada uno a la pandilla de niños. “Cajoncito” abusándose de su sobrenombre y su condición, solía aterrar a muchos cuando sacaba de su bolsillo una cinta métrica e intentaba (remedando a su abuelo) tomar las medidas de los niños ¡que huían despavoridos!
-										</p>
-										<p>
-											Lo que más impresionaba de aquel ataúd era su forma ovalada y su color negro. El único con esa forma y ese color, de los que había ahí. Los demás eran todos de color marrón, algunos más claros otros más oscuros. Ese tétrico ataúd tenía una extraña belleza y ejercía tan poderosa y macabra atracción, que los chicos quedaban hipnotizados cuando fijaban su vista en él. Una rara sensación los invadía a todos, una mezcla de estremecimiento y un frío lacerante que les recorría los huesos. ¡Mamita querida, estar frente a ese cajón!
-										</p>
-										<p>
-											Debido a que los chicos siempre andaban toqueteando los ataúdes, abriendo y cerrándolos, y escondiéndose dentro de ellos, don Fortunacio optó por cerrar con sus trabas el ataúd ovalado, encargando a sus dos nietos mayores que controlasen que nadie lo abriera, así no corría peligro de que lo estropearan. A los niños les encantaba levantar las tapas y observar embobados esa tela blanca y brillante de satén, con que se encontraba alfombrado el interior. ¡Socorro!
-										</p>
-										<p>
-											El ataúd negro era el único que estaba en posición horizontal, sobre una especie de mesa metálica muy angosta, con unas patas con adornos, que lo hacían lucir mucho más. Ocupaba el centro del salón. La tapa era pesadísima, y de un lado tenía bisagras como si fuera una puerta. Un chico solo, apenas si podría levantarla, pero además, tenía puestas las dos trabas, y eso significaba que estaba prohibido tocar. Los restantes cajones estaban en su mayoría inclinados contra la pared y en éstos, levantar la tapa —desde dentro o desde fuera— se hacía más fácil, porque eran mucho más livianas y porque estaban en posición casi vertical. Los cajones estaban dispuestos así, para que cuando los familiares de algún difunto vinieran a elegir uno, pudieran apreciarlos uno por uno; sería lo mismo que cuando uno va a una tienda y se pone a elegir pantalones o sombreros. Los miraban, los tocaban, los destapaban y observaban su interior, preguntaban los precios, y finalmente elegían cual comprar.
-										</p>
-										<p>
-											Para los chicos, jugar a las escondidas allí resultaba muy diferente si lo hacían de día, o cuando empezaba a oscurecer o… en plena noche. Por supuesto que la oscuridad le daba otro clima al salón… y a los ataúdes. De noche, sólo los dos nietos mayores se animaban a entrar, los restantes ¡ni asomaban el hocico por ahí!
-										</p>
-										<p>
-											Cuando uno de los niños se escondía en alguno de los ataúdes y los demás lo buscaban, el momento más tenso y emocionante era el instante de ir destapando uno por uno los cajones. Era un momento único e indescriptible donde todos contenían la respiración con el corazón en la boca, y nadie se animaba a realizar la búsqueda solito, entonces los demás lo acompañaban mirando desde la puerta ese momento crucial. Por más que supieran que fulanito o menganito estaba escondido en tal o cual cajón, no dejaban de llevarse un flor de julepe cuando abrían la tapa y “¡¡¡Aaaaahhhhhhhh!!!” gritaba el escondido. ¡Qué salto daban todos y cómo les latía el corazón a mil por hora! Porque nadie está acostumbrado, ni se acostumbrará jamás, a que se abra un ataúd y aparezca una persona gritando.
-										</p>
-										<p>
-											Pero una vez, habría de ocurrir algo siniestro, macabro y real, que causaría mucho espanto y dolor a todos los habitantes de ese tranquilo pueblo. Algo que empezó queriendo ser una broma, terminó siendo un hecho que nadie podía creer.
-										</p>
-										<p>
-											Todo empezó un domingo de diciembre a la tardecita. Ésa solía ser la hora habitual en la que los chicos comenzaban a organizar el juego. Uno de los chicos del vecindario y amiguito de todos los nietos, que infaltablemente estaba a la hora de las escondidas, habría de ser el protagonista del hecho. Tomás era un niño de diez años, muy pícaro y despierto y al que todos le decían “Tomasito”. Desde hacía un tiempo había estado planeando la forma de darles un buen susto a todos. Y ese domingo había decidido llevar cabo su plan. Según pensaba, era perfecto y sin dudas, los demás se llevarían el julepe más grande de sus vidas. Como conocía toda la casa y las dependencias, cada recoveco o rincón, aprovecharía cuando todos estuvieran en la casa o distraídos, e ingresaría al salón de los ataúdes y allí se escondería en uno de éstos. Apenas los demás chicos ingresaran al salón, él levantaría la tapa apareciendo con un gran grito aterrador. Obviamente ninguno de los chicos estaría preparado o en alerta como ocurre cuando se está buscando a alguien escondido; y como tampoco sospecharían siquiera que pudiera haber alguien allí, el susto sería para matar a cualquiera.
-										</p>
-										<p>
-											Pero ese día, sólo estaban dos de los nietos más pequeños —de cinco y seis años— con sus padres. Los restantes no habían venido, ni tampoco vendrían, porque  esa noche el Sr. Fortunacio y su esposa iban a viajar a Buenos Aires y estaban alistando sus valijas. Se iban de paseo por una semana a la casa de unos familiares de la capital.
-										</p>
-										<p>
-											Esto, Tomasito no lo sabía, ni jamás lo imaginó. Cuando él vio a los más pequeños jugando en la vereda, supuso que los demás estarían adentro, entonces quedó al acecho, esperando el momento justo para entrar sin que nadie lo viera. Se agazapó detrás de un árbol, y allí estuvo espiando por más de quince minutos, hasta que en un momento dado, los dos pequeños ingresaron y fueron hacia los fondos. Con sigilo y rapidez se asomó al murito, y protegido por la penumbra del atardecer, bordeó unas ligustrinas y enseguida llegó hasta el salón sin ser visto por nadie. Ingresó por la puerta de atrás, que casi nunca tenía puesto el candado. Ya adentro y en la semipenumbra, rodeado de ataúdes, sintió un poco de miedo. Eso no lo había pensado ni planeado, y dudó por unos instantes si se quedaba o se rajaba y suspendía todo el plan. Se armó de coraje y se puso a mirar en cuál de los cajones podría esconderse, tratando con eso de no pensar en el miedo que lo invadía. Espió por la ventana que daba hacia atrás, hacia la casa, y vio a los dos niños en la galería, que conversaban mientras caminaban lentamente hacia el patio… y hacia el salón. Supuso que los demás estarían dentro de la casa y que muy pronto se sumarían a los pequeños. 
-										</p>
-										<p>
-											En ese instante se le ocurrió una idea que le pareció fantástica y que aumentaría muchísimo el julepe que les daría a los demás. Decidió esconderse en el ataúd ovalado. En el más tétrico. En el prohibido. Pensó que no ensuciaría ni mancharía el acolchado y telas interiores, ya que recién se había bañado y estaba muy limpito. Se sacó los championes y miró en rededor buscando donde esconderlos. Vio unas cajas de cartón en una esquina, y allí los embutió, disimulando bien la pila de cajas, cosa de que nadie sospechara ni viera nada. Destrabó la tapa del cajón, se subió y se paró en el bordecito de la mesa. Comenzó a levantar la tapa con las dos manos. Se dio cuenta de que era pesadísima. Tuvo que hacer mucha fuerza para levantarla a medias, y ahí metió una de sus piernas y con esto ayudó a mantenerla semilevantada y semiabierta. Lentamente comenzó a meter su cuerpo, sosteniéndola con manos y pies. Finalmente se terminó de acostar, dejando caer la pesada tapa.
-										</p>
-										<p>
-											Los dos niños habían comenzado a acercarse al salón, con mucha intriga, miedo y curiosidad. Ahora no estaban sus primos mayores, así que se sentían un poco desorientados. Animándose uno a otro, llegaron hasta la puerta, pero ahí ya les agarró mucho miedo y se miraban y se alentaban, pero no se animaban a abrirla.
-										</p>
-										<p>
-											En eso estaban cuando por un costado apareció don Fortunacio, que los retó por estar jugando ahí, y porque adivinó las pícaras intenciones de ingresar al salón. Los pequeños, apenas vieron acercarse a su abuelo salieron huyendo como rata por tirante hacia la casa. Para evitar nuevos intentos de sus nietos, le echó candado a la puerta y también fue hacia la casa.
-										</p>
-										<p>
-											Un rato más tarde, los padres de los niños junto con éstos se despidieron y partieron. Don Fortunacio y su esposa terminaron de preparar sus valijas y a la media hora, otro de sus hijos vino en auto para llevarlos hasta Resistencia, donde tomarían el colectivo hacia Buenos Aires.
-										</p>
-										<p>
-											En la casa no quedó nadie, bueno… nadie no, quedó Tomasito en el salón de los ataúdes… escondido dentro del ataúd ovalado.
-										</p>
-										<p>
-											El chico comprendió muy pronto lo siniestro de su escondite, y sobre todo, de su situación desesperante y aterradora. Ya tenía experiencia en esconderse en los otros cajones, que casi siempre estaban parados o inclinados, y que sus tapas eran más livianas y fáciles de abrir. Pero ahora era diferente, y nunca había llegado a pensar en la posibilidad de que varios hechos y circunstancias se coordinaran para desembocar en una situación tan macabra y peligrosa. 
-										</p>
-										<p>
-											Sin dudas, Tomasito nunca había imaginado cuánto pesaba la tapa de ese cajón, ni tampoco pensó que se hacía mucho más pesada por estar en posición horizontal. Tampoco se le ocurrió que estando acostado y dentro del ataúd, sus brazos y piernas estarían limitados tanto para realizar movimientos, como para hacer fuerza. Pero lo que ni remotamente podría haber llegado a pensar o imaginar es que ese día no jugarían a las escondidas, y muchísimo peor aún… que ese día se irían todos de la casa.
-										</p>
-										<p>
-											A eso de las nueve de la noche, los padres de Tomasito comenzaron a preocuparse, porque el niño no aparecía. Eso no era habitual, ya que era muy obediente, y nunca hacía nada sin pedir permiso o avisar. Comenzaron la búsqueda por las casas del vecindario, preguntando a unos y a otros. Nadie lo había visto. Algunos chicos, que también solían jugar con él, aseguraban que antes del atardecer lo vieron caminando por la vereda de don Fortunacio. Todos ellos habían ido también a la casa del funebrero para jugar con sus nietos, pero luego se enteraron de que ese día no vendrían los nietos mayores y que no habría juegos de escondidas.
-										</p>
-										<p>
-											Los padres y demás conocidos siguieron buscando cada vez más lejos del vecindario. A eso de las diez de la noche, con toda la angustia y desconsuelo, acudieron a la policía e hicieron la denuncia.
-										</p>
-										<p>
-											Hacia la medianoche, todo el barrio buscaba a Tomasito. Dos linyeras que siempre merodeaban la zona fueron apresados y llevados a declarar, porque eran los principales sospechosos. Un vecino dijo que había visto a un extraño hombre en una bicicleta, con un bolsito negro en su portaequipajes y que desde la tarde andaba dando vueltas por el barrio. Según aseguró, no era del lugar. Todo el barrio y la policía se pusieron a buscar a un hombre desconocido en bicicleta y con un bolsito negro en el portaequipajes. La hermana del padre de Tomasito fue a ver a doña Brasca, una adivinadora del pueblo. Ésta, luego de tirar las cartas, mirar una foto del niño y ver unas raras formas en un vaso de agua, dijo que “el chico no estaba lejos”, y que “buscaran por el barrio”.
-										</p>
-										<p>
-											Esa noche no murió nadie en el pueblo. Si eso llegaba a ocurrir, otro de los hijos de Fortunacio —el mayor— se haría cargo de vender un cajón y de llevarlo hasta la casa donde velaban al difunto. En esa época no existían salones velatorios, y a los muertos se los velaban en el comedor de la propia casa. Apenas se moría, se lo vestía con un traje negro y se lo acostaba en la mesa del comedor, hasta que llegara el cajón. Cuando hacía mucho calor, los velatorios se hacían en el patio. Este muchacho era el único que tenía otra llave de la casa y del salón; era por supuesto el que siempre reemplazaba a su padre cada vez que éste viajaba o se ausentaba.
-										</p>
-										<p>
-											Dentro del cajón, Tomasito había comenzado a inquietarse apenas se cerró la tapa. Primero trató de tranquilizarse, concentrándose en los ruidos externos, para poder saber el momento justo de levantarse y asustar a los que entrasen al salón. Pero se dio cuenta de que no escuchaba nada. Trató de aguantar un poco más, convencido de que en pocos segundos o minutos más ya entrarían todos, o aunque más no fuera, lo harían los nietos mayores. No supo cuántos segundos o minutos transcurrieron, pero enseguida notó que transpiraba, que le costaba respirar… que parecía que se ahogaba. Ya no aguantó más y con sus bracitos flexionados contra el pecho, trataba de empujar la tapa, ayudándose con las rodillas. La tapa ni se movía. En ese instante lo invadió la aterradora desesperación, y se puso a llorar y gritar descontroladamente. Pataleaba y manoteaba todo lo que ese reducido espacio le permitía patalear y manotear. Pegaba cabezazos contra los costados y la tapa del cajón. Todo era inútil. Esos golpes eran muy suaves, pero además, tanto los golpes como los llantos y los gritos, se apagaban y silenciaban dentro de las gruesas maderas y el acolchado del ataúd. Por si faltaba algo… estaba encerrado en un salón completamente cerrado, en una casa deshabitada… sin siquiera nadie cerca que pudiera oír sus gritos de auxilio.
-										</p>
-										<p>
-											A la madrugada, los padres de Tomasito fueron a casa de uno de los hijos de Fortunacio, del que lo había visitado esa tarde con sus dos pequeños hijos. Le preguntaron si no habían visto a Tomasito en casa de don Fortunacio y le respondieron que no, que esa tarde ningún chico del barrio anduvo por la casa.
-										</p>
-										<p>
-											El lunes transcurrió con mucha agitación en La Leonesa. Todo el mundo ya estaba enterado de la desaparición del chico, y el pueblo entero lo buscaba, hasta por los lugares más recónditos. La policía y la gendarmería detenían a cualquier auto que no fuera del lugar —que eran poquísimos— y los revisaban de arriba abajo. Le pedían documentos a cualquier persona medio sospechosa. Buscaban por los arroyos y tajamares de los alrededores del pueblo.
-										</p>
-										<p>
-											La hermana del padre de Tomasito nuevamente acudió a la adivinadora, con nuevas fotos de su sobrino. Luego de observar esas imágenes, y de hacer algunas combinaciones con cartas, la mujer habló de nuevo: “el niño no está lejos, se lo aseguro. Las cartas no mienten”.
-										</p>
-										<p>
-											Los padres de los dos pequeños nietos de don Fortunacio, preguntaron y repreguntaron a sus hijos si no habían visto a Tomasito, si no habían jugado con él en la vereda, en la tarde del domingo. Ambos niños aseguraron no haberlo visto en ningún momento, ni en la vereda ni en ninguna parte.
-										</p>
-										<p>
-											Ya había perdido la noción absoluta del tiempo que llevaba encerrado, no sabía si habían pasados unos pocos minutos o largas horas; pero en algún momento comprendió que podría morir asfixiado, porque la dificultad para respirar era cada vez mayor, sumada al pánico del encierro. Fue tal vez la desesperación y el terror a la cercana muerte, lo que le dio una fuerza inusual, que le permitió levantar apenas y por unos instantes, la pesada tapa. La señal más clara de que logró levantarla, fue que sintió una muy tenue pero muy gratificante bocanada de un aire más puro y mucho más fresco, que el del recinto del cajón. 
-										</p>
-										<p>
-											Fue un instante muy fugaz, donde tal vez sólo logró levantarla apenas uno o dos centímetros de su marco, pero lo más importante, fue que su instinto de supervivencia reaccionó de inmediato haciendo algo que podría salvarle la vida: metió la punta de los deditos de su mano izquierda entre la tapa y el marco, impidiendo su cierre completo y permitiendo así, aunque más no fuera, tener una leve abertura por donde ingresaría el aire.
-										</p>
-										<p>
-											Esto, por supuesto, le causó un agudo e intenso dolor, que le hizo gritar, pero por suerte no atinó a retirar la mano. Con las puntas de sus deditos aplastadas, gritaba y lloraba desconsoladamente por el intolerable dolor, por el espanto y el horror. 
-										</p>
-										<p>
-											El martes, la vida en el pueblo transcurrió con mayor agitación que el día anterior, todo el mundo buscaba al niño. Ya habían venido policías y detectives de Resistencia, y se habían iniciado misas de oraciones con pedidos para que Tomasito apareciera con vida.
-										</p>
-										<p>
-											Ya no sentía, o no sabía si sentía dolor en sus dedos. Tenía adormecida toda la mano y el brazo izquierdos. Estaba completamente empapado por la transpiración, por los llantos y el calor sofocante de ese cubículo. No percibía ni su propia voz. Se había quedado afónico de tanto gritar, y de la deshidratación. Ya no tenía fuerzas.
-										</p>
-										<p>
-											El miércoles, la Municipalidad decretó asueto para movilizar a toda la población en la búsqueda de Tomasito. Era la primera vez que en ese tranquilo pueblo sucedía algo tan terrible.
-										</p>
-										<p>
-											En todo el tiempo que llevaba ahí, en algunos momentos creía dormirse, o tal vez se desmayaba por el propio agotamiento de sus fuerzas y por el tremendo desgaste de su atención. Ya no distinguía si le dolían los dedos o no. Ya no los sentía.
-										</p>
-										<p>
-											En cierto momento el aire nuevamente se había puesto intolerable, irrespirable… notaba que se ahogaba. Comenzó a agitarse y el horror más profundo lo invadió, cuando su mano izquierda que se había desprendido del borde de la tapa… cayó sobre su carita.
-										</p>
-										<p>
-											El jueves por la mañana habría de suceder un hecho que nada tenía que ver con Tomasito ni con su desaparición, pero que sería determinante en esa situación. A las ocho de la mañana, falleció uno de los hombres más adinerados del pueblo, don Gilberto Casco. Un tipo de mucha plata, con muchas casas, chacras, vehículos y vacas. Según las malas lenguas, el hombre era un prestamista y ganaba mucho dinero con los intereses de la usura. Cuando falleció, sus hijos quisieron que tuviera un excelente velorio, y por supuesto, un lujoso ataúd.
-										</p>
-										<p>
-											Un hijo, una hija y un yerno del difunto fueron a casa de don Fortunacio a eso de las diez. Golpearon las manos pero nadie les respondía. Los vecinos les dijeron que en la casa no había nadie, porque el hombre estaba en Buenos Aires, que buscaran a su hijo mayor y que él los atendería. Al rato ya encontraron al muchacho y vinieron de nuevo a casa de su padre. Ingresaron en el salón y al instante percibieron un aire espeso e irrespirable. Claro, con ese salón cerrado por varios días y el terrible calor del verano chaqueño, no era para menos. El muchacho se disculpó y de inmediato se puso a abrir puertas y ventanas para que se airease el ambiente. Los deudos, mientras, daban una ojeada a los distintos ataúdes, y casi en el acto se decidieron. Señalaron, por supuesto, al que estaba sobre la mesa: el ataúd negro y ovalado. 
-										</p>
-										<p>
-											Preguntaron el precio, mientras el muchacho le pasaba una franela a la superficie del ataúd, para quitarle el polvillo y que luciera más brilloso. Antes de responderle sobre el valor del mismo, les dijo que era en verdad caro, pero de una calidad inigualable. En tanto hablaba, el muchacho notó una pequeña mancha en uno de los costados, era un pequeño hilo de sangre seca que se extendía desde el borde de la tapa hacia abajo. Quedó sorprendido y un poco molesto y avergonzado de encontrar eso justo cuando había interesados en ese costoso ataúd. Comenzó a refregar disimulada pero frenéticamente con el trapo esa inoportuna mancha, al tiempo que levantaba la tapa, para que así vieran los finos detalles del interior. 
-										</p>
-										<p>
-											Cuando la terminó de levantar, un concierto de gritos, exclamaciones y alaridos se desató entre los presentes. La mujer quedó súbitamente pálida y se desmayó. Los hombres, atónitos, retrocedieron con el terror dibujado en sus rostros, el hijo de don Fortunacio retrocedió mudo de espanto gesticulando y tomándose la cabeza.
-										</p>
-										<p>
-											Allí estaba el cuerpo rígido de Tomasito, con los brazos contraídos sobre su pecho y una mano ensangrentada… con el horror más indecible dibujado en el rostro.
-										</p>
-								      </div>
-								      <div class="modal-footer">
-								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-								      </div>
-								    </div>
-								  </div>
-								</div>
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>Mensajes del Más Allá 
-				    			<span class="text-muted float-right">
-				    				(3ra. Parte - Final)
-				    			</span>
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>El monte de las ánimas</p>
-				    	</li>
-				    	<li>
-				    		<p>La Bestia 
-				    			<span class="text-muted float-right">
-				    				(4ta. Parte)
-				    			</span>
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>
-				    			El velorio del hijo de doña Juana
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>
-				    			Los hermanitos Ávalos
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>Crispín Soto y El Diablo
-				    			<span class="text-muted float-right">
-				    				(4ta. Parte)
-				    			</span>
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>
-				    			El hombre (o el viejo) de la bolsa
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>
-				    			La espera y la despedida
-				    		</p>
-				    	</li>
-				    </ul>
-				  </div>
-				</div>
-
-			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
-			</nav>
-	    </div>
-	  </div>
-	<!-- II -->
-	  <div class="card">
-	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-2.jpg" alt="Card image cap">
-	    <div class="card-body">
-			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapse2Terror" role="button" aria-expanded="false" aria-controls="collapse2Terror">Índice</a>
-
-				<div class="collapse" id="collapse2Terror">
-				  <div class="card card-body">
-				    <ul>
-				    	<li>
-				    		<p>
-								<!-- Button trigger modal -->
-				    			<a data-toggle="modal" data-target="#sonambuloModal" href="#">
-					    			El sonámbulo y La Muerte
-					    			<small id="leer">
-					    		      <i class="fab fa-readme"></i>
-					    		    </small>
-				    			</a>
-
-								<!-- Modal -->
-								<div class="modal fade bd-example-modal-lg" id="sonambuloModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-								  <div class="modal-dialog modal-dialog-centered" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">El sonámbulo y La Muerte</h5>
-								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
-								          <i class="fas fa-times text-muted"></i>
-								        </button>
-								      </div>
-								      <div class="modal-body container belle h4">
-										<p>
-											Mi primo Sergio era sonámbulo, y cada vez que me acuerdo de sus ataques, unas veces me da risa y otras, tristeza; la verdad es que ser sonámbulo no es nada divertido.
-										</p>
-										<p>
-											Cuando empezó con los ataques de sonambulismo, a los diez u once años, no podía acordarse de lo que le ocurría, y siempre nos enterábamos por su mamá o sus hermanos; pero después de esa edad, ya podía relatar con todos los detalles cada vez que le daba uno, y para mí eran los cuentos más fantásticos y terroríficos que podía escuchar.
-										</p>
-										<p>
-											La verdad es que yo presencié solamente uno de sus ataques, el que tuvo una siesta de domingo. Ese día habíamos vuelto de una pesca en puerto Las Palmas, y pienso que ese ataque le dio por todas las cosas que nos ocurrieron en ese viaje de regreso: ¡más yeta no podíamos haber tenido! 
-										</p>
-										<p>
-											Salimos del puerto a la mañana, en nuestro sulky, cansados y mal dormidos, los hermanos Barrero y yo, y a eso de las diez más o menos. Veníamos al trotecito. De repente, el caballo pegó un corcoveo y unos relinchos y quedó desbocado, como loco. Nos pegamos un flor de julepe. Coco tiraba de las riendas para frenarlo y Sergio y yo nos queríamos tirar del sulky, y en eso ¡al suelo todo el mundo!: se cayó el caballo en la cuneta, tumbó el sulky y fuimos a parar a un charco los tres juntos. 
-										</p>
-										<p>
-											El pobre animal empezó a temblar, vomitaba y pataleaba, y nosotros estábamos muy asustados. Recién ahí nos dimos cuenta de que se estaba muriendo el noble caballito, y enseguida se murió del todo nomás. Nos dio mucha pena, porque era muy bueno y guapo. Fue una lástima que estuviera tan viejo.
-										</p>
-										<p>
-											Salimos del charco embarrados hasta la coronilla, desenganchamos el sulky y acomodamos un poco las cosas; entonces Coco, en su condición de hermano mayor y jefe de la expedición, nos dijo que teníamos que ir hasta la casa a buscar otro caballo. 
-										</p>
-										<p class="p-2">
-											—¡¡¡¿A pie hasta la casa?!!! —le gritó Sergio.
-										</p>
-										<p class="p-2">
-											—No hay otro remedio —le contestó Coco.
-										</p>
-										<p>
-											Nos queríamos morir, porque la casa quedaba a unas tres leguas, y si queríamos acortar camino había que atravesar montes, esteros y pajonales. Ahí nomás emprendimos la caminata entrando en un mogote, muertos de hambre y con sueño; cada tanto hablábamos un poco, después maldecíamos contra el caballo y contra Coco, y otras veces caminábamos un largo trecho en absoluto silencio.
-										</p>
-										<p>
-											La cosa es que después de esa travesía de tres o cuatro horas llegamos a la casa, y ahí el tío Luis, el papá de Sergio, mandó a un peón a caballo a rescatar a Coco y al sulky. 
-										</p>
-										<p>
-											Habíamos llegado arrastrando los pies, con todo el cansancio de los tres días de pesca, el julepe con el caballo muerto y encima esa terrible caminata. La tía Isabel nos sirvió un guiso de arroz y nos comimos tres platos cada uno; después nos acostamos a descansar. Sergio se acostó en su pieza y yo en un catre en el patio, debajo de un paraíso. 
-										</p>
-										<p>
-											Al rato me despertaron gritos y golpes. Escuché que Sergio gritaba que no lo maten y que le sacaran esas cosas que tenía en la cabeza… pero lo único que tenía en la cabeza ¡eran sus pelos! 
-										</p>
-										<p>
-											Yo me senté en el catre y medio dormido vi que salían corriendo y gritando, detrás de él, su mamá y su hermana. Lo alcanzaron cerca del corral llorando y dando manotazos. Lo acariciaron y le dijeron que volviera a acostarse. Después de un rato lo convencieron y lo llevaron de vuelta a la cama. 
-										</p>
-										<p>
-											Me acuerdo de que mi tía siempre decía que a un sonámbulo no hay que despertarlo de golpe, porque puede quedar tonto para siempre o morirse del susto. Porque cuando a una persona le da el ataque de sonambulismo, es como si estuviera viviendo otra vida.
-										</p>
-										<p>
-											La cosa es que Sergio durmió toda la tarde y la noche. Cuando se despertó no se acordaba absolutamente de nada.
-										</p>
-										<p>
-											Y así como esta situación, le ocurrieron otras cuantas más, según contaban sus familiares; algunas eran muy graciosas, otras medio peligrosas. 
-										</p>
-										<p>
-											Hasta que un día Sergio me empezó a contar de sus ataques. Me dijo que no sabía si eran cosas que había hecho estando sonámbulo, o si eran pesadillas. Estaba muy afligido, porque sus padres no le creían. Le decían que sólo eran malos sueños, que no hiciera caso, y que no comiera tanto de noche, ni hablara de cosas raras, que con eso se le iban a desaparecer esas pesadillas.
-										</p>
-										<p>
-											Él tenía miedo, porque estaba seguro de que no eran sueños ni pesadillas, sino que se levantaba y, sonámbulo, recorría el corral o la chacra; o lo que es peor, a veces iba hasta el cementerio, que estaba a unos quinientos metros. 
-										</p>
-										<p>
-											Lo primero que me contó fue de algunas noches en las que anduvo por el corral y el gallinero. Los animales estaban tan acostumbrados a verlo que no se asustaban con su presencia ni las vacas, los terneros o gallinas ¡ni los gansos!, y eso que éstos son los animales más bochincheros. Otras noches no solamente paseaba por la chacra de algodón, sino que llegaba hasta el cañaveral.
-										</p>
-										<p>
-											Después yo me di cuenta de que se puso más serio y nervioso, y ahí me empezó a contar lo que más lo atormentaba. Me contó que una noche de luna, con mucha cerrazón, salió de su casa y caminó hasta el cementerio. Entró y recorrió los caminitos entre tumbas y panteones. Recordó que había mucha gente caminando por esos senderos; algunos estaban sentados sobre las tumbas y otros parados. Nadie hablaba. Él tampoco. 
-										</p>
-										<p>
-											En ese instante le dije que estaba muy loco o muy borracho para haber soñado eso, pero él ni siquiera se sonrió, y muy serio me dijo que eso no era nada, y me empezó a contar otra cosa más terrorífica todavía, una cosa que me puso la piel de gallina. Juro que hasta ahora me da escalofríos cuando recuerdo ese relato.
-										</p>
-										<p>
-											Me contó que a la madrugada siguiente se levantó y volvió al cementerio. Entró y empezó a caminar. Había mucha neblina y estaba fresquito. De repente se le apareció una figura nueva: era alta, con una capa negra muy ancha y larga, como la que usan los monjes, con una capucha que no le dejaba ver la cara, ni siquiera la nariz. Lo único que podía ver era su mano, que no tenía carne, era sólo hueso, y en ella llevaba una guadaña.
-										</p>
-										<p class="p-2">
-											—Soy La Muerte —le dijo la figura negra.
-										</p>
-										<p>
-											Y Sergio me juró que no sintió miedo ni nada, simplemente se quedó parado mirándola, sin siquiera poder hablar. Quería preguntarle cosas pero no le salía la voz, y La Muerte parecía adivinarle los pensamientos.
-										</p>
-										<p>
-											Sergio pensó que lo iba a matar.
-										</p>
-										<p class="p-2">
-											—No te preocupes, no te haré nada —le contestó el espectro.
-										</p>
-										<p>
-											Sergio pensó que estaba soñando o que estaba muerto.
-										</p>
-										<p class="p-2">
-											—Estás en el límite de la vida y la muerte, y desde ahí puedes ver muchas cosas —habló el espectro.
-										</p>
-										<p>
-											Sergio pensó que había llegado la hora de su muerte.
-										</p>
-										<p class="p-2">
-											—Todavía no es tu hora, pero si quieres saber la edad a la que morirás, sólo piénsalo y te responderé —dijo el espectro.
-										</p>
-										<p>
-											Sergio se dio cuenta de que todos sus pensamientos eran contestados por La Muerte, y entonces no quiso saber nada más; empezó a asustarlo la idea de saber todo sobre su futuro. Pero no pudo frenar un pensamiento, y pensó en quiénes serían todas esas personas que se paseaban por el cementerio.
-										</p>
-										<p>
-											Y La Muerte respondió:
-										</p>
-										<p class="p-2">
-											—Son las almas de los muertos que todavía están en la tierra, y que ni siquiera saben dónde irán a parar. Y ahora quiero mostrarte algo.
-										</p>
-										<p>
-											Y Sergio siguió a La Muerte hasta una tumba que estaba cerca del tejido. El espectro abrió la tumba y con su guadaña, de un solo golpe, levantó la tapa del cajón negro y ovalado. Ahí se vio el cuerpo de un hombre que le pareció conocido… ¡era don Gilberto Casco!, un hombre que había muerto hacía tres días; un tipo antipático, malo como la peste, que tenía mucha plata y que si te prestaba, seguro que terminabas en la calle, porque siempre había que entregarle las chacras y animales para pagar los intereses. El tío Luis siempre decía que ese tipo era un prestamista estafador.
-										</p>
-										<p>
-											Y La Muerte volvió a hablar:
-										</p>
-										<p class="p-2">
-											—Este tipo era un sinvergüenza que hizo sufrir a mucha gente sólo para tener cada vez más plata; pero lo que no sabía es que esa plata no le serviría de nada, ni siquiera para salvarlo de esto. 
-										</p>
-										<p>
-											Y con un rápido movimiento, La Muerte le encajó un guadañazo y lo descabezó. La cabeza voló por el aire y cayó a un costado. Luego tapó el cajón y la tumba, y agarró la cabeza de los pelos. 
-										</p>
-										<p>
-											Comenzaron a caminar. Fueron hacia el fondo del cementerio y casi en la esquina, La Muerte le mostró un lugar en la tierra: era una especie de círculo donde se notaba que la tierra estaba floja, como removida. La Muerte empezó a escarbar con su guadaña hasta que hizo un pozo de medio metro de hondo, y ahí empezaron a aparecer... ¡otras cabezas sueltas!
-										</p>
-										<p>
-										   La Muerte habló de nuevo:
-										</p>
-										<p class="p-2">
-											—En este lugar entierro las cabezas de las personas que irán al Infierno. Desde aquí ya están en manos del Diablo, y poco a poco, esas cabezas van hundiéndose en la tierra hasta llegar a un río profundo y entrar en los círculos del Infierno.
-										</p>
-										<p>
-											Sergio pensó si El Diablo y La Muerte no serían la misma cosa.
-										</p>
-										<p class="p-2">
-											—No —respondió La Muerte—. Solemos andar juntos, pero no somos la misma cosa.
-										</p>
-										<p>
-											Luego La Muerte agarró la cabeza, la tiró en el pozo y empezó a taparla hasta emparejar la tierra nuevamente.
-										</p>
-										<p>
-											Cuando terminó de alisar el piso, volvieron a caminar entre las tumbas y a conversar; o mejor dicho, Sergio pensaba y La Muerte contestaba. Ya estaban cerca de la salida y Sergio vio una figura diferente de todas las demás; parecía una persona real, de carne y hueso. Se acercaron un poco más y lo reconoció: ¡era Quelito Paredes!, un muchacho del lugar, de unos veintipico de años, con una terrible deficiencia mental, pero que era capaz de reconocer a las personas y hasta podía llamarlas por su nombre. Sergio vio que Quelito movía la boca, reía y gesticulaba, pero él no podía escuchar nada y tampoco podía hablar. Entonces habló La Muerte:
-										</p>
-										<p class="p-2">
-											—En este estado no podrás escuchar ni hablar a ningún ser vivo. Él tampoco puede verme ni escucharme.
-										</p>
-										<p>
-											Y el pobre Quelito seguía gesticulando hablando y lo tomaba del brazo a Sergio, como queriendo llevárselo.
-										</p>
-										<p class="p-2">
-											—Ya puedes irte —dijo La Muerte y se quedó parada en el medio de un caminito, envuelta en la neblina, donde la luna le daba de lleno y parecía agrandar su fantástica figura, haciendo brillar el filoso hierro de su guadaña.
-										</p>
-										<p>
-											Sergio no quería pensar en eso. Lo invadía la desesperación y se esforzaba por pensar en cualquier otra cosa, hasta que finalmente no pudo más y pensó. Pensó... en cuánto faltaría para su muerte.
-										</p>
-										<p class="p-2">
-											—Morirás a los veintiún años —dijo La Muerte, y se alejó caminando entre las tumbas.
-										</p>
-										<p>
-											Y sin darse cuenta, Sergio empezó a llorar y a caminar con Quelito, que lo agarraba de un brazo, reía y gesticulaba.
-										</p>
-										<p>
-											Desde ese momento, Sergio me aseguró que no se acordaba de nada más: no sabía cómo llegó a su casa, ni qué hizo Quelito, ni nada, y que este mismo relato se lo había contado a sus padres, pero éstos le dijeron que había sido simplemente un mal sueño y que pronto olvidaría todo. Entonces Sergio, más preocupado por él mismo que por hacer creer el relato a su familia, un día buscó a Quelito, lo trajo hasta su casa y delante de sus padres le dijo:
-										</p>
-										<p class="p-2">
-											—Quelito, contales que me encontraste la otra noche en el cementerio...
-										</p>
-										<p>
-											Y Quelito, que reía con la risa de los tontos, gesticulaba y se apretaba con todas sus fuerzas las dos manos juntas bajo el mentón, respondió:
-										</p>
-										<p class="p-2">
-											—Iiii, Keko etaba nel cementerio….
-										</p>
-										<p>
-											Los padres de Sergio y sus hermanos lo miraron a Quelito, y luego a él, y casi a coro le respondieron:
-										</p>
-										<p class="p-2">
-											—Cómo le vas a creer, él va a decir cualquier cosa, hasta puede decir que te vio volando. No pienses más en eso.
-										</p>
-										<p>
-											Entonces Sergio, que no terminaba de convencerse, lo llevó a Quelito afuera y allí, cerca del galpón, le prometió que le daría plata para el vino si decía la verdad.
-										</p>
-										<p class="p-2">
-											— ¿Me viste o no me viste en el cementerio? Decime la verdad, si no me viste igual te voy a dar la plata.
-										</p>
-										<p class="p-2">
-											—Iiii, vo etaba nel cementerio…
-										</p>
-										<p>
-											A Sergio lo invadieron la angustia y el miedo… y lloró.
-										</p>
-										<p>
-											Su vida empezó a cambiar: tenía miedo a la muerte. Todo eso le hacía dudar de si habían sido ataques de sonámbulo o pesadillas; ya no sabía a quién creer. Por suerte, en los ataques que tuvo después, ya no andaba por el cementerio ni se encontraba con La Muerte, pero la duda que siempre rondaba su cabeza era saber si esas cosas las soñaba o las vivía como sonámbulo.
-										</p>
-										<p>
-											Ahora, que han pasado más de treinta años de aquellos relatos de mi primo, yo puedo afirmar, con mucha tristeza, que decía la verdad cuando contaba esos ataques de sonambulismo y sus conversaciones con La Muerte. 
-										</p>
-										<p>
-											Pero Sergio ahora ya no está y yo lo sigo extrañando. Murió en la madrugada de un veintiuno de abril, cuando apenas tenía… veintiún años.
-										</p>
-								      </div>
-								      <div class="modal-footer">
-								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-								      </div>
-								    </div>
-								  </div>
-								</div>
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>Eduardo, el lobisón 
-				    			<span class="text-muted float-right">
-				    				(1ra. Parte)
-				    			</span>
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>El fantasma de la panadería</p>
-				    	</li>
-				    	<li>
-				    		<p>El espantapájaros</p>
-				    	</li>
-				    	<li>
-				    		<p>La playa</p>
-				    	</li>
-				    	<li>
-				    		<p>La Leyenda de Mate Cosido</p>
-				    	</li>
-				    </ul>
-				  </div>
-				</div>
-
-			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
-			</nav>
-	    </div>
-	  </div>
 	<!-- V -->
 	  <div class="card">
 	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-5.jpg" alt="Card image cap">
@@ -1087,7 +277,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">El juego de la copa</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">El juego de la copa</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -1691,134 +881,226 @@
 			</nav>
 	    </div>
 	  </div>
-	<!-- VIII -->
+	<!-- II -->
 	  <div class="card">
-	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-8.jpg" alt="Card image cap">
+	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-2.jpg" alt="Card image cap">
 	    <div class="card-body">
 			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapse8Terror" role="button" aria-expanded="false" aria-controls="collapse8Terror">Índice</a>
+			  <a class="btn btn-warning" data-toggle="collapse" href="#collapse2Terror" role="button" aria-expanded="false" aria-controls="collapse2Terror">Índice</a>
 
-				<div class="collapse" id="collapse8Terror">
+				<div class="collapse" id="collapse2Terror">
 				  <div class="card card-body">
 				    <ul>
 				    	<li>
-				    		<p>El cuco</p>
-				    	</li>
-				    	<li>
-				    		<p>El gallo asesino </p>
-				    	</li>
-				    	<li>
-				    		<p>La lampalagua </p>
-				    	</li>
-				    	<li>
 				    		<p>
 								<!-- Button trigger modal -->
-				    			<a data-toggle="modal" data-target="#palometasModal" href="#">
-					    			Palometas
+				    			<a data-toggle="modal" data-target="#sonambuloModal" href="#">
+					    			El sonámbulo y La Muerte
 					    			<small id="leer">
 					    		      <i class="fab fa-readme"></i>
 					    		    </small>
 				    			</a>
 
 								<!-- Modal -->
-								<div class="modal fade bd-example-modal-lg" id="palometasModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal fade bd-example-modal-lg" id="sonambuloModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Palometas</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">El sonámbulo y La Muerte</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
 								      </div>
 								      <div class="modal-body container belle h4">
 										<p>
-											Si los tiburones son los animales más temibles de los mares, las palometas –créanme-, son los pececitos más infinitamente crueles y asesinos que puedan existir en ríos, arroyos o lagunas. No tengan ninguna duda de esto.
+											Mi primo Sergio era sonámbulo, y cada vez que me acuerdo de sus ataques, unas veces me da risa y otras, tristeza; la verdad es que ser sonámbulo no es nada divertido.
 										</p>
 										<p>
-											Cualquiera habrá visto en alguna película o en televisión, lo que ocurre cuando ataca un tiburón. Lo más común es que su aleta asuste a todos los bañistas de una playa y estos salgan corriendo del agua y luego, desde tierra firme, comiencen a sacarle fotos. A lo sumo, a veces se come la pierna o el brazo de un surfista o de alguno que andaba nadando por ahí. Pocas veces se come enterita a una persona, y cuando la morfa, lo hace en dos o tres bocados y listo. Hay poco sufrimiento. Si uno lee la Enciclopedia Británica, para ver qué dice de estos bichos, leemos lo siguiente: “Rápido y certero en sus ataques, el tiburón es el más temido de cuantos animales pueblan los ámbitos acuáticos...”
+											Cuando empezó con los ataques de sonambulismo, a los diez u once años, no podía acordarse de lo que le ocurría, y siempre nos enterábamos por su mamá o sus hermanos; pero después de esa edad, ya podía relatar con todos los detalles cada vez que le daba uno, y para mí eran los cuentos más fantásticos y terroríficos que podía escuchar.
 										</p>
 										<p>
-											¿Y qué le decimos a la Enciclopedia Británica?... ¡Uuuh, mirá cómo tiemblo!
+											La verdad es que yo presencié solamente uno de sus ataques, el que tuvo una siesta de domingo. Ese día habíamos vuelto de una pesca en puerto Las Palmas, y pienso que ese ataque le dio por todas las cosas que nos ocurrieron en ese viaje de regreso: ¡más yeta no podíamos haber tenido! 
 										</p>
 										<p>
-											¡Dejémonos de pavadas! Quiero que sepan una cosa y que se la graben a fuego en vuestras cabecitas: los tiburones en comparación con las palometas, son una manada de ovejas. Unos pollitos enfermos. Y algunos dirán, sí, pero los tiburones pueden medir hasta doce metros y llegar a pesar hasta una tonelada, y las palometas, sólo alcanzan a medir unos veinte o treinta centímetros y pesar no más de un kilo ¿Y yo qué digo?: Ahá, muy bien, es muy cierto, pero quiero ver a alguien de ustedes que se anime a zambullirse en un río y que trate de hacerse amigo de doscientas palometas y después me cuente.
+											Salimos del puerto a la mañana, en nuestro sulky, cansados y mal dormidos, los hermanos Barrero y yo, y a eso de las diez más o menos. Veníamos al trotecito. De repente, el caballo pegó un corcoveo y unos relinchos y quedó desbocado, como loco. Nos pegamos un flor de julepe. Coco tiraba de las riendas para frenarlo y Sergio y yo nos queríamos tirar del sulky, y en eso ¡al suelo todo el mundo!: se cayó el caballo en la cuneta, tumbó el sulky y fuimos a parar a un charco los tres juntos. 
 										</p>
 										<p>
-											Basta de pavadas. Es aconsejable que dejen las fantasías televisivas de los tiburones y pongan atención en esto, que quizá algún día sirva para evitar una desgracia.
+											El pobre animal empezó a temblar, vomitaba y pataleaba, y nosotros estábamos muy asustados. Recién ahí nos dimos cuenta de que se estaba muriendo el noble caballito, y enseguida se murió del todo nomás. Nos dio mucha pena, porque era muy bueno y guapo. Fue una lástima que estuviera tan viejo.
 										</p>
 										<p>
-											Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, perversas, ¿algo más? Sí. Vienen por miles y atacan todas juntas. Nadie, absolutamente nadie, ha sobrevivido al ataque de un ejército de palometas. Pero no se queden tranquilos. Si creyeron que esto es todo lo malo de las palometas, error, hay dos cosas mucho más terrible que se los contaré más adelante.
+											Salimos del charco embarrados hasta la coronilla, desenganchamos el sulky y acomodamos un poco las cosas; entonces Coco, en su condición de hermano mayor y jefe de la expedición, nos dijo que teníamos que ir hasta la casa a buscar otro caballo. 
+										</p>
+										<p class="p-2">
+											—¡¡¡¿A pie hasta la casa?!!! —le gritó Sergio.
+										</p>
+										<p class="p-2">
+											—No hay otro remedio —le contestó Coco.
 										</p>
 										<p>
-											“¿Qué nos dice de las pirañas, señor?” pregunta uno. Nada. Simplemente que son las primitas de las palometas y tienen mucha fama porque las promocionan en televisión y películas, para asustar a la gente.
+											Nos queríamos morir, porque la casa quedaba a unas tres leguas, y si queríamos acortar camino había que atravesar montes, esteros y pajonales. Ahí nomás emprendimos la caminata entrando en un mogote, muertos de hambre y con sueño; cada tanto hablábamos un poco, después maldecíamos contra el caballo y contra Coco, y otras veces caminábamos un largo trecho en absoluto silencio.
 										</p>
 										<p>
-											Hablemos de las palometas. Ya les dije donde se las puede encontrar, pero el asunto es saber si siempre están en el mismo lugar. No. Las palometas siempre andan donde hay mucha carnada, donde están los cardúmenes. Si alguno va a un río o laguna y no hay pique, ni siquiera ve un saltito de algún pececito, entonces con toda seguridad que no hay palometas, porque éstas sólo quieren devorar, devorar y devorar, comerse todo lo que se mueva en el agua. Y nada de comer a la hora del desayuno, almuerzo o merienda, no, no. Comen a cualquier hora y a cada rato, no se llenan nunca.
+											La cosa es que después de esa travesía de tres o cuatro horas llegamos a la casa, y ahí el tío Luis, el papá de Sergio, mandó a un peón a caballo a rescatar a Coco y al sulky. 
 										</p>
 										<p>
-											¿Y cómo son las palometas? Ágiles y veloces. De visión perfecta. Tienen cara de chinchudas, como retobadas. Pareciera que están permanentemente enojadas, por eso tal vez sean tan malas. Son ñatas. Su cuerpo es redondeado como un plato, de color gris plateado y amarillo. Su lomo es gris oscuro y luego más pálido en la mitad de la panza, donde comienza a ser amarillento ¿Tienen espinas o chuzas externas como los bagres o moncholos? No. Ni una chuza ¡pero tienen unos dientes filosísimos! No sé cuántos serán, porque nunca los conté, pero son capaces de masticar cualquier cosa y pulverizarla.  
+											Habíamos llegado arrastrando los pies, con todo el cansancio de los tres días de pesca, el julepe con el caballo muerto y encima esa terrible caminata. La tía Isabel nos sirvió un guiso de arroz y nos comimos tres platos cada uno; después nos acostamos a descansar. Sergio se acostó en su pieza y yo en un catre en el patio, debajo de un paraíso. 
 										</p>
 										<p>
-											A esta altura del relato, alguno ya estará con ganas de preguntarme “¡¿Y cuáles son las dos cosas más terribles de las palometas, señor?! ¡Dígalas de una vez por todas!” Tranquilos, no se sulfuren. Estas son las dos cosas más terribles:
+											Al rato me despertaron gritos y golpes. Escuché que Sergio gritaba que no lo maten y que le sacaran esas cosas que tenía en la cabeza… pero lo único que tenía en la cabeza ¡eran sus pelos! 
 										</p>
 										<p>
-											Primero, por el tamaño y forma de su boca, comen a bocaditos, como que picotean y no necesitan escarbadientes ni tenedores ¿Y eso es lo terrible? Sí. Eso es muy terrible, porque cuando agarran una presa, empiezan a comerla a bocaditos y como atacan entre muchas, el animal atacado ve y siente como le van comiendo su cuerpo poco a poco. Si es un perro que justo tuvo la ocurrencia y se largó a la laguna a refrescarse, de pronto siente una sensación, primero como de cosquilleo, y luego de dolor, empieza a patalear y ladrar en el agua sin entender un pito de lo que está ocurriendo; de pronto ya le falta una pata, al ratito la cola, después desparece el hocico, y así, cuando empieza a darse cuenta, ya desapareció de este mundo. Bueno, ahora piensen en ustedes mismos, imaginen que se están bañando en una laguna del campo de un tío y en cierto momento empiezan a sentir lo mismo que sintió el perro. Se desesperan y quieren empezar a nadar, pero advierten que les falta una mano, luego ven su antebrazo que son solo dos huesos largos y pelados y pocos segundos después, ven vuestro brazo que ya es solamente un hueso largo y pelado. En pocos segundos o minutos, han desaparecido, piel, músculos, tendones, cartílagos y ligamentos. También observan que el agua a su alrededor va tiñéndose de rojo rutilante, y angustiosamente observan miles de chapoteos y aleteos, con gran agitación de las aguas, como si hirviera. Bueno, quiero informarles que en ese preciso momento, están siendo deglutidos por un ejército de palometas, y ni siquiera intenten huir porque será peor. A medida que corran o naden, irán perdiendo parte del cuerpo, y si por milagro llegan a la orilla, no les quedará más que la cabeza y algunas vértebras del cuello. O sea que serán conscientes de que llegaron a la orilla, pero llegaron sólo con la cabeza. El resto del cuerpo ya fue almorzado, y si es así, mejor que a uno lo coman enterito, ¡¿para qué corchos puede servir una cabeza sola?! Como ven, las palometas son tan perversas, que comen a bocaditos y dejan para postre la cabeza, entonces el animal o persona sufre mucho más, al pensar, ver y sentir, cómo su cuerpo va desapareciendo velozmente y a pedacitos. A veces, si las tipas andan con poco apetito, empiezan por comer todo lo más blando, o sea los músculos, la grasa, las tripas, los tendones y los cartílagos, y dejan sólo el esqueleto. Pero si andan muy hambrientas, se comen hasta los huesos.
+											Yo me senté en el catre y medio dormido vi que salían corriendo y gritando, detrás de él, su mamá y su hermana. Lo alcanzaron cerca del corral llorando y dando manotazos. Lo acariciaron y le dijeron que volviera a acostarse. Después de un rato lo convencieron y lo llevaron de vuelta a la cama. 
 										</p>
 										<p>
-											Quiero contarles algo, para que tengan una idea de la velocidad a la que son capaces de comerse a otro pez.
+											Me acuerdo de que mi tía siempre decía que a un sonámbulo no hay que despertarlo de golpe, porque puede quedar tonto para siempre o morirse del susto. Porque cuando a una persona le da el ataque de sonambulismo, es como si estuviera viviendo otra vida.
 										</p>
 										<p>
-											Yo siempre iba a pescar con mi tío y mi primo al río Paraguay, en un lugar llamado la Boca del Quiá, muy cerca de Puerto Las Palmas. Cuando el río estaba en bajante, ese lugar se transformaba en un carnaval de peces, había de todo y del tamaño que se buscara. Millones de mojarritas y cuchilletas, que atraían a miles de mandurés, moncholos, surubíes y dorados, y todos éstos juntos atraían a... las señoritas palometas. 
+											La cosa es que Sergio durmió toda la tarde y la noche. Cuando se despertó no se acordaba absolutamente de nada.
 										</p>
 										<p>
-											Claro, con tantos peces nadando y saltando de aquí para allá, si a uno se le ocurría intentar pescar algo, tirando una liñadita con un anzuelo ensartado en una lombriz, podía jubilarse ahí, que no sacaría absolutamente nada ¿Por qué? Porque cuando hay mucha carnada, ningún pez se va a andar fijando en una lombricita raquítica, ya que hay millones de cosas más ricas para comer ¿Y qué se hace entonces o cómo se pesca? Se usa la pateja. 
+											Y así como esta situación, le ocurrieron otras cuantas más, según contaban sus familiares; algunas eran muy graciosas, otras medio peligrosas. 
 										</p>
 										<p>
-											El asunto era que, cuando el río estaba en esas condiciones, tirábamos la pateja y casi siempre enganchábamos, un manduré, moncholo o surubí de tres y hasta diez o doce kilos; y ahí nomás lo empezábamos a traer hacia la orilla ¿Y qué pasaba? Que cuando lo sacábamos, sólo estaba la cabeza y el esqueleto del cuerpo, porque en los veinte o treinta segundos que transcurrían desde el enganche hasta sacarlo, las palometas lo devoraban. Para tratar de sacar alguno enterito, lo que hacíamos era apenas enganchado, traerlo a toda velocidad, y así con suerte, podíamos tener un pescado casi entero.
+											Hasta que un día Sergio me empezó a contar de sus ataques. Me dijo que no sabía si eran cosas que había hecho estando sonámbulo, o si eran pesadillas. Estaba muy afligido, porque sus padres no le creían. Le decían que sólo eran malos sueños, que no hiciera caso, y que no comiera tanto de noche, ni hablara de cosas raras, que con eso se le iban a desaparecer esas pesadillas.
 										</p>
 										<p>
-											La otra cosa terrible de las palometas: el instinto asesino. Perdura mas allá de la muerte “¡Ésa sí que no te creo!” dirá alguno. No me crean. Qué me importa. Por mí, váyanse a freír mondongo. Pero después no me anden chillando que no les avisé. Les contaré algo que me pasó a mí, o mejor dicho a mi dedito y después hagan lo que quieran.
+											Él tenía miedo, porque estaba seguro de que no eran sueños ni pesadillas, sino que se levantaba y, sonámbulo, recorría el corral o la chacra; o lo que es peor, a veces iba hasta el cementerio, que estaba a unos quinientos metros. 
 										</p>
 										<p>
-											Una vez, habíamos pescado una palometa de unos quince centímetros y la tiramos al pasto a pleno rayo del sol, total, no servía para carnada ni para comer. A las dos o tres horas, no tengo mejor idea que ponerme a investigar y comienzo a revisar su boca y sus agallas. Con un palito le abría la boca, miraba sus terribles dientes, abría sus agallas, para imaginarme cómo respiraba, y después tengo la maldita ocurrencia de meterle el dedo en la boca, para sentir cómo de afilados eran sus dientes. Meto el dedo índice, y cuando estaba explorando la cavidad bucal ¡ñac! ¡¡¡Me mordió la desgraciada!!! Yo saqué la mano como un refucilo pero, ¡la maldita palometa estaba prendida a mi dedito! ¡¡¡Mamita querida!!! ¡Qué susto me llevé! Por suerte me tranquilicé, la bajé al suelo y metí un palo en su boca para abrirla y sacar mi dedito, que me lo había machucado y estaba sangrando. Por suerte no me sacó un pedazo. Después de eso, le encajé unos buenos garrotazos para que se muriera del todo y por el susto que me dio la desgraciada. Cualquiera sabe que un pescado no dura más que unos minutos fuera del agua, porque se muere, como corresponde. El tío me explicó que la palometa en realidad había muerto, pero su espíritu asesino seguía intacto, y eso fue lo que llevó a cerrar su boca sobre mi dedito. 
+											Lo primero que me contó fue de algunas noches en las que anduvo por el corral y el gallinero. Los animales estaban tan acostumbrados a verlo que no se asustaban con su presencia ni las vacas, los terneros o gallinas ¡ni los gansos!, y eso que éstos son los animales más bochincheros. Otras noches no solamente paseaba por la chacra de algodón, sino que llegaba hasta el cañaveral.
 										</p>
 										<p>
-											Bueno, hasta aquí llegamos con la vida y obra de las palometas. Todo esto lo sabe cualquiera. Pero nadie sabe historias de palometas. En las películas o en la televisión solo se habla de las andanzas de tiburones, o a lo sumo, de la orca asesina. Creo que no se habla de palometas, porque hay mucha ignorancia, o porque no quieren asustar demasiado a la gente. Yo tampoco quiero asustar a nadie, pero hay cosas que deben saberse, alguien tiene la obligación de contar, para que la gente se entere. Conozco muchas historias trágicas con palometas, pero sólo voy a contar un caso, uno muy espeluznante.
+											Después yo me di cuenta de que se puso más serio y nervioso, y ahí me empezó a contar lo que más lo atormentaba. Me contó que una noche de luna, con mucha cerrazón, salió de su casa y caminó hasta el cementerio. Entró y recorrió los caminitos entre tumbas y panteones. Recordó que había mucha gente caminando por esos senderos; algunos estaban sentados sobre las tumbas y otros parados. Nadie hablaba. Él tampoco. 
 										</p>
 										<p>
-											Esto ocurrió en Palo Azul hacia fines de los años cincuenta, en el caluroso mes de febrero. Por ese lugar atraviesa el legendario río Guaycurú y ese paraje quedaba a dos o tres leguas de Cancha Larga.
+											En ese instante le dije que estaba muy loco o muy borracho para haber soñado eso, pero él ni siquiera se sonrió, y muy serio me dijo que eso no era nada, y me empezó a contar otra cosa más terrorífica todavía, una cosa que me puso la piel de gallina. Juro que hasta ahora me da escalofríos cuando recuerdo ese relato.
 										</p>
 										<p>
-											A orillas del río Guaycurú vivía una familia, los Ramírez. El hombre, su mujer y ocho hijos. Trabajaban la chacra, tenían algunas vaquitas, caballos, chivos, gallinas, patos, en fin, como cualquier persona que vive en el campo. Y como una bendición, el río estaba a veinte metros de la casa. De allí sacaban el agua para tomar, pescaban, lavaban ropa, se bañaban, más suerte no podían haber tenido por el lugar que les tocó para vivir. Pero jamás podrían haber imaginado... que la desgracia estaría en ese mismo río.
+											Me contó que a la madrugada siguiente se levantó y volvió al cementerio. Entró y empezó a caminar. Había mucha neblina y estaba fresquito. De repente se le apareció una figura nueva: era alta, con una capa negra muy ancha y larga, como la que usan los monjes, con una capucha que no le dejaba ver la cara, ni siquiera la nariz. Lo único que podía ver era su mano, que no tenía carne, era sólo hueso, y en ella llevaba una guadaña.
+										</p>
+										<p class="p-2">
+											—Soy La Muerte —le dijo la figura negra.
 										</p>
 										<p>
-											En esa zona –y en épocas normales- el río era bastante angosto, con unos siete u ocho metros de orilla a orilla, y con una profundidad no mayor a los dos metros. Don Ramirez fabricó allí un puentecito muy precario con un tronco de urunday, mediante el  cual podían cruzar al otro lado sin tener que meterse al agua y nadar. También fabricó un barandita –sobre uno de los costados- para que el caminante tuviera donde apoyarse cuando se largaba a cruzarlo. Había que cruzar con cuidado, ya que el tronco era casi totalmente cilíndrico, y la mejor manera de caminar sobre una superficie así, es ir pisando en forma oblicua (como los trapecistas), y más seguro aún, es ir descalzo o con algún calzado de goma y flexible, así se adapta bien a la superficie convexa de la madera. 
+											Y Sergio me juró que no sintió miedo ni nada, simplemente se quedó parado mirándola, sin siquiera poder hablar. Quería preguntarle cosas pero no le salía la voz, y La Muerte parecía adivinarle los pensamientos.
 										</p>
 										<p>
-											Las palometas siempre andan todas juntas, como un ejército de decenas o cientos de soldados. Van de aquí para allá buscando presas fáciles, bueno en realidad cualquier presa es fácil para estas veloces asesinas. Hacen una especie de patrullaje acuático incansable y permanente (recuerden que ellas no duermen ni a la siesta ni a la noche).
+											Sergio pensó que lo iba a matar.
+										</p>
+										<p class="p-2">
+											—No te preocupes, no te haré nada —le contestó el espectro.
 										</p>
 										<p>
-											Ese caluroso día de febrero, el cardumen de palometas andaba a esa altura del río, y de eso se habían dado cuenta porque el agua parecía como si hirviera, o se veían corridas subacuáticas, como si estuvieran corriendo a alguna presa. Los chicos se habían puesto a pescar y por supuesto, lo único que pescaban eran palometas. 
+											Sergio pensó que estaba soñando o que estaba muerto.
+										</p>
+										<p class="p-2">
+											—Estás en el límite de la vida y la muerte, y desde ahí puedes ver muchas cosas —habló el espectro.
 										</p>
 										<p>
-											Ese día la madre tenía que cruzar el río con su bebé recién nacido para ir hasta el rancho de una curandera, donde haría curar al niño, que sufría de empacho. Un negro presentimiento la asustaba y no se animaba a cruzar sobre el puentecito. Le daba miedo ese hervidero arremolinado que se veía ahí abajo. El marido trató de tranquilizarla y le dijo que ella cruzara sola, y que él llevaría al bebé hasta la otra orilla. Y así hicieron, cruzó la mujer y esperó al otro lado en la cabecera del puente. Enseguida el hombre se largó a cruzar con el niño en brazos. 
+											Sergio pensó que había llegado la hora de su muerte.
+										</p>
+										<p class="p-2">
+											—Todavía no es tu hora, pero si quieres saber la edad a la que morirás, sólo piénsalo y te responderé —dijo el espectro.
 										</p>
 										<p>
-											Caminar sobre un tronco siempre es difícil, porque es una superficie cilíndrica y no nos brinda la seguridad de caminar sobre una tabla o sobre el piso plano, pero mucho más difícil y peligroso se hace, si uno tiene las alpargatas embarradas… como las tenía el hombre. Cuando iba por la mitad de la travesía, con una mano apoyada sobre la precaria barandita y la otra sosteniendo a su hijito, se resbaló, se despatarró, se rompió la barandita y el hombre cayó sentado sobre el tronco; esto hizo que soltara al niño y que éste cayera al agua. Y cuando viene la desgracia, nunca viene sola, viene con más desgracias. El hombre no cayó al agua sino que quedó colgado de sus ropas, ya que su ancha bombacha campestre quedó enganchada a un pequeño gajo que sobresalía del tronco-puente. El pobre hombre desesperado intentaba desengancharse y tirarse detrás del bebé, pero estaba colgado e inmovilizado y suspendido en el aire. La madre enloquecida lanzó un grito de horror cuando vio caer a su niño, y sin pensarlo se tiró al agua. Los demás niños desde la orilla, gritaban de desesperación implorando que salvara al bebé.
+											Sergio se dio cuenta de que todos sus pensamientos eran contestados por La Muerte, y entonces no quiso saber nada más; empezó a asustarlo la idea de saber todo sobre su futuro. Pero no pudo frenar un pensamiento, y pensó en quiénes serían todas esas personas que se paseaban por el cementerio.
 										</p>
 										<p>
-											El pequeño niño había desaparecido de la superficie del agua apenas cayó, y en el sitio sólo se veía una intensificación de ese aspecto de “hervidero” y recrudecían los saltos y coletazos de los peces como si hubiesen enloquecido. Cuando la madre se zambulló, el sitio donde había caído su niño ya comenzaba a teñirse de rojo. La mujer enceguecida de espanto y desesperación, manoteaba y chapoteaba a ciegas, hacia todas partes, como si con eso pudiera tocar y encontrar el cuerpo de su hijo. El marido, en tanto, gritaba colgado y pataleando desde el puente -sin poder hacer nada por desprenderse- pidiendo a sus hijos que le trajeran un cuchillo para así cortar su bombacha y desprenderse del gajo. Los niños lloraban, saltaban y se abrazaban de impotencia viendo toda esa macabra situación, porque luego de que la madre se sumergiera, la mancha roja comenzó a agrandarse y extenderse. En pocos minutos, todo en el agua volvió a la calma. Sólo se veía la gran mancha roja que ahora se empezaba a diluir entre las aguas claras del Guaycurú y se alejaba corriente abajo.
+											Y La Muerte respondió:
+										</p>
+										<p class="p-2">
+											—Son las almas de los muertos que todavía están en la tierra, y que ni siquiera saben dónde irán a parar. Y ahora quiero mostrarte algo.
 										</p>
 										<p>
-											Cuando el hombre logró desprenderse, comprendió que ya era muy tarde… demasiado tarde. 
+											Y Sergio siguió a La Muerte hasta una tumba que estaba cerca del tejido. El espectro abrió la tumba y con su guadaña, de un solo golpe, levantó la tapa del cajón negro y ovalado. Ahí se vio el cuerpo de un hombre que le pareció conocido… ¡era don Gilberto Casco!, un hombre que había muerto hacía tres días; un tipo antipático, malo como la peste, que tenía mucha plata y que si te prestaba, seguro que terminabas en la calle, porque siempre había que entregarle las chacras y animales para pagar los intereses. El tío Luis siempre decía que ese tipo era un prestamista estafador.
 										</p>
 										<p>
-											En los días que siguieron, algunos restos óseos del cuerpo de la mujer aparecieron en las orillas, y casi a la semana, a unos cien metros río abajo, un pescador encontró el cráneo del bebé.
+											Y La Muerte volvió a hablar:
 										</p>
-										<p class="text-muted font-italic p-3">
-											Agregado: Por si algún lector cree que uno exagera cuando describe el accionar de estos pececillos, vean en el siguiente link, el entusiasmo de las Srtas. Palometas cuando ven un trozo de carne. Esto acontece en el Chaco, en algún lugar a orillas de nuestro río Paraná:
-											<iframe class="p-1" width="100%" height="315" src="https://www.youtube.com/embed/Yofijzzn2Cc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+										<p class="p-2">
+											—Este tipo era un sinvergüenza que hizo sufrir a mucha gente sólo para tener cada vez más plata; pero lo que no sabía es que esa plata no le serviría de nada, ni siquiera para salvarlo de esto. 
+										</p>
+										<p>
+											Y con un rápido movimiento, La Muerte le encajó un guadañazo y lo descabezó. La cabeza voló por el aire y cayó a un costado. Luego tapó el cajón y la tumba, y agarró la cabeza de los pelos. 
+										</p>
+										<p>
+											Comenzaron a caminar. Fueron hacia el fondo del cementerio y casi en la esquina, La Muerte le mostró un lugar en la tierra: era una especie de círculo donde se notaba que la tierra estaba floja, como removida. La Muerte empezó a escarbar con su guadaña hasta que hizo un pozo de medio metro de hondo, y ahí empezaron a aparecer... ¡otras cabezas sueltas!
+										</p>
+										<p>
+										   La Muerte habló de nuevo:
+										</p>
+										<p class="p-2">
+											—En este lugar entierro las cabezas de las personas que irán al Infierno. Desde aquí ya están en manos del Diablo, y poco a poco, esas cabezas van hundiéndose en la tierra hasta llegar a un río profundo y entrar en los círculos del Infierno.
+										</p>
+										<p>
+											Sergio pensó si El Diablo y La Muerte no serían la misma cosa.
+										</p>
+										<p class="p-2">
+											—No —respondió La Muerte—. Solemos andar juntos, pero no somos la misma cosa.
+										</p>
+										<p>
+											Luego La Muerte agarró la cabeza, la tiró en el pozo y empezó a taparla hasta emparejar la tierra nuevamente.
+										</p>
+										<p>
+											Cuando terminó de alisar el piso, volvieron a caminar entre las tumbas y a conversar; o mejor dicho, Sergio pensaba y La Muerte contestaba. Ya estaban cerca de la salida y Sergio vio una figura diferente de todas las demás; parecía una persona real, de carne y hueso. Se acercaron un poco más y lo reconoció: ¡era Quelito Paredes!, un muchacho del lugar, de unos veintipico de años, con una terrible deficiencia mental, pero que era capaz de reconocer a las personas y hasta podía llamarlas por su nombre. Sergio vio que Quelito movía la boca, reía y gesticulaba, pero él no podía escuchar nada y tampoco podía hablar. Entonces habló La Muerte:
+										</p>
+										<p class="p-2">
+											—En este estado no podrás escuchar ni hablar a ningún ser vivo. Él tampoco puede verme ni escucharme.
+										</p>
+										<p>
+											Y el pobre Quelito seguía gesticulando hablando y lo tomaba del brazo a Sergio, como queriendo llevárselo.
+										</p>
+										<p class="p-2">
+											—Ya puedes irte —dijo La Muerte y se quedó parada en el medio de un caminito, envuelta en la neblina, donde la luna le daba de lleno y parecía agrandar su fantástica figura, haciendo brillar el filoso hierro de su guadaña.
+										</p>
+										<p>
+											Sergio no quería pensar en eso. Lo invadía la desesperación y se esforzaba por pensar en cualquier otra cosa, hasta que finalmente no pudo más y pensó. Pensó... en cuánto faltaría para su muerte.
+										</p>
+										<p class="p-2">
+											—Morirás a los veintiún años —dijo La Muerte, y se alejó caminando entre las tumbas.
+										</p>
+										<p>
+											Y sin darse cuenta, Sergio empezó a llorar y a caminar con Quelito, que lo agarraba de un brazo, reía y gesticulaba.
+										</p>
+										<p>
+											Desde ese momento, Sergio me aseguró que no se acordaba de nada más: no sabía cómo llegó a su casa, ni qué hizo Quelito, ni nada, y que este mismo relato se lo había contado a sus padres, pero éstos le dijeron que había sido simplemente un mal sueño y que pronto olvidaría todo. Entonces Sergio, más preocupado por él mismo que por hacer creer el relato a su familia, un día buscó a Quelito, lo trajo hasta su casa y delante de sus padres le dijo:
+										</p>
+										<p class="p-2">
+											—Quelito, contales que me encontraste la otra noche en el cementerio...
+										</p>
+										<p>
+											Y Quelito, que reía con la risa de los tontos, gesticulaba y se apretaba con todas sus fuerzas las dos manos juntas bajo el mentón, respondió:
+										</p>
+										<p class="p-2">
+											—Iiii, Keko etaba nel cementerio….
+										</p>
+										<p>
+											Los padres de Sergio y sus hermanos lo miraron a Quelito, y luego a él, y casi a coro le respondieron:
+										</p>
+										<p class="p-2">
+											—Cómo le vas a creer, él va a decir cualquier cosa, hasta puede decir que te vio volando. No pienses más en eso.
+										</p>
+										<p>
+											Entonces Sergio, que no terminaba de convencerse, lo llevó a Quelito afuera y allí, cerca del galpón, le prometió que le daría plata para el vino si decía la verdad.
+										</p>
+										<p class="p-2">
+											— ¿Me viste o no me viste en el cementerio? Decime la verdad, si no me viste igual te voy a dar la plata.
+										</p>
+										<p class="p-2">
+											—Iiii, vo etaba nel cementerio…
+										</p>
+										<p>
+											A Sergio lo invadieron la angustia y el miedo… y lloró.
+										</p>
+										<p>
+											Su vida empezó a cambiar: tenía miedo a la muerte. Todo eso le hacía dudar de si habían sido ataques de sonámbulo o pesadillas; ya no sabía a quién creer. Por suerte, en los ataques que tuvo después, ya no andaba por el cementerio ni se encontraba con La Muerte, pero la duda que siempre rondaba su cabeza era saber si esas cosas las soñaba o las vivía como sonámbulo.
+										</p>
+										<p>
+											Ahora, que han pasado más de treinta años de aquellos relatos de mi primo, yo puedo afirmar, con mucha tristeza, que decía la verdad cuando contaba esos ataques de sonambulismo y sus conversaciones con La Muerte. 
+										</p>
+										<p>
+											Pero Sergio ahora ya no está y yo lo sigo extrañando. Murió en la madrugada de un veintiuno de abril, cuando apenas tenía… veintiún años.
 										</p>
 								      </div>
 								      <div class="modal-footer">
@@ -1830,157 +1112,23 @@
 				    		</p>
 				    	</li>
 				    	<li>
-				    		<p>El Pomberito</p>
-				    	</li>
-				    	<li>
-				    		<p>Viento Norte</p>
-				    	</li>
-				    	<li>
-				    		<p>Juegos peligrosos</p>
-				    	</li>
-				    </ul>
-				  </div>
-				</div>
-
-			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
-			</nav>
-	    </div>
-	  </div>
-	<!-- III -->
-	  <div class="card">
-	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-3.jpg" alt="Card image cap">
-	    <div class="card-body">
-			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapse3Terror" role="button" aria-expanded="false" aria-controls="collapse3Terror">Índice</a>
-
-				<div class="collapse" id="collapse3Terror">
-				  <div class="card card-body">
-				    <ul>
-				    	<li>
-				    		<p>El extraño suceso de Elpidio Fleytas</p>
-				    	</li>
-				    	<li>
-				    		<p>
-								<!-- Button trigger modal -->
-				    			<a data-toggle="modal" data-target="#memoriasModal" href="#">
-					    			Memorias de un niño cruel
-					    			<small id="leer">
-					    		      <i class="fab fa-readme"></i>
-					    		    </small>
-				    			</a>
-
-								<!-- Modal -->
-								<div class="modal fade bd-example-modal-lg" id="memoriasModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-								  <div class="modal-dialog modal-dialog-centered" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Memorias de un niño cruel</h5>
-								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
-								          <i class="fas fa-times text-muted"></i>
-								        </button>
-								      </div>
-								      <div class="modal-body container belle h4">
-										<p>
-											Confieso que fui un niño cruel.
-										</p>
-										<p>
-											Ahora, que han pasado más de treinta años, me animo a decirlo, he sido un criminal, un azote implacable, un depredador fulminante que no tenía piedad con nadie.
-										</p>
-										<p>
-											Yo he sido un exterminador de pajaritos, un pequeño Atila sin misericordia ni piedad con ave voladora alguna.
-										</p>
-										<p>
-											Cuando lo hacía era como un juego, en el que yo disfrutaba y me emocionaba bajando cachilitos, gorriones o cualquier bicho volador, pero hoy sé que nunca más lo haría, ni si volviera a ser niño, y tampoco dejaría que mi hijo hiciera lo mismo. La verdad es que en ese tiempo todo el mundo mataba pajaritos o cualquier animal, y a ninguna persona le importaba, ni le daba lástima, bueno... en realidad todo el mundo no, porque mi papá pensaba diferente y me decía que eso estaba mal, pero yo no le hacía caso, y ahora  estoy arrepentido.
-										</p>
-										<p>
-											Ni se imaginan lo cruel que era. Desde los ocho años, ya era un genio con la honda, practicaba todos los días, hondeando latitas, botellas, flores, carteles o focos. A partir de los diez años, tenía una puntería magistral, y yo mismo me fabricaba los bodoques. Los hacía casi siempre con lodo y los secaba al sol para que se endurecieran bien. Los bodoques eran de dos calibres, los grandes, para tiros cortos, los usaba para espantar alguna vaca, perro o gato, y los chiquitos, que parecían bolitas de acero, los utilizaba para matar ¡eran unos bodoques fantásticos!
-										</p>
-										<p>
-											Siempre andaba con dos hondas, una común y otra con elástico reforzado y horqueta más grande, para tiros de larga distancia. Mi abuela María me había hecho una bolsita para los bodoques con un bolsillito al costado, donde llevaba mi cortaplumas, una caja de fósforos, elástico de repuesto, un pedazo de hilo y algunas tuerquitas y bolitas de acero, por si tenía que enfrentarme a algún bicho más grande y peligroso.
-										</p>
-										<p>
-											En la casa de mi abuelita Rufina, en Margarita Belén, era donde me hartaba de matar pajaritos. Ella vivía en pleno campo, en Costa Iné, y yo tenía todos los árboles y mogotes de los alrededores para mi solito. ¡Que emoción me daba salir a mariscar! Casi siempre iba solo, y algunas veces con mis primos o con los hijos de los peones de mi tío.
-										</p>
-										<p>
-											La verdad es que me gustaba más ir solo, porque iba tranquilito, pensando cosas, imaginando algún enfrentamiento con un yaguareté o una víbora, a los que yo enfrentaba a hondazos. También me gustaba imaginar conversaciones con los mismos pajaritos, o sea con mis futuras víctimas.
-										</p>
-										<p>
-											Siempre llevaba dos bolsitas cruzadas en bandolera, una para los bodoques, y otra para los cadáveres de los pajaritos. La bolsa de proyectiles siempre a la izquierda, para poder sacar rápido los bodoques por si había que hacer tiros a repetición.
-										</p>
-										<p>
-											La vez en la que más pajaritos maté, fue un día de mucho calor en el que me recorrí cuatro mogotes en una mañana; ese día maté catorce pajarracos en total, tres pitogüé, una calandria, dos tijeretas, dos palomitas picuí, dos cardenales, dos cachilitos y dos pilinchos. ¡Ese día sí que llené mi bolsa! Los gatos de mi abuelita, locos de contentos conmigo.
-										</p>
-										<p>
-											Un día iba por un caminito, como siempre con la honda preparada, la horqueta en la mano derecha y la izquierda sujetando la bodoquera sobre mi panza, y a unos cinco metros más o menos, sobre el último hilo del alambrado, había un pitogüe distraído, que habrá pensado que yo era un nene buenito, “error señor pitogüe, hoy no es su día de suerte”, me dije, y levantando la horqueta a la altura de mi pecho, casi sin apuntar, disparé mi bodoque y ¡tus! en la cabeza. Primera presa del día.
-										</p>
-										<p>
-											Un trechito más allá, unas cuantas tijeretas sobre el cable del telégrafo, y la verdad es que a las tijeretas si que les tenía bronca, porque son unos pájaros muy embromados, a veces se enojan, te atacan y te hacen correr como un conejo. Me escondí bajo una tala, y gateando llegué hasta un pajonal desde donde las tenía a tiro, solo que tendría que usar mi honda de larga distancia. La saqué y la estiré un poco para que se ablande el elástico, busqué un bodoque  bien chiquito y duro y cargué.
-										</p>
-										<p>
-											Me tomé todo el tiempo del mundo para apuntar, como si fuera un verdadero francotirador, le apunté a la que estaba en el medio del montón, de manera que si erraba, de carambola por ahí, bajaba a otra. Disparé y ¡tus! abajo la señorita tijereta. Las otras se enloquecieron y empezaron a revolotear y a chillar, por ahí se mandaban unos vuelos rasantes cerca del cadáver de su amiga. Yo me tiré cuerpo a tierra y me escondí en el pajonal. Después que se fueron, salí del escondite, junte mi trofeo y listo el pollo.
-										</p>
-										<p>
-											También era muy bueno bajando pilinchos al vuelo, y eso era un lindo entrenamiento para mí, ya que estos pájaros son de una torpeza increíble, vuelan lentamente y a muy baja altura. Cuando los veía venir, simplemente me agachaba un poco, los ponía en la mira de mi horqueta y… “atención Sr. Pilincho, creo que deberá realizar un aterrizaje de emergencia” y ¡tus! plumerío en el aire y abajo el tonto pilincho. A los pilinchos posados en alguna rama, era  fácil matarlos, la verdad es que eso era para principiantes.
-										</p>
-										<p>
-											Bueno, estos fueron asesinatos simples y bastante misericordiosos, sin la menos crueldad, solo era matar por matar. Pero otras veces, cometí crímenes muy crueles, que hasta hoy no los puedo olvidar.
-										</p>
-										<p>
-											Una siesta en que  lloviznaba yo estaba en el galpón de maíz, tallando con mi cortaplumas una horqueta para una nueva honda que me iba a fabricar. En ese momento escuché el canto de unas palomitas picuí. Me asomé por una ventanita y las vi. Estaban sobre una rama muy baja, a unos dos metros, era una parejita que parecían estar iniciando un noviazgo en esa siesta tan romántica, porque estaban juntitas, se cantaban y acariciaban con el pico, y se miraban muy dulcemente. Yo las observé un rato desde mi ventanita, y pensé que evidentemente era una pareja feliz y que estarían hablando de tener una casita, hijitos y quien sabe cuantas cosas más, pero mi instinto asesino fue más fuerte. Agarré mi honda común, y como se me habían terminado los bodoques, busqué unas frutitas de paraíso, elegí la más grande y verde, y me posicioné en la ventanita. Recuerdo un instante, el instante en que ya las tenía en la mira, un segundo antes del disparo fatal, las dos me miraron, como pidiéndome clemencia, como preguntándome porque lo hacía, no había odio en sus miradas, simplemente resignación. Disparé y ¡tus! fusilada, “a buscarse otra novia, Sr. Palomo”.
-										</p>
-										<p>
-											Después de ese día, veía al palomo viudo que revoloteaba y cantaba, pero su canto era diferente, más triste, como un lamento, y siempre andaba cerca de donde yo había matado a su amada.
-										</p>
-										<p>
-											Pero de todos los asesinatos, los más crueles fueron tres, el de un boyero con su nido y toda la familia; el del hornero que había terminado de construir su casita y no llegó a inaugurarla; y el de una paloma torcaza herida. No quiero acordarme porque me da vergüenza, pero debo confesarlo.
-										</p>
-										<p>
-											El nido de boyero lo descubrí cuando perseguía a un cardenal, el boyerito iba y venía trayendo comidita a su familia y yo me escondí para estudiarlo un poco. El crimen fue bastante fácil, porque el nido estaba colgado de una rama muy baja y solo tuve que tener un poco de paciencia y darle confianza. El nido tenía como medio metro de largo, con su agujerito de entrada bien arriba. El tipo venía, se metía por el agujero y ahí adentro se armaba un flor de bochinche, porque allí estaban su esposa y los pichoncitos recién nacidos. Parece que se quedaba a conversar un poco con su familia y luego salía nuevamente a buscar más alimento. Le dejé que hiciera dos o tres viajes ¡para que nadie me reclamara que no permitía que se alimentaran! En el último viaje entró y al cabo de unos minutos ví asomar su piquito y su cabecita por el agujero… y ahí nomás ¡tus! y el boyerito cayó fulminado, pero adentro del nido, o sea que el cadáver cayó entre su mujer y sus hijitos. Ahí me apiadé un poco de los familiares del difunto y me dije, “yo los ayudaré amigos míos, no deben sufrir”, me pare a medio metro del nido y haciendo una especie de parlante con mis manos sobre la boca, y con voz tipo locutor de radio, así les hablé: “a los habitantes de la casa colgante, les comunico que hoy será un día de mucho calor y una mala noticia, los bomberos están de huelga” y acto seguido...¡¡le prendí fuego al nido!! Allí me quedé observando como se consumía esa bolsita de ramas que algún día fue un hogar feliz, y mientras escuchaba los chillidos y quejas de horror y desesperación, de la viuda y sus hijitos que se estaban cocinando vivos, me paré solemnemente como si fuera un cura, y con las manos en plegaria, les di la extremaunción, “corderos de Dios, pónganse contentos, ya están de nuevo todos juntos y el señor los espera en el cielo, amen”, luego hice la santificación y me alejé conforme con mi trabajo
-										</p>
-										<p>
-											Otro día descubrí detrás del galpón, a un hornerito y a su esposa, que al parecer estaban recién casados y alegremente construían su hermosa casita de barro y pajitas. Me acuerdo que la construcción estaba a mitad de altura, y me dije, “adelante Sr. Ingeniero y esposa, construyan con total tranquilidad su vivienda, que cuando finalicen yo les contaré una leyenda campestre”. Y todos los días los espiaba y veía como progresaba esa pintoresca casita. El día que terminaron se veían muy felices y contentos, revoloteaban, se besaban y aleteaban sin parar, luego, se pararon muy orgullosos en el umbral de la puertita, y desde allí miraban el horizonte con la satisfacción de tener ahora un techo propio y tal vez pensando que ya sería hora de tener algunos hijitos. Preparé mi honda de larga distancia, elegí un bodoque muy duro y chiquito, centré mi horqueta en el que parecía ser el machito, y mientras tensaba el elástico, les dediqué el pensamiento de la leyenda, “amigos constructores, en el campo existe una leyenda que afirma que, cuando una familia termina de construir la casa, el hombre se muere” y ¡tus! lo bajé al hornerito, y agregué otro pensamiento, “quería decirles además, que desde hoy esa leyenda vale para ustedes también”. La pobre viudita, volaba acongojada y confundida, y yo me alejé para que pudiera llorar tranquila. Bueno ¡tan malo no era che!
-										</p>
-										<p>
-											El caso de la paloma torcaza creo que fue el peor de todos. El mayor logro para un cazador, es bajarse una de estas a hondazos, porque son muy ariscas, son mucho más grandes que cualquier otro pajarito y cuesta matarlas de un solo balinazo, y lo más importante es que ¡se pueden comer en un rico guiso o asaditas! Yo estaba ansioso por matar mi primera torcaza.
-										</p>
-										<p>
-											Cerca de la casa de mi abuelita, a unos cien metros, había un mogote de algarrobos y aromitos con un pequeño tajamar a un costado y siempre veía que una bandada de torcazas se posaba en esos árboles y luego bajaban a tomar agua. Por un tiempo me dediqué a estudiar todos los movimientos, como si fuera un asesino profesional. Las tipas llegaban a esos de las diez u once de la mañana y ahí se quedaban dos o tres horas. Me fabriqué una capa con una bolsa de arpillera, y le cosí muchas ramas secas y verdes, me la probé, y ¡parecía un arbolito! “Abuelita –pensé- mañana comeremos guiso de paloma”. Apenas me levanté al otro día, me aprovisioné de unos buenos bodoques, y llevé además tres bolitas de acero que saqué de un rulemán viejo. Llegué al mogote, me puse la capa y me escondí entre unos pajonales a la orilla del tajamar. Como no sabía cuanto debería esperar sentado debajo del pajonal, me llevé un pelloncito que lo doblé dos veces y me hice un lindo almohadoncito, sino ¡me quedaba la cola a la miseria! Ese día hacía un calor de la gran siete y después de una hora más o menos, vi a lo lejos que venía la bandada. Llegaron y se posaron sobre las ramas en el mogote. Yo estaba quietísimo, casi ni respiraba, y tenía la tentación de sacudirle un hondazo ahí mismo, pero ya lo tenía bien pensado y no convenía. En ese lugar las palomas están muy alertas, y era un tiro difícil, porque para bajarlas hay que sacudirle un buen hondazo de cerca. Esperé tranquilito hasta que las tipas se convencieron de que estaba solitas, de que no había peligro alguno y podían bajar a refrescarse. Se largaron y aterrizaron en la orilla, algunas caminaron un poquito y cantando su alegre cucurucu-cú, mojaban sus piquitos y sus patitas y se refrescaban. Lo tenía todo calculado y el único movimiento que hice fue estirar el elástico, no podía cometer el menor error. Había cargado una bolita de acero para asegurar el tiro, y me dije “les gusta el balneario chicas?” y ¡tus! le sacudí a una que estaba con sus patitas en el agua, y ahí se armó un revoloteo de la gran flauta, se levantó una polvareda y aletazos en el agua, que yo no entendía que pasaba. Habría unas quince palomas y hasta que levantaron vuelo, y se tranquilizó un  poco el ambiente, yo no veía nada. Pero luego, me encontré con la sorpresa de que no había matado a ninguna, y que solo le había roto el ala a una de las más grandes, que saltaba y aleteaba en el agua salpicando sangre y plumas, como queriendo levantar vuelo, y con una terrible desesperación, porque me vio y seguramente adivinó su triste futuro. Con toda la serenidad y frialdad de un asesino, me acerqué a unos dos metros del ave herida, “Sra. Paloma, creo que tiene problemas en una de sus turbinas”, lentamente saqué otra bolita de acero y cargué, “lo siento, pero la olla de mi abuelita la espera, y no tengo ganas de comer un guiso guacho” y ¡tus! disparé nuevamente y le di en el lomo, pero la desgraciada ¡seguía correteando por el agua! como suplicando y buscando ayuda y desangrándose cada vez más. Entonces pensé que mejor sería sentarme a la orilla y esperar a que se cansara, y de paso estudiaba un poco el movimiento de un pájaro pronto a morir. Me senté sobre un tacurú, corté un pastito y lo empecé a masticar, observando a mi próximo almuerzo. La paloma habrá correteado unos diez minutos más, hasta que se agotó, se arrimó a la orilla, y al parecer quiso refugiarse entre unos camalotes. Me acerqué lentamente cargando en la bodoquera mi tercera bolita de acero, ella me miraba suplicante, como rogando clemencia y diciéndome, “Sr., tengo hijos, tengo una familia y tengo muchas ganas de vivir...”, sin dejar de masticar mi pastito, me paré muy cerquita, tensé al máximo mi honda y poniendo la horqueta a menos de medio metro de la indefensa y aterrorizada paloma le dije, “la felicito Sra. Torcaza, pero yo sin embargo lo único que tengo, es hambre” y ¡tus! con un excelente tiro a quemarropa le destrocé la cabeza y el pico, y se terminó el sufrimiento.
-										</p>
-										<p>
-											Nunca podré olvidar las miradas suplicantes, de esos animalitos que nunca me hicieron nada y a los que yo maté solo por placer. Pero ahora ya es tarde y arrepentirse no sirve para nada, y yo sufro porque esas miradas siempre me aparecen de noche, cuando cierro los ojos.
-										</p>
-										<p>
-											Hasta el día de hoy, muchas veces me despierto sobresaltado o sueño que me despierto, no sé muy bien, pero me parece que todos los pájaros que maté, revolotean y cantan en mi pieza.
-										</p>
-								      </div>
-								      <div class="modal-footer">
-								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-								      </div>
-								    </div>
-								  </div>
-								</div>
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>Eduardo el lobisón 
+				    		<p>Eduardo, el lobisón 
 				    			<span class="text-muted float-right">
-				    				(2da. Parte)
+				    				(1ra. Parte)
 				    			</span>
 				    		</p>
 				    	</li>
 				    	<li>
-				    		<p>Luciano Vallejos el bailarín</p>
+				    		<p>El fantasma de la panadería</p>
 				    	</li>
 				    	<li>
-				    		<p>Paraje Tres Ahorcados</p>
+				    		<p>El espantapájaros</p>
 				    	</li>
 				    	<li>
-				    		<p>El monstruo del guarapo</p>
+				    		<p>La playa</p>
 				    	</li>
 				    	<li>
-				    		<p>La anguila del tajamar</p>
+				    		<p>La Leyenda de Mate Cosido</p>
 				    	</li>
 				    </ul>
 				  </div>
@@ -2030,7 +1178,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">El nido de la ñacanina</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">El nido de la ñacanina</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -2156,28 +1304,852 @@
 			</nav>
 	    </div>
 	  </div>
-</section>
-
-<!-- CUENTO: GÉNERO FANTÁSTICO -->
-<hr class="col-8">
-
-<div class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
-	<span class="h2 text-muted">
-	  <small class="bg-dark p-1 text-light rounded">Cuento</small> <i class="cinzel">Género Fantástico</i>
-	</span>
-</div>
-
-<!-- FANTASMA DE LA PANADERÍA -->
-<hr class="col-2">
-
-<section id="libros-list" class="card-columns p-1">
-	<!-- Fantasma de la panadería -->
+	<!-- III -->
 	  <div class="card">
-	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/El-Fantasma....png" alt="Card image cap">
+	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-3.jpg" alt="Card image cap">
 	    <div class="card-body">
 			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning disabled" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
+			  <a class="btn btn-warning" data-toggle="collapse" href="#collapse3Terror" role="button" aria-expanded="false" aria-controls="collapse3Terror">Índice</a>
+
+				<div class="collapse" id="collapse3Terror">
+				  <div class="card card-body">
+				    <ul>
+				    	<li>
+				    		<p>El extraño suceso de Elpidio Fleytas</p>
+				    	</li>
+				    	<li>
+				    		<p>
+								<!-- Button trigger modal -->
+				    			<a data-toggle="modal" data-target="#memoriasModal" href="#">
+					    			Memorias de un niño cruel
+					    			<small id="leer">
+					    		      <i class="fab fa-readme"></i>
+					    		    </small>
+				    			</a>
+
+								<!-- Modal -->
+								<div class="modal fade bd-example-modal-lg" id="memoriasModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								  <div class="modal-dialog modal-dialog-centered" role="document">
+								    <div class="modal-content">
+								      <div class="modal-header">
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">Memorias de un niño cruel</h5>
+								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
+								          <i class="fas fa-times text-muted"></i>
+								        </button>
+								      </div>
+								      <div class="modal-body container belle h4">
+										<p>
+											Confieso que fui un niño cruel.
+										</p>
+										<p>
+											Ahora, que han pasado más de treinta años, me animo a decirlo, he sido un criminal, un azote implacable, un depredador fulminante que no tenía piedad con nadie.
+										</p>
+										<p>
+											Yo he sido un exterminador de pajaritos, un pequeño Atila sin misericordia ni piedad con ave voladora alguna.
+										</p>
+										<p>
+											Cuando lo hacía era como un juego, en el que yo disfrutaba y me emocionaba bajando cachilitos, gorriones o cualquier bicho volador, pero hoy sé que nunca más lo haría, ni si volviera a ser niño, y tampoco dejaría que mi hijo hiciera lo mismo. La verdad es que en ese tiempo todo el mundo mataba pajaritos o cualquier animal, y a ninguna persona le importaba, ni le daba lástima, bueno... en realidad todo el mundo no, porque mi papá pensaba diferente y me decía que eso estaba mal, pero yo no le hacía caso, y ahora  estoy arrepentido.
+										</p>
+										<p>
+											Ni se imaginan lo cruel que era. Desde los ocho años, ya era un genio con la honda, practicaba todos los días, hondeando latitas, botellas, flores, carteles o focos. A partir de los diez años, tenía una puntería magistral, y yo mismo me fabricaba los bodoques. Los hacía casi siempre con lodo y los secaba al sol para que se endurecieran bien. Los bodoques eran de dos calibres, los grandes, para tiros cortos, los usaba para espantar alguna vaca, perro o gato, y los chiquitos, que parecían bolitas de acero, los utilizaba para matar ¡eran unos bodoques fantásticos!
+										</p>
+										<p>
+											Siempre andaba con dos hondas, una común y otra con elástico reforzado y horqueta más grande, para tiros de larga distancia. Mi abuela María me había hecho una bolsita para los bodoques con un bolsillito al costado, donde llevaba mi cortaplumas, una caja de fósforos, elástico de repuesto, un pedazo de hilo y algunas tuerquitas y bolitas de acero, por si tenía que enfrentarme a algún bicho más grande y peligroso.
+										</p>
+										<p>
+											En la casa de mi abuelita Rufina, en Margarita Belén, era donde me hartaba de matar pajaritos. Ella vivía en pleno campo, en Costa Iné, y yo tenía todos los árboles y mogotes de los alrededores para mi solito. ¡Que emoción me daba salir a mariscar! Casi siempre iba solo, y algunas veces con mis primos o con los hijos de los peones de mi tío.
+										</p>
+										<p>
+											La verdad es que me gustaba más ir solo, porque iba tranquilito, pensando cosas, imaginando algún enfrentamiento con un yaguareté o una víbora, a los que yo enfrentaba a hondazos. También me gustaba imaginar conversaciones con los mismos pajaritos, o sea con mis futuras víctimas.
+										</p>
+										<p>
+											Siempre llevaba dos bolsitas cruzadas en bandolera, una para los bodoques, y otra para los cadáveres de los pajaritos. La bolsa de proyectiles siempre a la izquierda, para poder sacar rápido los bodoques por si había que hacer tiros a repetición.
+										</p>
+										<p>
+											La vez en la que más pajaritos maté, fue un día de mucho calor en el que me recorrí cuatro mogotes en una mañana; ese día maté catorce pajarracos en total, tres pitogüé, una calandria, dos tijeretas, dos palomitas picuí, dos cardenales, dos cachilitos y dos pilinchos. ¡Ese día sí que llené mi bolsa! Los gatos de mi abuelita, locos de contentos conmigo.
+										</p>
+										<p>
+											Un día iba por un caminito, como siempre con la honda preparada, la horqueta en la mano derecha y la izquierda sujetando la bodoquera sobre mi panza, y a unos cinco metros más o menos, sobre el último hilo del alambrado, había un pitogüe distraído, que habrá pensado que yo era un nene buenito, “error señor pitogüe, hoy no es su día de suerte”, me dije, y levantando la horqueta a la altura de mi pecho, casi sin apuntar, disparé mi bodoque y ¡tus! en la cabeza. Primera presa del día.
+										</p>
+										<p>
+											Un trechito más allá, unas cuantas tijeretas sobre el cable del telégrafo, y la verdad es que a las tijeretas si que les tenía bronca, porque son unos pájaros muy embromados, a veces se enojan, te atacan y te hacen correr como un conejo. Me escondí bajo una tala, y gateando llegué hasta un pajonal desde donde las tenía a tiro, solo que tendría que usar mi honda de larga distancia. La saqué y la estiré un poco para que se ablande el elástico, busqué un bodoque  bien chiquito y duro y cargué.
+										</p>
+										<p>
+											Me tomé todo el tiempo del mundo para apuntar, como si fuera un verdadero francotirador, le apunté a la que estaba en el medio del montón, de manera que si erraba, de carambola por ahí, bajaba a otra. Disparé y ¡tus! abajo la señorita tijereta. Las otras se enloquecieron y empezaron a revolotear y a chillar, por ahí se mandaban unos vuelos rasantes cerca del cadáver de su amiga. Yo me tiré cuerpo a tierra y me escondí en el pajonal. Después que se fueron, salí del escondite, junte mi trofeo y listo el pollo.
+										</p>
+										<p>
+											También era muy bueno bajando pilinchos al vuelo, y eso era un lindo entrenamiento para mí, ya que estos pájaros son de una torpeza increíble, vuelan lentamente y a muy baja altura. Cuando los veía venir, simplemente me agachaba un poco, los ponía en la mira de mi horqueta y… “atención Sr. Pilincho, creo que deberá realizar un aterrizaje de emergencia” y ¡tus! plumerío en el aire y abajo el tonto pilincho. A los pilinchos posados en alguna rama, era  fácil matarlos, la verdad es que eso era para principiantes.
+										</p>
+										<p>
+											Bueno, estos fueron asesinatos simples y bastante misericordiosos, sin la menos crueldad, solo era matar por matar. Pero otras veces, cometí crímenes muy crueles, que hasta hoy no los puedo olvidar.
+										</p>
+										<p>
+											Una siesta en que  lloviznaba yo estaba en el galpón de maíz, tallando con mi cortaplumas una horqueta para una nueva honda que me iba a fabricar. En ese momento escuché el canto de unas palomitas picuí. Me asomé por una ventanita y las vi. Estaban sobre una rama muy baja, a unos dos metros, era una parejita que parecían estar iniciando un noviazgo en esa siesta tan romántica, porque estaban juntitas, se cantaban y acariciaban con el pico, y se miraban muy dulcemente. Yo las observé un rato desde mi ventanita, y pensé que evidentemente era una pareja feliz y que estarían hablando de tener una casita, hijitos y quien sabe cuantas cosas más, pero mi instinto asesino fue más fuerte. Agarré mi honda común, y como se me habían terminado los bodoques, busqué unas frutitas de paraíso, elegí la más grande y verde, y me posicioné en la ventanita. Recuerdo un instante, el instante en que ya las tenía en la mira, un segundo antes del disparo fatal, las dos me miraron, como pidiéndome clemencia, como preguntándome porque lo hacía, no había odio en sus miradas, simplemente resignación. Disparé y ¡tus! fusilada, “a buscarse otra novia, Sr. Palomo”.
+										</p>
+										<p>
+											Después de ese día, veía al palomo viudo que revoloteaba y cantaba, pero su canto era diferente, más triste, como un lamento, y siempre andaba cerca de donde yo había matado a su amada.
+										</p>
+										<p>
+											Pero de todos los asesinatos, los más crueles fueron tres, el de un boyero con su nido y toda la familia; el del hornero que había terminado de construir su casita y no llegó a inaugurarla; y el de una paloma torcaza herida. No quiero acordarme porque me da vergüenza, pero debo confesarlo.
+										</p>
+										<p>
+											El nido de boyero lo descubrí cuando perseguía a un cardenal, el boyerito iba y venía trayendo comidita a su familia y yo me escondí para estudiarlo un poco. El crimen fue bastante fácil, porque el nido estaba colgado de una rama muy baja y solo tuve que tener un poco de paciencia y darle confianza. El nido tenía como medio metro de largo, con su agujerito de entrada bien arriba. El tipo venía, se metía por el agujero y ahí adentro se armaba un flor de bochinche, porque allí estaban su esposa y los pichoncitos recién nacidos. Parece que se quedaba a conversar un poco con su familia y luego salía nuevamente a buscar más alimento. Le dejé que hiciera dos o tres viajes ¡para que nadie me reclamara que no permitía que se alimentaran! En el último viaje entró y al cabo de unos minutos ví asomar su piquito y su cabecita por el agujero… y ahí nomás ¡tus! y el boyerito cayó fulminado, pero adentro del nido, o sea que el cadáver cayó entre su mujer y sus hijitos. Ahí me apiadé un poco de los familiares del difunto y me dije, “yo los ayudaré amigos míos, no deben sufrir”, me pare a medio metro del nido y haciendo una especie de parlante con mis manos sobre la boca, y con voz tipo locutor de radio, así les hablé: “a los habitantes de la casa colgante, les comunico que hoy será un día de mucho calor y una mala noticia, los bomberos están de huelga” y acto seguido...¡¡le prendí fuego al nido!! Allí me quedé observando como se consumía esa bolsita de ramas que algún día fue un hogar feliz, y mientras escuchaba los chillidos y quejas de horror y desesperación, de la viuda y sus hijitos que se estaban cocinando vivos, me paré solemnemente como si fuera un cura, y con las manos en plegaria, les di la extremaunción, “corderos de Dios, pónganse contentos, ya están de nuevo todos juntos y el señor los espera en el cielo, amen”, luego hice la santificación y me alejé conforme con mi trabajo
+										</p>
+										<p>
+											Otro día descubrí detrás del galpón, a un hornerito y a su esposa, que al parecer estaban recién casados y alegremente construían su hermosa casita de barro y pajitas. Me acuerdo que la construcción estaba a mitad de altura, y me dije, “adelante Sr. Ingeniero y esposa, construyan con total tranquilidad su vivienda, que cuando finalicen yo les contaré una leyenda campestre”. Y todos los días los espiaba y veía como progresaba esa pintoresca casita. El día que terminaron se veían muy felices y contentos, revoloteaban, se besaban y aleteaban sin parar, luego, se pararon muy orgullosos en el umbral de la puertita, y desde allí miraban el horizonte con la satisfacción de tener ahora un techo propio y tal vez pensando que ya sería hora de tener algunos hijitos. Preparé mi honda de larga distancia, elegí un bodoque muy duro y chiquito, centré mi horqueta en el que parecía ser el machito, y mientras tensaba el elástico, les dediqué el pensamiento de la leyenda, “amigos constructores, en el campo existe una leyenda que afirma que, cuando una familia termina de construir la casa, el hombre se muere” y ¡tus! lo bajé al hornerito, y agregué otro pensamiento, “quería decirles además, que desde hoy esa leyenda vale para ustedes también”. La pobre viudita, volaba acongojada y confundida, y yo me alejé para que pudiera llorar tranquila. Bueno ¡tan malo no era che!
+										</p>
+										<p>
+											El caso de la paloma torcaza creo que fue el peor de todos. El mayor logro para un cazador, es bajarse una de estas a hondazos, porque son muy ariscas, son mucho más grandes que cualquier otro pajarito y cuesta matarlas de un solo balinazo, y lo más importante es que ¡se pueden comer en un rico guiso o asaditas! Yo estaba ansioso por matar mi primera torcaza.
+										</p>
+										<p>
+											Cerca de la casa de mi abuelita, a unos cien metros, había un mogote de algarrobos y aromitos con un pequeño tajamar a un costado y siempre veía que una bandada de torcazas se posaba en esos árboles y luego bajaban a tomar agua. Por un tiempo me dediqué a estudiar todos los movimientos, como si fuera un asesino profesional. Las tipas llegaban a esos de las diez u once de la mañana y ahí se quedaban dos o tres horas. Me fabriqué una capa con una bolsa de arpillera, y le cosí muchas ramas secas y verdes, me la probé, y ¡parecía un arbolito! “Abuelita –pensé- mañana comeremos guiso de paloma”. Apenas me levanté al otro día, me aprovisioné de unos buenos bodoques, y llevé además tres bolitas de acero que saqué de un rulemán viejo. Llegué al mogote, me puse la capa y me escondí entre unos pajonales a la orilla del tajamar. Como no sabía cuanto debería esperar sentado debajo del pajonal, me llevé un pelloncito que lo doblé dos veces y me hice un lindo almohadoncito, sino ¡me quedaba la cola a la miseria! Ese día hacía un calor de la gran siete y después de una hora más o menos, vi a lo lejos que venía la bandada. Llegaron y se posaron sobre las ramas en el mogote. Yo estaba quietísimo, casi ni respiraba, y tenía la tentación de sacudirle un hondazo ahí mismo, pero ya lo tenía bien pensado y no convenía. En ese lugar las palomas están muy alertas, y era un tiro difícil, porque para bajarlas hay que sacudirle un buen hondazo de cerca. Esperé tranquilito hasta que las tipas se convencieron de que estaba solitas, de que no había peligro alguno y podían bajar a refrescarse. Se largaron y aterrizaron en la orilla, algunas caminaron un poquito y cantando su alegre cucurucu-cú, mojaban sus piquitos y sus patitas y se refrescaban. Lo tenía todo calculado y el único movimiento que hice fue estirar el elástico, no podía cometer el menor error. Había cargado una bolita de acero para asegurar el tiro, y me dije “les gusta el balneario chicas?” y ¡tus! le sacudí a una que estaba con sus patitas en el agua, y ahí se armó un revoloteo de la gran flauta, se levantó una polvareda y aletazos en el agua, que yo no entendía que pasaba. Habría unas quince palomas y hasta que levantaron vuelo, y se tranquilizó un  poco el ambiente, yo no veía nada. Pero luego, me encontré con la sorpresa de que no había matado a ninguna, y que solo le había roto el ala a una de las más grandes, que saltaba y aleteaba en el agua salpicando sangre y plumas, como queriendo levantar vuelo, y con una terrible desesperación, porque me vio y seguramente adivinó su triste futuro. Con toda la serenidad y frialdad de un asesino, me acerqué a unos dos metros del ave herida, “Sra. Paloma, creo que tiene problemas en una de sus turbinas”, lentamente saqué otra bolita de acero y cargué, “lo siento, pero la olla de mi abuelita la espera, y no tengo ganas de comer un guiso guacho” y ¡tus! disparé nuevamente y le di en el lomo, pero la desgraciada ¡seguía correteando por el agua! como suplicando y buscando ayuda y desangrándose cada vez más. Entonces pensé que mejor sería sentarme a la orilla y esperar a que se cansara, y de paso estudiaba un poco el movimiento de un pájaro pronto a morir. Me senté sobre un tacurú, corté un pastito y lo empecé a masticar, observando a mi próximo almuerzo. La paloma habrá correteado unos diez minutos más, hasta que se agotó, se arrimó a la orilla, y al parecer quiso refugiarse entre unos camalotes. Me acerqué lentamente cargando en la bodoquera mi tercera bolita de acero, ella me miraba suplicante, como rogando clemencia y diciéndome, “Sr., tengo hijos, tengo una familia y tengo muchas ganas de vivir...”, sin dejar de masticar mi pastito, me paré muy cerquita, tensé al máximo mi honda y poniendo la horqueta a menos de medio metro de la indefensa y aterrorizada paloma le dije, “la felicito Sra. Torcaza, pero yo sin embargo lo único que tengo, es hambre” y ¡tus! con un excelente tiro a quemarropa le destrocé la cabeza y el pico, y se terminó el sufrimiento.
+										</p>
+										<p>
+											Nunca podré olvidar las miradas suplicantes, de esos animalitos que nunca me hicieron nada y a los que yo maté solo por placer. Pero ahora ya es tarde y arrepentirse no sirve para nada, y yo sufro porque esas miradas siempre me aparecen de noche, cuando cierro los ojos.
+										</p>
+										<p>
+											Hasta el día de hoy, muchas veces me despierto sobresaltado o sueño que me despierto, no sé muy bien, pero me parece que todos los pájaros que maté, revolotean y cantan en mi pieza.
+										</p>
+								      </div>
+								      <div class="modal-footer">
+								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+								      </div>
+								    </div>
+								  </div>
+								</div>
+				    		</p>
+				    	</li>
+				    	<li>
+				    		<p>Eduardo el lobisón 
+				    			<span class="text-muted float-right">
+				    				(2da. Parte)
+				    			</span>
+				    		</p>
+				    	</li>
+				    	<li>
+				    		<p>Luciano Vallejos el bailarín</p>
+				    	</li>
+				    	<li>
+				    		<p>Paraje Tres Ahorcados</p>
+				    	</li>
+				    	<li>
+				    		<p>El monstruo del guarapo</p>
+				    	</li>
+				    	<li>
+				    		<p>La anguila del tajamar</p>
+				    	</li>
+				    </ul>
+				  </div>
+				</div>
+
+			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
+			</nav>
+	    </div>
+	  </div>
+	<!-- VII -->
+	  <div class="card">
+	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-7.jpg" alt="Card image cap">
+	    <div class="card-body">
+			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+			  <!-- Button trigger modal -->
+			  <a class="btn btn-warning" data-toggle="collapse" href="#collapse7Terror" role="button" aria-expanded="false" aria-controls="collapse7Terror">Índice</a>
+
+				<div class="collapse" id="collapse7Terror">
+				  <div class="card card-body">
+				    <ul>
+				    	<li>
+				    		<p>
+								<!-- Button trigger modal -->
+				    			<a data-toggle="modal" data-target="#ataudModal" href="#">
+					    			El ataúd 
+					    			<small id="leer">
+					    		      <i class="fab fa-readme"></i>
+					    		    </small>
+				    			</a>
+
+								<!-- Modal -->
+								<div class="modal fade bd-example-modal-lg" id="ataudModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								  <div class="modal-dialog modal-dialog-centered" role="document">
+								    <div class="modal-content">
+								      <div class="modal-header">
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">El ataúd</h5>
+								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
+								          <i class="fas fa-times text-muted"></i>
+								        </button>
+								      </div>
+								      <div class="modal-body container belle h4">
+										<p>
+											A los nietos del Sr. Fortunacio les encantaba jugar a las escondidas en casa de su abuelo. Y no era para menos, ya que tenían muchísimos lugares donde esconderse. Además de la inmensa casa con varias piezas, baños, salas y living, cocina y despensa, galerías y garaje, también había dos galpones muy grandes y un amplio patio y jardines con muchos árboles y ligustrinas, y… un lugar increíble, un lugar que ningún otro abuelo de toda la zona podía tener en su casa. Ese lugar era… un salón con ataúdes. Ah… me había olvidado de decirles algo importante: el Sr. Fortunacio era el funebrero del pueblo. ¡Qué emoción indescriptible, qué mezcla espanto y peligro experimentaban esos niños escondiéndose en ese salón!
+										</p>
+										<p>
+											Vivían en el pequeño pueblo de La Leonesa, y la casa estaba situada en el centro de un terreno muy grande y con muchos árboles en los jardines que la rodeaban. Sobre uno de los costados del terreno, estaba el garaje y en el fondo, un gran patio y los dos galpones. El salón de los ataúdes y una pequeña oficina se encontraban hacia el frente.
+										</p>
+										<p>
+											Cada domingo o cada vez que los seis nietos se encontraban en casa de su abuelo, al instante, los más grandecitos ya se ponían a organizar el juego de las escondidas. A veces invitaban a algunos primos o amiguitos del vecindario. ¡Qué mezcla de julepe y entusiasmo tenían esos niños!
+										</p>
+										<p>
+											En realidad, solamente los dos nietos mayores —de once y doce años— y otro niño del vecindario (un tal “Tomasito”), eran los únicos que se animaban a esconderse y permanecer un buen rato dentro de los cajones; unos pocos, a lo sumo si aguantaban dos o tres minutos escondidos en ese tétrico salón; y los restantes apenas si asomaban la nariz a la puerta durante las búsquedas ¡pero ni por las tapas entraban o se escondían allí!
+										</p>
+										<p>
+											En el salón no había muchos cajones, apenas unos seis o siete, y eso era bastante lógico para ese pueblo, ya que la gente no se moría a cada rato, sino que de tanto en tanto alguno estiraba las patas.
+										</p>
+										<p>
+											Entre esos cajones se notaba una diferencia de calidad. Algunos eran muy rústicos y sencillos, de forma rectangular; otros, un poco mejores y de forma hexagonal, lucían brillosos y se notaba la calidad de la madera; y había uno —un solo ataúd— que llamaba poderosamente la atención por su forma, lujo y color: era negro, ovalado y muy lustroso; tenía unas hermosas y resplandecientes manijas de bronce con una gran cruz del mismo metal, adornando la tapa. Había para todos los gustos y de todos los precios. 
+										</p>
+										<p>
+											El ataúd negro se constituyó en la gran atracción de todos los chicos, tanto de los nietos como de los invitados. Nadie quedaba indiferente ante ese siniestro pero atractivo objeto. Los chicos nunca se cansaban de observarlo y estremecerse. Para más, ese cajón estuvo mucho tiempo en el salón, al parecer, porque ningún rico se moría, y hasta tanto eso no sucediera, seguiría estando ahí ¡porque era carísimo!
+										</p>
+										<p>
+											El nieto mayor de don Fortunacio, a quien sus amigos y compañeros de colegio lo habían apodado con toda justicia “Cajoncito”, se sabía todos los precios y siempre recitaba los valores de cada uno a la pandilla de niños. “Cajoncito” abusándose de su sobrenombre y su condición, solía aterrar a muchos cuando sacaba de su bolsillo una cinta métrica e intentaba (remedando a su abuelo) tomar las medidas de los niños ¡que huían despavoridos!
+										</p>
+										<p>
+											Lo que más impresionaba de aquel ataúd era su forma ovalada y su color negro. El único con esa forma y ese color, de los que había ahí. Los demás eran todos de color marrón, algunos más claros otros más oscuros. Ese tétrico ataúd tenía una extraña belleza y ejercía tan poderosa y macabra atracción, que los chicos quedaban hipnotizados cuando fijaban su vista en él. Una rara sensación los invadía a todos, una mezcla de estremecimiento y un frío lacerante que les recorría los huesos. ¡Mamita querida, estar frente a ese cajón!
+										</p>
+										<p>
+											Debido a que los chicos siempre andaban toqueteando los ataúdes, abriendo y cerrándolos, y escondiéndose dentro de ellos, don Fortunacio optó por cerrar con sus trabas el ataúd ovalado, encargando a sus dos nietos mayores que controlasen que nadie lo abriera, así no corría peligro de que lo estropearan. A los niños les encantaba levantar las tapas y observar embobados esa tela blanca y brillante de satén, con que se encontraba alfombrado el interior. ¡Socorro!
+										</p>
+										<p>
+											El ataúd negro era el único que estaba en posición horizontal, sobre una especie de mesa metálica muy angosta, con unas patas con adornos, que lo hacían lucir mucho más. Ocupaba el centro del salón. La tapa era pesadísima, y de un lado tenía bisagras como si fuera una puerta. Un chico solo, apenas si podría levantarla, pero además, tenía puestas las dos trabas, y eso significaba que estaba prohibido tocar. Los restantes cajones estaban en su mayoría inclinados contra la pared y en éstos, levantar la tapa —desde dentro o desde fuera— se hacía más fácil, porque eran mucho más livianas y porque estaban en posición casi vertical. Los cajones estaban dispuestos así, para que cuando los familiares de algún difunto vinieran a elegir uno, pudieran apreciarlos uno por uno; sería lo mismo que cuando uno va a una tienda y se pone a elegir pantalones o sombreros. Los miraban, los tocaban, los destapaban y observaban su interior, preguntaban los precios, y finalmente elegían cual comprar.
+										</p>
+										<p>
+											Para los chicos, jugar a las escondidas allí resultaba muy diferente si lo hacían de día, o cuando empezaba a oscurecer o… en plena noche. Por supuesto que la oscuridad le daba otro clima al salón… y a los ataúdes. De noche, sólo los dos nietos mayores se animaban a entrar, los restantes ¡ni asomaban el hocico por ahí!
+										</p>
+										<p>
+											Cuando uno de los niños se escondía en alguno de los ataúdes y los demás lo buscaban, el momento más tenso y emocionante era el instante de ir destapando uno por uno los cajones. Era un momento único e indescriptible donde todos contenían la respiración con el corazón en la boca, y nadie se animaba a realizar la búsqueda solito, entonces los demás lo acompañaban mirando desde la puerta ese momento crucial. Por más que supieran que fulanito o menganito estaba escondido en tal o cual cajón, no dejaban de llevarse un flor de julepe cuando abrían la tapa y “¡¡¡Aaaaahhhhhhhh!!!” gritaba el escondido. ¡Qué salto daban todos y cómo les latía el corazón a mil por hora! Porque nadie está acostumbrado, ni se acostumbrará jamás, a que se abra un ataúd y aparezca una persona gritando.
+										</p>
+										<p>
+											Pero una vez, habría de ocurrir algo siniestro, macabro y real, que causaría mucho espanto y dolor a todos los habitantes de ese tranquilo pueblo. Algo que empezó queriendo ser una broma, terminó siendo un hecho que nadie podía creer.
+										</p>
+										<p>
+											Todo empezó un domingo de diciembre a la tardecita. Ésa solía ser la hora habitual en la que los chicos comenzaban a organizar el juego. Uno de los chicos del vecindario y amiguito de todos los nietos, que infaltablemente estaba a la hora de las escondidas, habría de ser el protagonista del hecho. Tomás era un niño de diez años, muy pícaro y despierto y al que todos le decían “Tomasito”. Desde hacía un tiempo había estado planeando la forma de darles un buen susto a todos. Y ese domingo había decidido llevar cabo su plan. Según pensaba, era perfecto y sin dudas, los demás se llevarían el julepe más grande de sus vidas. Como conocía toda la casa y las dependencias, cada recoveco o rincón, aprovecharía cuando todos estuvieran en la casa o distraídos, e ingresaría al salón de los ataúdes y allí se escondería en uno de éstos. Apenas los demás chicos ingresaran al salón, él levantaría la tapa apareciendo con un gran grito aterrador. Obviamente ninguno de los chicos estaría preparado o en alerta como ocurre cuando se está buscando a alguien escondido; y como tampoco sospecharían siquiera que pudiera haber alguien allí, el susto sería para matar a cualquiera.
+										</p>
+										<p>
+											Pero ese día, sólo estaban dos de los nietos más pequeños —de cinco y seis años— con sus padres. Los restantes no habían venido, ni tampoco vendrían, porque  esa noche el Sr. Fortunacio y su esposa iban a viajar a Buenos Aires y estaban alistando sus valijas. Se iban de paseo por una semana a la casa de unos familiares de la capital.
+										</p>
+										<p>
+											Esto, Tomasito no lo sabía, ni jamás lo imaginó. Cuando él vio a los más pequeños jugando en la vereda, supuso que los demás estarían adentro, entonces quedó al acecho, esperando el momento justo para entrar sin que nadie lo viera. Se agazapó detrás de un árbol, y allí estuvo espiando por más de quince minutos, hasta que en un momento dado, los dos pequeños ingresaron y fueron hacia los fondos. Con sigilo y rapidez se asomó al murito, y protegido por la penumbra del atardecer, bordeó unas ligustrinas y enseguida llegó hasta el salón sin ser visto por nadie. Ingresó por la puerta de atrás, que casi nunca tenía puesto el candado. Ya adentro y en la semipenumbra, rodeado de ataúdes, sintió un poco de miedo. Eso no lo había pensado ni planeado, y dudó por unos instantes si se quedaba o se rajaba y suspendía todo el plan. Se armó de coraje y se puso a mirar en cuál de los cajones podría esconderse, tratando con eso de no pensar en el miedo que lo invadía. Espió por la ventana que daba hacia atrás, hacia la casa, y vio a los dos niños en la galería, que conversaban mientras caminaban lentamente hacia el patio… y hacia el salón. Supuso que los demás estarían dentro de la casa y que muy pronto se sumarían a los pequeños. 
+										</p>
+										<p>
+											En ese instante se le ocurrió una idea que le pareció fantástica y que aumentaría muchísimo el julepe que les daría a los demás. Decidió esconderse en el ataúd ovalado. En el más tétrico. En el prohibido. Pensó que no ensuciaría ni mancharía el acolchado y telas interiores, ya que recién se había bañado y estaba muy limpito. Se sacó los championes y miró en rededor buscando donde esconderlos. Vio unas cajas de cartón en una esquina, y allí los embutió, disimulando bien la pila de cajas, cosa de que nadie sospechara ni viera nada. Destrabó la tapa del cajón, se subió y se paró en el bordecito de la mesa. Comenzó a levantar la tapa con las dos manos. Se dio cuenta de que era pesadísima. Tuvo que hacer mucha fuerza para levantarla a medias, y ahí metió una de sus piernas y con esto ayudó a mantenerla semilevantada y semiabierta. Lentamente comenzó a meter su cuerpo, sosteniéndola con manos y pies. Finalmente se terminó de acostar, dejando caer la pesada tapa.
+										</p>
+										<p>
+											Los dos niños habían comenzado a acercarse al salón, con mucha intriga, miedo y curiosidad. Ahora no estaban sus primos mayores, así que se sentían un poco desorientados. Animándose uno a otro, llegaron hasta la puerta, pero ahí ya les agarró mucho miedo y se miraban y se alentaban, pero no se animaban a abrirla.
+										</p>
+										<p>
+											En eso estaban cuando por un costado apareció don Fortunacio, que los retó por estar jugando ahí, y porque adivinó las pícaras intenciones de ingresar al salón. Los pequeños, apenas vieron acercarse a su abuelo salieron huyendo como rata por tirante hacia la casa. Para evitar nuevos intentos de sus nietos, le echó candado a la puerta y también fue hacia la casa.
+										</p>
+										<p>
+											Un rato más tarde, los padres de los niños junto con éstos se despidieron y partieron. Don Fortunacio y su esposa terminaron de preparar sus valijas y a la media hora, otro de sus hijos vino en auto para llevarlos hasta Resistencia, donde tomarían el colectivo hacia Buenos Aires.
+										</p>
+										<p>
+											En la casa no quedó nadie, bueno… nadie no, quedó Tomasito en el salón de los ataúdes… escondido dentro del ataúd ovalado.
+										</p>
+										<p>
+											El chico comprendió muy pronto lo siniestro de su escondite, y sobre todo, de su situación desesperante y aterradora. Ya tenía experiencia en esconderse en los otros cajones, que casi siempre estaban parados o inclinados, y que sus tapas eran más livianas y fáciles de abrir. Pero ahora era diferente, y nunca había llegado a pensar en la posibilidad de que varios hechos y circunstancias se coordinaran para desembocar en una situación tan macabra y peligrosa. 
+										</p>
+										<p>
+											Sin dudas, Tomasito nunca había imaginado cuánto pesaba la tapa de ese cajón, ni tampoco pensó que se hacía mucho más pesada por estar en posición horizontal. Tampoco se le ocurrió que estando acostado y dentro del ataúd, sus brazos y piernas estarían limitados tanto para realizar movimientos, como para hacer fuerza. Pero lo que ni remotamente podría haber llegado a pensar o imaginar es que ese día no jugarían a las escondidas, y muchísimo peor aún… que ese día se irían todos de la casa.
+										</p>
+										<p>
+											A eso de las nueve de la noche, los padres de Tomasito comenzaron a preocuparse, porque el niño no aparecía. Eso no era habitual, ya que era muy obediente, y nunca hacía nada sin pedir permiso o avisar. Comenzaron la búsqueda por las casas del vecindario, preguntando a unos y a otros. Nadie lo había visto. Algunos chicos, que también solían jugar con él, aseguraban que antes del atardecer lo vieron caminando por la vereda de don Fortunacio. Todos ellos habían ido también a la casa del funebrero para jugar con sus nietos, pero luego se enteraron de que ese día no vendrían los nietos mayores y que no habría juegos de escondidas.
+										</p>
+										<p>
+											Los padres y demás conocidos siguieron buscando cada vez más lejos del vecindario. A eso de las diez de la noche, con toda la angustia y desconsuelo, acudieron a la policía e hicieron la denuncia.
+										</p>
+										<p>
+											Hacia la medianoche, todo el barrio buscaba a Tomasito. Dos linyeras que siempre merodeaban la zona fueron apresados y llevados a declarar, porque eran los principales sospechosos. Un vecino dijo que había visto a un extraño hombre en una bicicleta, con un bolsito negro en su portaequipajes y que desde la tarde andaba dando vueltas por el barrio. Según aseguró, no era del lugar. Todo el barrio y la policía se pusieron a buscar a un hombre desconocido en bicicleta y con un bolsito negro en el portaequipajes. La hermana del padre de Tomasito fue a ver a doña Brasca, una adivinadora del pueblo. Ésta, luego de tirar las cartas, mirar una foto del niño y ver unas raras formas en un vaso de agua, dijo que “el chico no estaba lejos”, y que “buscaran por el barrio”.
+										</p>
+										<p>
+											Esa noche no murió nadie en el pueblo. Si eso llegaba a ocurrir, otro de los hijos de Fortunacio —el mayor— se haría cargo de vender un cajón y de llevarlo hasta la casa donde velaban al difunto. En esa época no existían salones velatorios, y a los muertos se los velaban en el comedor de la propia casa. Apenas se moría, se lo vestía con un traje negro y se lo acostaba en la mesa del comedor, hasta que llegara el cajón. Cuando hacía mucho calor, los velatorios se hacían en el patio. Este muchacho era el único que tenía otra llave de la casa y del salón; era por supuesto el que siempre reemplazaba a su padre cada vez que éste viajaba o se ausentaba.
+										</p>
+										<p>
+											Dentro del cajón, Tomasito había comenzado a inquietarse apenas se cerró la tapa. Primero trató de tranquilizarse, concentrándose en los ruidos externos, para poder saber el momento justo de levantarse y asustar a los que entrasen al salón. Pero se dio cuenta de que no escuchaba nada. Trató de aguantar un poco más, convencido de que en pocos segundos o minutos más ya entrarían todos, o aunque más no fuera, lo harían los nietos mayores. No supo cuántos segundos o minutos transcurrieron, pero enseguida notó que transpiraba, que le costaba respirar… que parecía que se ahogaba. Ya no aguantó más y con sus bracitos flexionados contra el pecho, trataba de empujar la tapa, ayudándose con las rodillas. La tapa ni se movía. En ese instante lo invadió la aterradora desesperación, y se puso a llorar y gritar descontroladamente. Pataleaba y manoteaba todo lo que ese reducido espacio le permitía patalear y manotear. Pegaba cabezazos contra los costados y la tapa del cajón. Todo era inútil. Esos golpes eran muy suaves, pero además, tanto los golpes como los llantos y los gritos, se apagaban y silenciaban dentro de las gruesas maderas y el acolchado del ataúd. Por si faltaba algo… estaba encerrado en un salón completamente cerrado, en una casa deshabitada… sin siquiera nadie cerca que pudiera oír sus gritos de auxilio.
+										</p>
+										<p>
+											A la madrugada, los padres de Tomasito fueron a casa de uno de los hijos de Fortunacio, del que lo había visitado esa tarde con sus dos pequeños hijos. Le preguntaron si no habían visto a Tomasito en casa de don Fortunacio y le respondieron que no, que esa tarde ningún chico del barrio anduvo por la casa.
+										</p>
+										<p>
+											El lunes transcurrió con mucha agitación en La Leonesa. Todo el mundo ya estaba enterado de la desaparición del chico, y el pueblo entero lo buscaba, hasta por los lugares más recónditos. La policía y la gendarmería detenían a cualquier auto que no fuera del lugar —que eran poquísimos— y los revisaban de arriba abajo. Le pedían documentos a cualquier persona medio sospechosa. Buscaban por los arroyos y tajamares de los alrededores del pueblo.
+										</p>
+										<p>
+											La hermana del padre de Tomasito nuevamente acudió a la adivinadora, con nuevas fotos de su sobrino. Luego de observar esas imágenes, y de hacer algunas combinaciones con cartas, la mujer habló de nuevo: “el niño no está lejos, se lo aseguro. Las cartas no mienten”.
+										</p>
+										<p>
+											Los padres de los dos pequeños nietos de don Fortunacio, preguntaron y repreguntaron a sus hijos si no habían visto a Tomasito, si no habían jugado con él en la vereda, en la tarde del domingo. Ambos niños aseguraron no haberlo visto en ningún momento, ni en la vereda ni en ninguna parte.
+										</p>
+										<p>
+											Ya había perdido la noción absoluta del tiempo que llevaba encerrado, no sabía si habían pasados unos pocos minutos o largas horas; pero en algún momento comprendió que podría morir asfixiado, porque la dificultad para respirar era cada vez mayor, sumada al pánico del encierro. Fue tal vez la desesperación y el terror a la cercana muerte, lo que le dio una fuerza inusual, que le permitió levantar apenas y por unos instantes, la pesada tapa. La señal más clara de que logró levantarla, fue que sintió una muy tenue pero muy gratificante bocanada de un aire más puro y mucho más fresco, que el del recinto del cajón. 
+										</p>
+										<p>
+											Fue un instante muy fugaz, donde tal vez sólo logró levantarla apenas uno o dos centímetros de su marco, pero lo más importante, fue que su instinto de supervivencia reaccionó de inmediato haciendo algo que podría salvarle la vida: metió la punta de los deditos de su mano izquierda entre la tapa y el marco, impidiendo su cierre completo y permitiendo así, aunque más no fuera, tener una leve abertura por donde ingresaría el aire.
+										</p>
+										<p>
+											Esto, por supuesto, le causó un agudo e intenso dolor, que le hizo gritar, pero por suerte no atinó a retirar la mano. Con las puntas de sus deditos aplastadas, gritaba y lloraba desconsoladamente por el intolerable dolor, por el espanto y el horror. 
+										</p>
+										<p>
+											El martes, la vida en el pueblo transcurrió con mayor agitación que el día anterior, todo el mundo buscaba al niño. Ya habían venido policías y detectives de Resistencia, y se habían iniciado misas de oraciones con pedidos para que Tomasito apareciera con vida.
+										</p>
+										<p>
+											Ya no sentía, o no sabía si sentía dolor en sus dedos. Tenía adormecida toda la mano y el brazo izquierdos. Estaba completamente empapado por la transpiración, por los llantos y el calor sofocante de ese cubículo. No percibía ni su propia voz. Se había quedado afónico de tanto gritar, y de la deshidratación. Ya no tenía fuerzas.
+										</p>
+										<p>
+											El miércoles, la Municipalidad decretó asueto para movilizar a toda la población en la búsqueda de Tomasito. Era la primera vez que en ese tranquilo pueblo sucedía algo tan terrible.
+										</p>
+										<p>
+											En todo el tiempo que llevaba ahí, en algunos momentos creía dormirse, o tal vez se desmayaba por el propio agotamiento de sus fuerzas y por el tremendo desgaste de su atención. Ya no distinguía si le dolían los dedos o no. Ya no los sentía.
+										</p>
+										<p>
+											En cierto momento el aire nuevamente se había puesto intolerable, irrespirable… notaba que se ahogaba. Comenzó a agitarse y el horror más profundo lo invadió, cuando su mano izquierda que se había desprendido del borde de la tapa… cayó sobre su carita.
+										</p>
+										<p>
+											El jueves por la mañana habría de suceder un hecho que nada tenía que ver con Tomasito ni con su desaparición, pero que sería determinante en esa situación. A las ocho de la mañana, falleció uno de los hombres más adinerados del pueblo, don Gilberto Casco. Un tipo de mucha plata, con muchas casas, chacras, vehículos y vacas. Según las malas lenguas, el hombre era un prestamista y ganaba mucho dinero con los intereses de la usura. Cuando falleció, sus hijos quisieron que tuviera un excelente velorio, y por supuesto, un lujoso ataúd.
+										</p>
+										<p>
+											Un hijo, una hija y un yerno del difunto fueron a casa de don Fortunacio a eso de las diez. Golpearon las manos pero nadie les respondía. Los vecinos les dijeron que en la casa no había nadie, porque el hombre estaba en Buenos Aires, que buscaran a su hijo mayor y que él los atendería. Al rato ya encontraron al muchacho y vinieron de nuevo a casa de su padre. Ingresaron en el salón y al instante percibieron un aire espeso e irrespirable. Claro, con ese salón cerrado por varios días y el terrible calor del verano chaqueño, no era para menos. El muchacho se disculpó y de inmediato se puso a abrir puertas y ventanas para que se airease el ambiente. Los deudos, mientras, daban una ojeada a los distintos ataúdes, y casi en el acto se decidieron. Señalaron, por supuesto, al que estaba sobre la mesa: el ataúd negro y ovalado. 
+										</p>
+										<p>
+											Preguntaron el precio, mientras el muchacho le pasaba una franela a la superficie del ataúd, para quitarle el polvillo y que luciera más brilloso. Antes de responderle sobre el valor del mismo, les dijo que era en verdad caro, pero de una calidad inigualable. En tanto hablaba, el muchacho notó una pequeña mancha en uno de los costados, era un pequeño hilo de sangre seca que se extendía desde el borde de la tapa hacia abajo. Quedó sorprendido y un poco molesto y avergonzado de encontrar eso justo cuando había interesados en ese costoso ataúd. Comenzó a refregar disimulada pero frenéticamente con el trapo esa inoportuna mancha, al tiempo que levantaba la tapa, para que así vieran los finos detalles del interior. 
+										</p>
+										<p>
+											Cuando la terminó de levantar, un concierto de gritos, exclamaciones y alaridos se desató entre los presentes. La mujer quedó súbitamente pálida y se desmayó. Los hombres, atónitos, retrocedieron con el terror dibujado en sus rostros, el hijo de don Fortunacio retrocedió mudo de espanto gesticulando y tomándose la cabeza.
+										</p>
+										<p>
+											Allí estaba el cuerpo rígido de Tomasito, con los brazos contraídos sobre su pecho y una mano ensangrentada… con el horror más indecible dibujado en el rostro.
+										</p>
+								      </div>
+								      <div class="modal-footer">
+								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+								      </div>
+								    </div>
+								  </div>
+								</div>
+				    		</p>
+				    	</li>
+				    	<li>
+				    		<p>Mensajes del Más Allá 
+				    			<span class="text-muted float-right">
+				    				(3ra. Parte - Final)
+				    			</span>
+				    		</p>
+				    	</li>
+				    	<li>
+				    		<p>El monte de las ánimas</p>
+				    	</li>
+				    	<li>
+				    		<p>La Bestia 
+				    			<span class="text-muted float-right">
+				    				(4ta. Parte)
+				    			</span>
+				    		</p>
+				    	</li>
+				    	<li>
+				    		<p>
+				    			El velorio del hijo de doña Juana
+				    		</p>
+				    	</li>
+				    	<li>
+				    		<p>
+				    			Los hermanitos Ávalos
+				    		</p>
+				    	</li>
+				    	<li>
+				    		<p>Crispín Soto y El Diablo
+				    			<span class="text-muted float-right">
+				    				(4ta. Parte)
+				    			</span>
+				    		</p>
+				    	</li>
+				    	<li>
+				    		<p>
+				    			El hombre (o el viejo) de la bolsa
+				    		</p>
+				    	</li>
+				    	<li>
+				    		<p>
+				    			La espera y la despedida
+				    		</p>
+				    	</li>
+				    </ul>
+				  </div>
+				</div>
+
+			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
+			</nav>
+	    </div>
+	  </div>
+	<!-- IV -->
+	  <div class="card">
+		    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-4.jpg" alt="Card image cap">
+		    <div class="card-body">
+				<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+				  <!-- Button trigger modal -->
+				  <a class="btn btn-warning" data-toggle="collapse" href="#collapse4Terror" role="button" aria-expanded="false" aria-controls="collapse4Terror">Índice</a>
+
+					<div class="collapse" id="collapse4Terror">
+					  <div class="card card-body">
+					    <ul>
+					    	<li>
+					    		<p>La bestia 
+					    			<span class="text-muted float-right">
+					    				(1ra Parte)
+					    			</span>
+					    		</p>
+					    	</li>
+					    	<li>
+					    		<p>Eduardo el lobisón  
+					    			<span class="text-muted float-right">
+					    				(3ra Parte)
+					    			</span>
+					    		</p>
+					    	</li>
+					    	<li>
+					    		<p>
+									<!-- Button trigger modal -->
+					    			<a data-toggle="modal" data-target="#esterosModal" href="#">
+						    			Estero cuatro diablos
+						    			<small id="leer">
+						    		      <i class="fab fa-readme"></i>
+						    		    </small>
+					    			</a>
+
+									<!-- Modal -->
+									<div class="modal fade bd-example-modal-lg" id="esterosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+									  <div class="modal-dialog modal-dialog-centered" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">Estero cuatro diablos</h5>
+									        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
+									          <i class="fas fa-times text-muted"></i>
+									        </button>
+									      </div>
+									      <div class="modal-body container belle h4">
+											<p>
+												En el Chaco, como si no fuera suficiente tener un diablo, existe un estero donde habitan cuatro ¡Cuatro diablos! No uno, ni dos, ni tres ¡Cuatro! ¿Quién resistiría eso? Es el colmo. Y si alguno cree que esto es un invento mío para asustar a algún distraído o para hacerme el gracioso, que agarre la ruta once, que va desde Resistencia a Formosa, y que después me cuente, que encuentra luego del cruce con la ruta noventa. A menos de cien metros de ese cruce, verán un cartel verde con letras blancas y mayúsculas, de solo tres palabras: ESTERO CUATRO DIABLOS. 
+											</p>
+											<p>
+												Cuando era chico siempre pensaba que ese nombre seguro lo puso alguno para hacerse el gracioso o para asustar a los que pasaban por allí. Mucho tiempo después, pude comprender el por qué de ese nombre siniestro.
+											</p>
+											<p>
+												Es un interminable y misterioso estero que se extiende –a la derecha siguiendo por la ruta- hasta Lapachito, y sus otros límites son el río Guaycurú, el Paraje Yatay y la siniestra Cañada Címbaro ¡Mamita querida! ¡Qué miedo da pasar por ahí! Son leguas y leguas de llanura con pajonales amarillos, tacurúes, palmeras y mogotes de algarrobos. Cientos de cuervos revolotean el lugar buscando una osamenta; alguno que otro caraun solitario suele verse, y los caracoleros, en los postes de telégrafo o en las ramas de un árbol seco.
+											</p>
+											<p>
+												Yo jamás pisé el estero, ni pienso hacerlo, aunque estuviera totalmente chiflado, pero cada vez que voy a visitar a mis padres a La Leonesa ¡Tengo que pasar por esa ruta! Y durante todo ese trayecto, que son como veinte kilómetros, voy rezando y haciendo gancho duro para que el auto o el colectivo no se descomponga, para que no ocurra nada raro, ni aparezca alguna cosa extraña.
+											</p>
+											<p>
+												La verdad es que nunca me pasó nada grave ni trágico. Las únicas cosas que recuerdo son anécdotas, algunas las experimenté yo mismo, otras, fueron padecidas por amigos o conocidos.
+											</p>
+											<p>
+												Cuando era estudiante, casi siempre viajaba a dedo, y en muchas oportunidades me tocó hacerlo en la parte de atrás de alguna camioneta o camión, o sea al aire libre. En dos o tres de esos viajes, tuve la mala suerte de pasar por ese tenebroso lugar en horas de la noche. En una de esas oportunidades, viajaba solo y luego de pasar el cruce…¡Qué miedo virgencita santa! Empecé a rezar y temblaba como una hoja. De a ratos cerraba los ojos, después los abría y miraba el cielo estrellado, o miraba hacia atrás ¡Ni por las tapas quería mirar el estero! Pero había una fuerza extraña, un impulso desconocido o una diabólica atracción, que sin que me diera cuenta, llevaba mi vista hacia el maldito lugar ¡Ahí sí que me encomendaba a todos los santos! 
+											</p>
+											<p>
+												Lo único que podía verse, era lo que iba iluminando el vehículo a su paso. Pajonales, palmeras, mogotes y la negra e interminable oscuridad. Iba como hipnotizado mirando ese misterioso y perpetuo paisaje, cuando de pronto, comencé a ver unos puntos luminosos sobre la negritud del estero. Poco a poco, se hacían más grandes, como si se acercaran, hasta que pude distinguir lo que eran ¡Cuatro pares de ojos que brillaban en la profunda negritud! Eran ojos rojos y parecían estar a unos cincuenta metros de la ruta y nunca quedaban atrás ¡Nos estaban siguiendo! Ahí me di cuenta que esos ojos siempre estaban a la misma distancia, como si se desplazaran a la misma velocidad ¡Cómo aceleré mis rezos en ese momento! Cerré con fuerza mis ojos y me tapé los oídos, y así estuve unos cuantos segundos o minutos, hasta que la terrible atracción diabólica o ese impulso misterioso, me obligó a abrirlos nuevamente y mirar ¡Y otra vez los cuatro pares de ojos seguían a la misma distancia! ¡Maldita mi suerte! Para evitar mirar de nuevo, me concentraba en el ruido del motor y miraba las estrellas, y así seguí unos cuantos kilómetros.  
+											</p>
+											<p>
+												El tormento terminó cuando llegamos a Lapachito, porque ahí ya no había más estero. A mí me dolía todo el cuerpo, de tanto temblar y hacer fuerza para aguantar el miedo. Cuando llegué a mi casa, se lo conté a mi papá y me dijo que el miedo me hacía ver esas cosas, y creo que tenía razón en la mitad nada más: en que tenía miedo; pero esos cuatro pares de ojos rojos yo les juro, por todos los santos y dioses, que los vi nítidamente. 
+											</p>
+											<p>
+												Me hubiese quedado tranquilo o apenas con alguna duda de todo ese asunto, de no haber sido por una revelación que tuve un tiempo después. Ocurrió a las dos o tres semanas, cuando mi primo me invitó a un asado en el campo de los Robles, en Cancha Larga. Allí tuve oportunidad de conocer a un viejito, que supo ser tropero por muchos años, pero que ahora solo se dedicaba a criar gallinas y marruecos y tenía una chacrita de algodón. Vivía en Lapacho Viejo, o sea cerca del… maldito Estero. Enseguida me entusiasmé cuando lo escuché hablar. Tenía esa forma de narrar de los que saben contar historias, de los que saben muchas cosas, y no me equivoqué. El viejito era un sabio.
+											</p>
+											<p>
+												Agarré dos vasos con Cinzano y lo llevé al viejito debajo de un aromito cerca del corral, para poder hablar tranquilos. En las galerías y alrededores de la casa, era puro jolgorio, gente hablando o gritando, jugando al truco, o matándose de risa por algún chiste, chicos jugando a la embopa o a las escondidas, y que no dejaban de gritar. Un clima así, no es bueno para contar ni escuchar historias misteriosas. Yo había pensado preguntarle muchas cosas y, sobre todo, escuchar sus historias.
+											</p>
+											<p>
+												Y así fue. Empezamos a hablar y yo, para entrar en confianza, le conté que estudiaba medicina, que estaba en segundo año y que ya sabía bastante sobre el funcionamiento del cuerpo. El viejito estaba maravillado conmigo, porque a la gente de campo le encanta hablar con un médico, o bueno, con un futuro médico como yo. Me empezó a preguntar por unos dolores que tenía en la cintura y las rodillas. Yo no sabía un pito de eso, porque todavía no lo había estudiado, pero para no quedar mal, le dije que esas cosas eran de la edad y de tanto hacer fuerza en el trabajo. Quedó contento con mi diagnóstico y seguimos hablando de algunas enfermedades de las vacas y de las personas.  
+											</p>
+											<p>
+												Después, como quien no quiere la cosa, empecé a preguntarle sobre su vida de tropero, arreando animales, recorriendo montes y cañadas, en fin, quería que empezara a hablar del maldito Estero ¡Y lo logré!
+											</p>
+											<p>
+												Narró muchas situaciones de su vida tropera, algunas muy cómicas, otras desgraciadas, algunas un poco terroríficas, hasta que en un momento se puso más serio, tomó todo lo que quedaba del Cinzano y aclarándose la garganta, con tono grave dijo:
+											</p>
+											<p class="p-2">
+												-Ahora le voy a contar algunas cosas del Estero ese... que seguramente usted, que es un muchacho que está en la ciencia, no me va a creer o pensará que estoy desvariando.
+											</p>
+											<p class="p-2">
+												-¡Pero por favor don Anacleto! Cuente, cuente nomás... –dije al tiempo que el viejito miraba su vaso vacío. Ahí me di cuenta que le estaba haciendo falta más combustible.
+											</p>
+											<p class="p-2">
+												-Espere un momentito don Anacleto –le dije agarrando su vaso y corrí hasta la casa. Llené el vaso con hielo y Cinzano y por las dudas me traje la botella. No iba a arriesgarme a que se quedara sin la bebida en medio del relato.
+											</p>
+											<p>
+												Con los ojos iluminados mirando el vaso lleno, don Anacleto comenzó:
+											</p>
+											<p class="p-2">
+												-Yo trabajé más de cuarenta años arreando animales, buscando bueyes perdidos o cuidando el pastoreo. Siempre en los alrededores o en el mismísimo Estero, o sea que lo conozco como a la palma de mi mano. Después de una caída muy fea de mi caballo, ya no quise seguir en eso y desde hace diez años, me dedico a la chacra y al corral ¡Eh, ya estoy pisando los setenta!
+											</p>
+											<p class="p-2">
+												-¿Y qué me cuenta de ese Estero...? Algunos dicen que ahí ocurrieron cosas bastante fuleras... –dije para que, de una vez por todas, hablara de lo que yo estaba esperando.
+											</p>
+											<p class="p-2">
+												-La gente habla por hablar, pero no saben nada. Nadie anduvo por ese Estero, salvo unos pocos troperos, como yo. Le voy a contar sobre dos casos que vi con mis propios ojos –dijo al tiempo que ingería medio vaso de Cinzano.
+											</p>
+											<p>
+												Para animarlo, ahí nomás llené de nuevo su vaso. Y para que no se sintiera solo, yo también tomaba unos tragos. Ya me estaba dando vueltas la cabeza, por la emoción y... por el Cinzano.
+											</p>
+											<p class="p-2">
+												-Una tardecita, venía desde Pindó arreando unas vaquillonas del finado Ismael Codutti. Se me había hecho muy tarde, porque en el camino se me espantaron y tuve que correrlas un buen rato hasta juntarlas de nuevo. Encima, una de las desgraciadas se me había perdido, y la tuve que buscar más de tres horas. Enseguida comprendí, que me iba a agarrar la noche atravesando ese maldito Estero, porque todavía me faltaban unas dos leguas por lo menos. Decidí acampar, porque no es bueno arrear animales de noche. Arrimé la tropilla contra un mogote y desensillé. Hice un fueguito y me recosté sobre mis calchas. Saqué de la bolsa de avíos unos salamines y galletas ¡Y también mi caramañola con el tinto! ¡Qué embromar! Comí tranquilito, ahí en medio de la noche. Lo único que se escuchaba era alguna que otra lechuza y cada tanto el canto de una urraca. Usted, doctorcito... ¿Sabía que la urraca canta de noche?
+											</p>
+											<p class="p-2">
+												-Sí, eso me han dicho –le mentí para no interrumpir su relato.
+											</p>
+											<p class="p-2">
+												-Bueno, la cosa fue que después de comer y tomarme el vinito, me armé un camastro con los pellones, saqué mi ponchillo para taparme, y puse a mano el 38 y el machete ¡Nunca le vaya a facilitar a la noche en medio del monte! Siempre hay que estar preparado. Puse unos buenos tronquitos para asegurar el fuego durante toda la noche y me dispuse a dormir.  
+											</p>
+											<p class="p-2">
+												-Y... 
+											</p>
+											<p class="p-2">
+												-Enseguida me dormí nomás. No sé cuanto tiempo habrá pasado, pero de repente, los perros empezaron a gemir como si los estuvieran garroteando, o como si hubieran visto algo muy espantoso, algo que los hubiese llenado de miedo ¡Y eso que no es fácil a asustar a la perrada!
+											</p>
+											<p class="p-2">
+												-¿Y...? ¿Qué era...?
+											</p>
+											<p class="p-2">
+												-No me va a creer... Me despierto y me levanto como un resorte, mientras manoteaba mi facón y el 38, y lo que vi me dejó helado. Ni en una pesadilla uno podría ver algo así...
+											</p>
+											<p class="p-2">
+												-¿Qué fue lo que vio don Anacleto?
+											</p>
+											<p class="p-2">
+												-Eran cuatro demonios.
+											</p>
+											<p class="p-2">
+												-¡¿Ehhh?! ¡¿Cuatro demonios?!
+											</p>
+											<p class="p-2">
+												-Como lo escucha doctorcito. Cuatro demonios bajo la forma mitad humana y mitad bestia.
+											</p>
+											<p class="p-2">
+												-¿¡Ehhh?! ¿Cómo...?
+											</p>
+											<p class="p-2">
+												-Eran una cruza de hombre con cabra. La cabeza, el cuello y las patas delanteras, de animal; el resto del cuerpo de persona, pero con muchos pelos, como si tuviera el cuero de la cabra. Tenían los ojos muy rojos y la mirada maligna... diabólica.
+											</p>
+											<p>
+												Yo me quedé helado y patitieso con semejante revelación. La verdad es que no lo podía creer, entonces pregunté:
+											</p>
+											<p class="p-2">
+												-Pero... ¿No será que usted a lo mejor... lo soñó nomás?
+											</p>
+											<p class="p-2">
+												-Mire muchacho, yo sé muy bien lo que es un sueño y lo que es realidad, y le digo también que a mí no me van a venir a arrear así nomás, a querer llevarme por delante. No suelo asustarme con facilidad, pero eso me dejó paralizado. Nunca voy a olvidarme de ese instante cuando desperté, y vi a los demonios parados alrededor del fuego. Apenas intentaba incorporarme, cuando esas bestias empezaron a arremeter contra todo, perros, caballo, el fuego, y... yo también ligué un guampazo en ese despelote. 
+											</p>
+											<p class="p-2">
+												-¿Un guampazo?
+											</p>
+											<p class="p-2">
+												-Como lo oye doctorcito. Y del susto se me cayeron el revólver y el facón. Se armó un remolino de tierra, cenizas y tizones que volaban por el aire y los bramidos o rugidos de esos bichos, que le helaban la sangre a cualquiera ¡Jamás de los jamases escuché semejantes chillidos! Eran una mezcla de alarido humano con balido interminable de cabra, algo espeluznante... –dijo bajando la cabeza, y agarrando el vaso de Cinzano, que de una sola empinada se lo tomó enterito.
+											</p>
+											<p>
+												Yo también apuré mi Cinzano, como para acompañarlo en ese momento tan angustioso, y ataqué de nuevo:
+											</p>
+											<p class="p-2">
+												-¿Y ahí don Anacleto...? ¿Qué hizo?
+											</p>
+											<p class="p-2">
+												-Y... ¿qué voy a hacer con semejantes bestias humanas? Me tiré cuerpo a tierra bajo una enramada y me arrastré monte adentro, escapando de ese lugar. Después me trepé a un árbol como si fuera un mono ¡Todo eso en medio de la oscuridad, mi amigo! ¡Es creer o reventar!
+											</p>
+											<p class="p-2">
+												-Me imagino don Anacleto...
+											</p>
+											<p class="p-2">
+												-Desde el árbol observé el lugar del campamento, y sólo podía distinguir el fuego todo desparramado, tizones por todas partes y chispas en el aire envueltas en una terrible polvareda de tierra y cenizas, y en medio de todo eso, las siluetas de las bestias dando saltos y haciendo firuletes en el aire, sin dejar de lanzar esos terribles alaridos. Era una danza infernal doctorcito. Los perros habían desaparecido, y ni se los escuchaba.
+											</p>
+											<p class="p-2">
+												-¿Y usted seguía arriba del árbol?
+											</p>
+											<p class="p-2">
+												-¡Por supuesto doctorcito! Ni borracho iba a bajar de allí. Creo que habré estado por lo menos dos o tres horas horquetado ahí arriba, hasta que empezó a amanecer y ya podía ver nítidamente el lugar del campamento.
+											</p>
+											<p class="p-2">
+												-¿Y qué vio don Anacleto?
+											</p>
+											<p class="p-2">
+												-¿Y qué voy a ver...? ¡Un tremendo despelote! El lugar parecía como si por allí hubiese pasado una tropilla de redomones...
+											</p>
+											<p class="p-2">
+												-¿Y los demonios...?
+											</p>
+											<p class="p-2">
+												-Los demonios habían desaparecido, igual que mis perros, mi tropa y mi caballo ¡Me quedé a pie, doctorcito!
+											</p>
+											<p class="p-2">
+												-¡A la flauta!
+											</p>
+											<p class="p-2">
+												-Cuando bajé del árbol, me puse a recorrer y mirar el lugar, había un gran desparramo de tizones, de mis calchas, de los arreos, y contra el tronco de un gran algarrobo... lo que vi me dejó mudo...
+											</p>
+											<p class="p-2">
+												-¿Qué vio...?
+											</p>
+											<p class="p-2">
+												-La estampita de la Virgen de Itatí, estaba atravesada por mi facón y clavada en el tronco de ese árbol...
+											</p>
+											<p class="p-2">
+												-¿La estampita? ¿Qué estampita?
+											</p>
+											<p class="p-2">
+												-Una estampita que yo solía llevar cada vez que salía con alguna tropa, para que me protegiera de cualquier cosa. Me la regaló mi suegra. La había traído de Itatí ¡y estaba bendecida! ¿Qué me cuenta?
+											</p>
+											<p class="p-2">
+												-Realmente increíble y para morirse de miedo don...
+											</p>
+											<p class="p-2">
+												-Y sí... Esos demonios no sólo casi me matan del susto, sino que me dejaron solo y a pata en medio del estero. Tuve que caminar unas cinco horas para llegar a mi casa.
+											</p>
+											<p>
+												Ahí sí que ya no me quedó ninguna duda de su historia. Veía su rostro alterado cuando narraba, sus ojitos brillosos, como si en ese mismo momento estuviera viendo a los demonios. Le serví otro vaso de Cinzano, y tomó la mitad en el acto. Se aclaró la garganta y arrancó nuevamente.
+											</p>
+											<p class="p-2">
+												-Y por si me había quedado alguna duda de lo que había visto, al mes más o menos, se me volvieron a presentar los cuatro demonios...
+											</p>
+											<p class="p-2">
+												-¿Otra vez?
+											</p>
+											<p class="p-2">
+												-Sí, fue una madrugada que salimos desde mi chacra arreando una tropilla de veinte vaquillonas. Partimos con mi compadre, el Eugenio Ávalos. Capaz que lo oyó nombrar...
+											</p>
+											<p class="p-2">
+												-No, la verdad que no, don Anacleto.
+											</p>
+											<p class="p-2">
+												-Bueno, la cosa fue que salimos a eso de las tres de la mañana y no habremos hecho ni una hora de camino, y ya bordeábamos el estero, para agarrar el camino a Yatay, cuando los animales se espantaron, como si hubieran visto diez fantasmas juntos. Salieron espantados y empezaron a correr en todas las direcciones, algo que sólo ocurre cuando los animales se asustan mucho. 
+											</p>
+											<p class="p-2">
+												-¿Y ahí...?
+											</p>
+											<p class="p-2">
+												-Empezamos a los chicotazos y gritos, para ver si podíamos reagruparlos, pero esos animales corrían como si hubieran visto al mismísimo demonio ¿Y qué le cuento? ¡No habían visto al demonio! ¡¡Habían visto a los cuatro demonios!!
+											</p>
+											<p class="p-2">
+												-¡¿No me diga?!
+											</p>
+											<p class="p-2">
+												-Sí doctorcito, los mismos cuatro demonios que me habían aparecido, estaban a la orilla del estero, parados y mirándonos... ¡Son los cuatro Diablos! Le grité a mi compadre.
+											</p>
+											<p class="p-2">
+												-¿Y cómo los vieron? Era de madrugada y seguramente estaba todo oscuro...
+											</p>
+											<p class="p-2">
+												-Los ojos, muchacho, esos cuatro pares de ojos rojos brillando como brazas en la oscuridad, son inconfundibles, y los tengo grabados en mi memoria para siempre. Yo enseguida los reconocí, pero además, el Eugenio sacó la linterna y alumbró ¡Y ni le cuento el julepe que se agarró el compadre! Esas cuatro figuras diabólicas, mitad persona y mitad bestia, eran algo que podía matar del susto a cualquiera. El Eugenio sacó el 32 largo y le metió plomo sin asco. Yo también desenfundé mi 38 y le vacié el tanque...
+											</p>
+											<p class="p-2">
+												-¿Y... los mataron?
+											</p>
+											<p class="p-2">
+												-¡Pero doctorcito! ¿Dónde habrá visto o escuchado que puedan matar al demonio? Después de la balacera, los cuatro demonios seguían parados en el mismo lugar como si nada, y ahí se nos vinieron al humo.
+											</p>
+											<p class="p-2">
+												-¡Qué lo tiró! Y ahí me imagino que sacaron los facones, para pelearlos...
+											</p>
+											<p class="p-2">
+												-¿A usted le parece que yo mastico vidrio doctorcito? ¡Ni locos íbamos a enfrentarlos! Cuando vimos que se nos venían, le metimos espuela y chicote a los caballitos y salimos a galope tendido ¡Parecíamos dos cohetes! Meta guacha, gritos y espuela íbamos con el compadre hasta que, de repente, a mi costado, se me aparea uno de los demonios, me mira con sus ojos diabólicos, a menos de un metro de distancia y ahí parece que el caballito también vio al demonio, porque frenó en seco del susto, como para cambiar de rumbo, y yo volé por el aire como un cachilito y me estampé contra un tacurú. A partir de ahí, no me acuerdo de nada y cuando desperté, después de estar cuatro días inconsciente, ya estaba en mi casa, todo golpeado y vendado y con mi pierna derecha rota. Quedé medio descaderado también. A mi compadre lo encontraron a unos doscientos metros de donde yo había caído. Estaba acurrucado entre unos espartillos, hecho un ovillo, con la cabeza entre las piernas...
+											</p>
+											<p class="p-2">
+												-Tendría frío seguramente –deduje.
+											</p>
+											<p class="p-2">
+												-Estaba muerto, doctorcito. Se murió del susto. Así, en esa posición todo acurrucado, suelen encontrarse a las personas cuando mueren del susto. El corazón no le aguantó al compadre y quien sabe todas las cosas que vio y padeció antes de morir. Yo creo que me salvé porque perdí la conciencia. Desde ese día dejé para siempre la vida de tropero.
+											</p>
+											<p class="p-2">
+												Me quedé con la boca abierta. Su historia confirmaba mi visión de los cuatro pares de ojos rojos sobre el estero y el por qué de ese nombre.
+											</p>
+											<p class="p-2">
+												Hablamos un rato más, hasta que se nos terminó la botella de Cinzano, justo cuando ya nos llamaban para el asado.
+											</p>
+									      </div>
+									      <div class="modal-footer">
+									        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+									      </div>
+									    </div>
+									  </div>
+									</div>
+					    		</p>
+					    	</li>
+					    	<li>
+					    		<p>Un extraño en la ventana</p>
+					    	</li>
+					    	<li>
+					    		<p>El ojeo</p>
+					    	</li>
+					    	<li>
+					    		<p>Crispín Soto y El Diablo 
+					    			<span class="text-muted float-right">
+					    				(1ra Parte)
+					    			</span>
+					    		</p>
+					    	</li>
+					    	<li>
+					    		<p>Armas y Diablo</p>
+					    	</li>
+					    	<li>
+					    		<p>La Poseída </p>
+					    	</li>
+					    	<li>
+					    		<p>Una historia sobre el hombre del capote negro</p>
+					    	</li>
+					    </ul>
+					  </div>
+					</div>
+
+				  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
+				  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
+				</nav>
+		    </div>
+		  </div>
+	<!-- VIII -->
+	  <div class="card">
+	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-8.jpg" alt="Card image cap">
+	    <div class="card-body">
+			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+			  <!-- Button trigger modal -->
+			  <a class="btn btn-warning" data-toggle="collapse" href="#collapse8Terror" role="button" aria-expanded="false" aria-controls="collapse8Terror">Índice</a>
+
+				<div class="collapse" id="collapse8Terror">
+				  <div class="card card-body">
+				    <ul>
+				    	<li>
+				    		<p>El cuco</p>
+				    	</li>
+				    	<li>
+				    		<p>El gallo asesino </p>
+				    	</li>
+				    	<li>
+				    		<p>La lampalagua </p>
+				    	</li>
+				    	<li>
+				    		<p>
+								<!-- Button trigger modal -->
+				    			<a data-toggle="modal" data-target="#palometasModal" href="#">
+					    			Palometas
+					    			<small id="leer">
+					    		      <i class="fab fa-readme"></i>
+					    		    </small>
+				    			</a>
+
+								<!-- Modal -->
+								<div class="modal fade bd-example-modal-lg" id="palometasModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								  <div class="modal-dialog modal-dialog-centered" role="document">
+								    <div class="modal-content">
+								      <div class="modal-header">
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">Palometas</h5>
+								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
+								          <i class="fas fa-times text-muted"></i>
+								        </button>
+								      </div>
+								      <div class="modal-body container belle h4">
+										<p>
+											Si los tiburones son los animales más temibles de los mares, las palometas –créanme-, son los pececitos más infinitamente crueles y asesinos que puedan existir en ríos, arroyos o lagunas. No tengan ninguna duda de esto.
+										</p>
+										<p>
+											Cualquiera habrá visto en alguna película o en televisión, lo que ocurre cuando ataca un tiburón. Lo más común es que su aleta asuste a todos los bañistas de una playa y estos salgan corriendo del agua y luego, desde tierra firme, comiencen a sacarle fotos. A lo sumo, a veces se come la pierna o el brazo de un surfista o de alguno que andaba nadando por ahí. Pocas veces se come enterita a una persona, y cuando la morfa, lo hace en dos o tres bocados y listo. Hay poco sufrimiento. Si uno lee la Enciclopedia Británica, para ver qué dice de estos bichos, leemos lo siguiente: “Rápido y certero en sus ataques, el tiburón es el más temido de cuantos animales pueblan los ámbitos acuáticos...”
+										</p>
+										<p>
+											¿Y qué le decimos a la Enciclopedia Británica?... ¡Uuuh, mirá cómo tiemblo!
+										</p>
+										<p>
+											¡Dejémonos de pavadas! Quiero que sepan una cosa y que se la graben a fuego en vuestras cabecitas: los tiburones en comparación con las palometas, son una manada de ovejas. Unos pollitos enfermos. Y algunos dirán, sí, pero los tiburones pueden medir hasta doce metros y llegar a pesar hasta una tonelada, y las palometas, sólo alcanzan a medir unos veinte o treinta centímetros y pesar no más de un kilo ¿Y yo qué digo?: Ahá, muy bien, es muy cierto, pero quiero ver a alguien de ustedes que se anime a zambullirse en un río y que trate de hacerse amigo de doscientas palometas y después me cuente.
+										</p>
+										<p>
+											Basta de pavadas. Es aconsejable que dejen las fantasías televisivas de los tiburones y pongan atención en esto, que quizá algún día sirva para evitar una desgracia.
+										</p>
+										<p>
+											Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, perversas, ¿algo más? Sí. Vienen por miles y atacan todas juntas. Nadie, absolutamente nadie, ha sobrevivido al ataque de un ejército de palometas. Pero no se queden tranquilos. Si creyeron que esto es todo lo malo de las palometas, error, hay dos cosas mucho más terrible que se los contaré más adelante.
+										</p>
+										<p>
+											“¿Qué nos dice de las pirañas, señor?” pregunta uno. Nada. Simplemente que son las primitas de las palometas y tienen mucha fama porque las promocionan en televisión y películas, para asustar a la gente.
+										</p>
+										<p>
+											Hablemos de las palometas. Ya les dije donde se las puede encontrar, pero el asunto es saber si siempre están en el mismo lugar. No. Las palometas siempre andan donde hay mucha carnada, donde están los cardúmenes. Si alguno va a un río o laguna y no hay pique, ni siquiera ve un saltito de algún pececito, entonces con toda seguridad que no hay palometas, porque éstas sólo quieren devorar, devorar y devorar, comerse todo lo que se mueva en el agua. Y nada de comer a la hora del desayuno, almuerzo o merienda, no, no. Comen a cualquier hora y a cada rato, no se llenan nunca.
+										</p>
+										<p>
+											¿Y cómo son las palometas? Ágiles y veloces. De visión perfecta. Tienen cara de chinchudas, como retobadas. Pareciera que están permanentemente enojadas, por eso tal vez sean tan malas. Son ñatas. Su cuerpo es redondeado como un plato, de color gris plateado y amarillo. Su lomo es gris oscuro y luego más pálido en la mitad de la panza, donde comienza a ser amarillento ¿Tienen espinas o chuzas externas como los bagres o moncholos? No. Ni una chuza ¡pero tienen unos dientes filosísimos! No sé cuántos serán, porque nunca los conté, pero son capaces de masticar cualquier cosa y pulverizarla.  
+										</p>
+										<p>
+											A esta altura del relato, alguno ya estará con ganas de preguntarme “¡¿Y cuáles son las dos cosas más terribles de las palometas, señor?! ¡Dígalas de una vez por todas!” Tranquilos, no se sulfuren. Estas son las dos cosas más terribles:
+										</p>
+										<p>
+											Primero, por el tamaño y forma de su boca, comen a bocaditos, como que picotean y no necesitan escarbadientes ni tenedores ¿Y eso es lo terrible? Sí. Eso es muy terrible, porque cuando agarran una presa, empiezan a comerla a bocaditos y como atacan entre muchas, el animal atacado ve y siente como le van comiendo su cuerpo poco a poco. Si es un perro que justo tuvo la ocurrencia y se largó a la laguna a refrescarse, de pronto siente una sensación, primero como de cosquilleo, y luego de dolor, empieza a patalear y ladrar en el agua sin entender un pito de lo que está ocurriendo; de pronto ya le falta una pata, al ratito la cola, después desparece el hocico, y así, cuando empieza a darse cuenta, ya desapareció de este mundo. Bueno, ahora piensen en ustedes mismos, imaginen que se están bañando en una laguna del campo de un tío y en cierto momento empiezan a sentir lo mismo que sintió el perro. Se desesperan y quieren empezar a nadar, pero advierten que les falta una mano, luego ven su antebrazo que son solo dos huesos largos y pelados y pocos segundos después, ven vuestro brazo que ya es solamente un hueso largo y pelado. En pocos segundos o minutos, han desaparecido, piel, músculos, tendones, cartílagos y ligamentos. También observan que el agua a su alrededor va tiñéndose de rojo rutilante, y angustiosamente observan miles de chapoteos y aleteos, con gran agitación de las aguas, como si hirviera. Bueno, quiero informarles que en ese preciso momento, están siendo deglutidos por un ejército de palometas, y ni siquiera intenten huir porque será peor. A medida que corran o naden, irán perdiendo parte del cuerpo, y si por milagro llegan a la orilla, no les quedará más que la cabeza y algunas vértebras del cuello. O sea que serán conscientes de que llegaron a la orilla, pero llegaron sólo con la cabeza. El resto del cuerpo ya fue almorzado, y si es así, mejor que a uno lo coman enterito, ¡¿para qué corchos puede servir una cabeza sola?! Como ven, las palometas son tan perversas, que comen a bocaditos y dejan para postre la cabeza, entonces el animal o persona sufre mucho más, al pensar, ver y sentir, cómo su cuerpo va desapareciendo velozmente y a pedacitos. A veces, si las tipas andan con poco apetito, empiezan por comer todo lo más blando, o sea los músculos, la grasa, las tripas, los tendones y los cartílagos, y dejan sólo el esqueleto. Pero si andan muy hambrientas, se comen hasta los huesos.
+										</p>
+										<p>
+											Quiero contarles algo, para que tengan una idea de la velocidad a la que son capaces de comerse a otro pez.
+										</p>
+										<p>
+											Yo siempre iba a pescar con mi tío y mi primo al río Paraguay, en un lugar llamado la Boca del Quiá, muy cerca de Puerto Las Palmas. Cuando el río estaba en bajante, ese lugar se transformaba en un carnaval de peces, había de todo y del tamaño que se buscara. Millones de mojarritas y cuchilletas, que atraían a miles de mandurés, moncholos, surubíes y dorados, y todos éstos juntos atraían a... las señoritas palometas. 
+										</p>
+										<p>
+											Claro, con tantos peces nadando y saltando de aquí para allá, si a uno se le ocurría intentar pescar algo, tirando una liñadita con un anzuelo ensartado en una lombriz, podía jubilarse ahí, que no sacaría absolutamente nada ¿Por qué? Porque cuando hay mucha carnada, ningún pez se va a andar fijando en una lombricita raquítica, ya que hay millones de cosas más ricas para comer ¿Y qué se hace entonces o cómo se pesca? Se usa la pateja. 
+										</p>
+										<p>
+											El asunto era que, cuando el río estaba en esas condiciones, tirábamos la pateja y casi siempre enganchábamos, un manduré, moncholo o surubí de tres y hasta diez o doce kilos; y ahí nomás lo empezábamos a traer hacia la orilla ¿Y qué pasaba? Que cuando lo sacábamos, sólo estaba la cabeza y el esqueleto del cuerpo, porque en los veinte o treinta segundos que transcurrían desde el enganche hasta sacarlo, las palometas lo devoraban. Para tratar de sacar alguno enterito, lo que hacíamos era apenas enganchado, traerlo a toda velocidad, y así con suerte, podíamos tener un pescado casi entero.
+										</p>
+										<p>
+											La otra cosa terrible de las palometas: el instinto asesino. Perdura mas allá de la muerte “¡Ésa sí que no te creo!” dirá alguno. No me crean. Qué me importa. Por mí, váyanse a freír mondongo. Pero después no me anden chillando que no les avisé. Les contaré algo que me pasó a mí, o mejor dicho a mi dedito y después hagan lo que quieran.
+										</p>
+										<p>
+											Una vez, habíamos pescado una palometa de unos quince centímetros y la tiramos al pasto a pleno rayo del sol, total, no servía para carnada ni para comer. A las dos o tres horas, no tengo mejor idea que ponerme a investigar y comienzo a revisar su boca y sus agallas. Con un palito le abría la boca, miraba sus terribles dientes, abría sus agallas, para imaginarme cómo respiraba, y después tengo la maldita ocurrencia de meterle el dedo en la boca, para sentir cómo de afilados eran sus dientes. Meto el dedo índice, y cuando estaba explorando la cavidad bucal ¡ñac! ¡¡¡Me mordió la desgraciada!!! Yo saqué la mano como un refucilo pero, ¡la maldita palometa estaba prendida a mi dedito! ¡¡¡Mamita querida!!! ¡Qué susto me llevé! Por suerte me tranquilicé, la bajé al suelo y metí un palo en su boca para abrirla y sacar mi dedito, que me lo había machucado y estaba sangrando. Por suerte no me sacó un pedazo. Después de eso, le encajé unos buenos garrotazos para que se muriera del todo y por el susto que me dio la desgraciada. Cualquiera sabe que un pescado no dura más que unos minutos fuera del agua, porque se muere, como corresponde. El tío me explicó que la palometa en realidad había muerto, pero su espíritu asesino seguía intacto, y eso fue lo que llevó a cerrar su boca sobre mi dedito. 
+										</p>
+										<p>
+											Bueno, hasta aquí llegamos con la vida y obra de las palometas. Todo esto lo sabe cualquiera. Pero nadie sabe historias de palometas. En las películas o en la televisión solo se habla de las andanzas de tiburones, o a lo sumo, de la orca asesina. Creo que no se habla de palometas, porque hay mucha ignorancia, o porque no quieren asustar demasiado a la gente. Yo tampoco quiero asustar a nadie, pero hay cosas que deben saberse, alguien tiene la obligación de contar, para que la gente se entere. Conozco muchas historias trágicas con palometas, pero sólo voy a contar un caso, uno muy espeluznante.
+										</p>
+										<p>
+											Esto ocurrió en Palo Azul hacia fines de los años cincuenta, en el caluroso mes de febrero. Por ese lugar atraviesa el legendario río Guaycurú y ese paraje quedaba a dos o tres leguas de Cancha Larga.
+										</p>
+										<p>
+											A orillas del río Guaycurú vivía una familia, los Ramírez. El hombre, su mujer y ocho hijos. Trabajaban la chacra, tenían algunas vaquitas, caballos, chivos, gallinas, patos, en fin, como cualquier persona que vive en el campo. Y como una bendición, el río estaba a veinte metros de la casa. De allí sacaban el agua para tomar, pescaban, lavaban ropa, se bañaban, más suerte no podían haber tenido por el lugar que les tocó para vivir. Pero jamás podrían haber imaginado... que la desgracia estaría en ese mismo río.
+										</p>
+										<p>
+											En esa zona –y en épocas normales- el río era bastante angosto, con unos siete u ocho metros de orilla a orilla, y con una profundidad no mayor a los dos metros. Don Ramirez fabricó allí un puentecito muy precario con un tronco de urunday, mediante el  cual podían cruzar al otro lado sin tener que meterse al agua y nadar. También fabricó un barandita –sobre uno de los costados- para que el caminante tuviera donde apoyarse cuando se largaba a cruzarlo. Había que cruzar con cuidado, ya que el tronco era casi totalmente cilíndrico, y la mejor manera de caminar sobre una superficie así, es ir pisando en forma oblicua (como los trapecistas), y más seguro aún, es ir descalzo o con algún calzado de goma y flexible, así se adapta bien a la superficie convexa de la madera. 
+										</p>
+										<p>
+											Las palometas siempre andan todas juntas, como un ejército de decenas o cientos de soldados. Van de aquí para allá buscando presas fáciles, bueno en realidad cualquier presa es fácil para estas veloces asesinas. Hacen una especie de patrullaje acuático incansable y permanente (recuerden que ellas no duermen ni a la siesta ni a la noche).
+										</p>
+										<p>
+											Ese caluroso día de febrero, el cardumen de palometas andaba a esa altura del río, y de eso se habían dado cuenta porque el agua parecía como si hirviera, o se veían corridas subacuáticas, como si estuvieran corriendo a alguna presa. Los chicos se habían puesto a pescar y por supuesto, lo único que pescaban eran palometas. 
+										</p>
+										<p>
+											Ese día la madre tenía que cruzar el río con su bebé recién nacido para ir hasta el rancho de una curandera, donde haría curar al niño, que sufría de empacho. Un negro presentimiento la asustaba y no se animaba a cruzar sobre el puentecito. Le daba miedo ese hervidero arremolinado que se veía ahí abajo. El marido trató de tranquilizarla y le dijo que ella cruzara sola, y que él llevaría al bebé hasta la otra orilla. Y así hicieron, cruzó la mujer y esperó al otro lado en la cabecera del puente. Enseguida el hombre se largó a cruzar con el niño en brazos. 
+										</p>
+										<p>
+											Caminar sobre un tronco siempre es difícil, porque es una superficie cilíndrica y no nos brinda la seguridad de caminar sobre una tabla o sobre el piso plano, pero mucho más difícil y peligroso se hace, si uno tiene las alpargatas embarradas… como las tenía el hombre. Cuando iba por la mitad de la travesía, con una mano apoyada sobre la precaria barandita y la otra sosteniendo a su hijito, se resbaló, se despatarró, se rompió la barandita y el hombre cayó sentado sobre el tronco; esto hizo que soltara al niño y que éste cayera al agua. Y cuando viene la desgracia, nunca viene sola, viene con más desgracias. El hombre no cayó al agua sino que quedó colgado de sus ropas, ya que su ancha bombacha campestre quedó enganchada a un pequeño gajo que sobresalía del tronco-puente. El pobre hombre desesperado intentaba desengancharse y tirarse detrás del bebé, pero estaba colgado e inmovilizado y suspendido en el aire. La madre enloquecida lanzó un grito de horror cuando vio caer a su niño, y sin pensarlo se tiró al agua. Los demás niños desde la orilla, gritaban de desesperación implorando que salvara al bebé.
+										</p>
+										<p>
+											El pequeño niño había desaparecido de la superficie del agua apenas cayó, y en el sitio sólo se veía una intensificación de ese aspecto de “hervidero” y recrudecían los saltos y coletazos de los peces como si hubiesen enloquecido. Cuando la madre se zambulló, el sitio donde había caído su niño ya comenzaba a teñirse de rojo. La mujer enceguecida de espanto y desesperación, manoteaba y chapoteaba a ciegas, hacia todas partes, como si con eso pudiera tocar y encontrar el cuerpo de su hijo. El marido, en tanto, gritaba colgado y pataleando desde el puente -sin poder hacer nada por desprenderse- pidiendo a sus hijos que le trajeran un cuchillo para así cortar su bombacha y desprenderse del gajo. Los niños lloraban, saltaban y se abrazaban de impotencia viendo toda esa macabra situación, porque luego de que la madre se sumergiera, la mancha roja comenzó a agrandarse y extenderse. En pocos minutos, todo en el agua volvió a la calma. Sólo se veía la gran mancha roja que ahora se empezaba a diluir entre las aguas claras del Guaycurú y se alejaba corriente abajo.
+										</p>
+										<p>
+											Cuando el hombre logró desprenderse, comprendió que ya era muy tarde… demasiado tarde. 
+										</p>
+										<p>
+											En los días que siguieron, algunos restos óseos del cuerpo de la mujer aparecieron en las orillas, y casi a la semana, a unos cien metros río abajo, un pescador encontró el cráneo del bebé.
+										</p>
+										<p class="text-muted font-italic p-3">
+											Agregado: Por si algún lector cree que uno exagera cuando describe el accionar de estos pececillos, vean en el siguiente link, el entusiasmo de las Srtas. Palometas cuando ven un trozo de carne. Esto acontece en el Chaco, en algún lugar a orillas de nuestro río Paraná:
+											<iframe class="p-1" width="100%" height="315" src="https://www.youtube.com/embed/Yofijzzn2Cc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+										</p>
+								      </div>
+								      <div class="modal-footer">
+								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+								      </div>
+								    </div>
+								  </div>
+								</div>
+				    		</p>
+				    	</li>
+				    	<li>
+				    		<p>El Pomberito</p>
+				    	</li>
+				    	<li>
+				    		<p>Viento Norte</p>
+				    	</li>
+				    	<li>
+				    		<p>Juegos peligrosos</p>
+				    	</li>
+				    </ul>
+				  </div>
+				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
 			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
@@ -2230,7 +2202,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">La pandorga gigante</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">La pandorga gigante</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -2558,7 +2530,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Pánico en el barrio</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">Pánico en el barrio</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -2686,12 +2658,12 @@
 	  </div>
 </section>
 
-<!-- NOVELAS: GÉNERO FANTÁSTICO -->
+<!-- NOVELAS: GÉNERO FANTÁSTICO Y DE CIENCIA FICCIÓN -->
 <hr class="col-8">
 
 <div class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
 	<span class="h2 text-muted">
-	  <small class="bg-dark p-1 text-light rounded">Novela</small> <i class="cinzel">Género Fantástico</i>
+	  <small class="bg-dark p-1 text-light rounded">Novela</small> <i class="cinzel">Género Fantástico y de Ciencia Ficción</i>
 	</span>
 </div>
 
@@ -2736,7 +2708,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -2960,7 +2932,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">I · La familia Godoy</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">I · La familia Godoy</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -2997,7 +2969,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">II · Los primeros años de un niño-lobo</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">II · Los primeros años de un niño-lobo</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -3094,7 +3066,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">III · Eduardo y Nazareno Cruz</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">III · Eduardo y Nazareno Cruz</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -3155,7 +3127,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">IV · Eduardo cumple 12 años</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">IV · Eduardo cumple 12 años</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -3240,7 +3212,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">V · La transformación</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">V · La transformación</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -3313,7 +3285,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">VI · Su primer enfrentamiento con un gaucho</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">VI · Su primer enfrentamiento con un gaucho</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -3408,7 +3380,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -3642,7 +3614,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -3890,7 +3862,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -4124,7 +4096,7 @@
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
+								        <h5 class="modal-title cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
@@ -4314,6 +4286,34 @@
 				    </ul>
 				  </div>
 				</div>
+
+			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
+			</nav>
+	    </div>
+	  </div>
+</section>
+
+<!-- OTROS: ANTOLOGÍA -->
+<hr class="col-8">
+
+<div class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
+	<span class="h2 text-muted">
+	  <small class="bg-dark p-1 text-light rounded">Otros</small> <i class="cinzel">Antología</i>
+	</span>
+</div>
+
+<!-- FANTASMA DE LA PANADERÍA -->
+<hr class="col-2">
+
+<section id="libros-list" class="card-columns p-1">
+	<!-- Fantasma de la panadería -->
+	  <div class="card">
+	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/El-Fantasma....png" alt="Card image cap">
+	    <div class="card-body">
+			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+			  <!-- Button trigger modal -->
+			  <a class="btn btn-warning disabled" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
 			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
