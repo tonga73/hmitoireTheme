@@ -1,9 +1,10 @@
 <!-- SERIE CUENTOS DE TERROR PARA FRANCO -->
 <hr class="col-8">
 
-<div class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
+<div id="libros-section-title" class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
+	<small class="bg-dark h3 p-1 text-light rounded">Serie</small>
 	<span class="h2 text-muted">
-	  <small class="bg-dark p-1 text-light rounded">Serie</small> <i class="cinzel">Cuentos de Terror para Franco</i>
+	   <i class="cinzel">Cuentos de Terror para Franco</i>
 	</span>
 </div>
 
@@ -2161,9 +2162,10 @@
 <!-- SERIE: CUANDO ERA CHICO -->
 <hr class="col-8">
 
-<div class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
+<div id="libros-section-title" class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
+	<small class="bg-dark h3 p-1 text-light rounded">Serie</small>
 	<span class="h2 text-muted">
-	  <small class="bg-dark p-1 text-light rounded">Serie</small> <i class="cinzel">Cuando era chico</i>
+	   <i class="cinzel">Cuando era chico</i>
 	</span>
 </div>
 
@@ -2661,9 +2663,10 @@
 <!-- NOVELAS: GÉNERO FANTÁSTICO Y DE CIENCIA FICCIÓN -->
 <hr class="col-8">
 
-<div class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
+<div id="libros-section-title" class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
+	<small class="bg-dark h3 p-1 text-light rounded">Novela</small>
 	<span class="h2 text-muted">
-	  <small class="bg-dark p-1 text-light rounded">Novela</small> <i class="cinzel">Género Fantástico y de Ciencia Ficción</i>
+	   <i class="cinzel">Género Fantástico y de Ciencia Ficción</i>
 	</span>
 </div>
 
@@ -3815,9 +3818,10 @@
 <!-- NOVELAS: GÉNERO NEGRO -->
 <hr class="col-8">
 
-<div class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
+<div id="libros-section-title" class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
+	<small class="bg-dark h3 p-1 text-light rounded">Novela</small>
 	<span class="h2 text-muted">
-	  <small class="bg-dark p-1 text-light rounded">Novela</small> <i class="cinzel">Género Negro</i>
+	   <i class="cinzel">Género Negro</i>
 	</span>
 </div>
 
@@ -4297,9 +4301,10 @@
 <!-- OTROS: ANTOLOGÍA -->
 <hr class="col-8">
 
-<div class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
+<div id="libros-section-title" class="jumbotron p-1 jumbotron-fluid ls-3 text-center">
+	<small class="bg-dark h3 p-1 text-light rounded">Otros</small>
 	<span class="h2 text-muted">
-	  <small class="bg-dark p-1 text-light rounded">Otros</small> <i class="cinzel">Antología</i>
+	   <i class="cinzel">Antología</i>
 	</span>
 </div>
 

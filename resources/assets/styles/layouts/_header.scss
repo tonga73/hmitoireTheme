@@ -80,6 +80,10 @@
 // Small devices (landscape phones, 576px and up)
 @media (max-width: 576px) {
   .banner {
+    a.brand {
+      font-size: 12vw;
+    }
+
     .nav {
       .menu-item {
         a {
