@@ -14,6 +14,7 @@
 
 /** Import theme styles */
 @import "common/global";
+@import "common/mixins";
 @import "components/_*.scss";
 @import "layouts/header";
 @import "layouts/sidebar";

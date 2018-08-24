@@ -6,9 +6,10 @@
 
         li {
           cursor: default;
+          margin-bottom: 1.7em;
 
           a {
-            display: flex;
+            display: block;
             justify-content: space-between;
             text-decoration: none;
             color: $dark;
@@ -20,6 +21,8 @@
             transition: 0.37591s ease-in-out;
 
             #leer {
+              display: flex;
+              align-items: center;
               background-color: $primary;
               color: $light;
               padding: 0.1em 0.5em;

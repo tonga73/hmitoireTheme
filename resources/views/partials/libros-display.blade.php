@@ -7,6 +7,8 @@
 	</span>
 </div>
 
+<hr class="col-2">
+
 <section id="libros-list" class="card-columns p-1">
 	<!-- I -->
 	  <div class="card">
@@ -238,330 +240,330 @@
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
 	<!-- IV -->
-  <div class="card">
-	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-4.jpg" alt="Card image cap">
-	    <div class="card-body">
-			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapse4Terror" role="button" aria-expanded="false" aria-controls="collapse4Terror">Índice</a>
+	  <div class="card">
+		    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-4.jpg" alt="Card image cap">
+		    <div class="card-body">
+				<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+				  <!-- Button trigger modal -->
+				  <a class="btn btn-warning" data-toggle="collapse" href="#collapse4Terror" role="button" aria-expanded="false" aria-controls="collapse4Terror">Índice</a>
 
-				<div class="collapse" id="collapse4Terror">
-				  <div class="card card-body">
-				    <ul>
-				    	<li>
-				    		<p>La bestia 
-				    			<span class="text-muted float-right">
-				    				(1ra Parte)
-				    			</span>
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>Eduardo el lobisón  
-				    			<span class="text-muted float-right">
-				    				(3ra Parte)
-				    			</span>
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>
-								<!-- Button trigger modal -->
-				    			<a data-toggle="modal" data-target="#esterosModal" href="#">
-					    			Estero cuatro diablos
-					    			<small id="leer">
-					    		      <i class="fab fa-readme"></i>
-					    		    </small>
-				    			</a>
+					<div class="collapse" id="collapse4Terror">
+					  <div class="card card-body">
+					    <ul>
+					    	<li>
+					    		<p>La bestia 
+					    			<span class="text-muted float-right">
+					    				(1ra Parte)
+					    			</span>
+					    		</p>
+					    	</li>
+					    	<li>
+					    		<p>Eduardo el lobisón  
+					    			<span class="text-muted float-right">
+					    				(3ra Parte)
+					    			</span>
+					    		</p>
+					    	</li>
+					    	<li>
+					    		<p>
+									<!-- Button trigger modal -->
+					    			<a data-toggle="modal" data-target="#esterosModal" href="#">
+						    			Estero cuatro diablos
+						    			<small id="leer">
+						    		      <i class="fab fa-readme"></i>
+						    		    </small>
+					    			</a>
 
-								<!-- Modal -->
-								<div class="modal fade bd-example-modal-lg" id="esterosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-								  <div class="modal-dialog modal-dialog-centered" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Estero cuatro diablos</h5>
-								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
-								          <i class="fas fa-times text-muted"></i>
-								        </button>
-								      </div>
-								      <div class="modal-body container belle h4">
-										<p>
-											En el Chaco, como si no fuera suficiente tener un diablo, existe un estero donde habitan cuatro ¡Cuatro diablos! No uno, ni dos, ni tres ¡Cuatro! ¿Quién resistiría eso? Es el colmo. Y si alguno cree que esto es un invento mío para asustar a algún distraído o para hacerme el gracioso, que agarre la ruta once, que va desde Resistencia a Formosa, y que después me cuente, que encuentra luego del cruce con la ruta noventa. A menos de cien metros de ese cruce, verán un cartel verde con letras blancas y mayúsculas, de solo tres palabras: ESTERO CUATRO DIABLOS. 
-										</p>
-										<p>
-											Cuando era chico siempre pensaba que ese nombre seguro lo puso alguno para hacerse el gracioso o para asustar a los que pasaban por allí. Mucho tiempo después, pude comprender el por qué de ese nombre siniestro.
-										</p>
-										<p>
-											Es un interminable y misterioso estero que se extiende –a la derecha siguiendo por la ruta- hasta Lapachito, y sus otros límites son el río Guaycurú, el Paraje Yatay y la siniestra Cañada Címbaro ¡Mamita querida! ¡Qué miedo da pasar por ahí! Son leguas y leguas de llanura con pajonales amarillos, tacurúes, palmeras y mogotes de algarrobos. Cientos de cuervos revolotean el lugar buscando una osamenta; alguno que otro caraun solitario suele verse, y los caracoleros, en los postes de telégrafo o en las ramas de un árbol seco.
-										</p>
-										<p>
-											Yo jamás pisé el estero, ni pienso hacerlo, aunque estuviera totalmente chiflado, pero cada vez que voy a visitar a mis padres a La Leonesa ¡Tengo que pasar por esa ruta! Y durante todo ese trayecto, que son como veinte kilómetros, voy rezando y haciendo gancho duro para que el auto o el colectivo no se descomponga, para que no ocurra nada raro, ni aparezca alguna cosa extraña.
-										</p>
-										<p>
-											La verdad es que nunca me pasó nada grave ni trágico. Las únicas cosas que recuerdo son anécdotas, algunas las experimenté yo mismo, otras, fueron padecidas por amigos o conocidos.
-										</p>
-										<p>
-											Cuando era estudiante, casi siempre viajaba a dedo, y en muchas oportunidades me tocó hacerlo en la parte de atrás de alguna camioneta o camión, o sea al aire libre. En dos o tres de esos viajes, tuve la mala suerte de pasar por ese tenebroso lugar en horas de la noche. En una de esas oportunidades, viajaba solo y luego de pasar el cruce…¡Qué miedo virgencita santa! Empecé a rezar y temblaba como una hoja. De a ratos cerraba los ojos, después los abría y miraba el cielo estrellado, o miraba hacia atrás ¡Ni por las tapas quería mirar el estero! Pero había una fuerza extraña, un impulso desconocido o una diabólica atracción, que sin que me diera cuenta, llevaba mi vista hacia el maldito lugar ¡Ahí sí que me encomendaba a todos los santos! 
-										</p>
-										<p>
-											Lo único que podía verse, era lo que iba iluminando el vehículo a su paso. Pajonales, palmeras, mogotes y la negra e interminable oscuridad. Iba como hipnotizado mirando ese misterioso y perpetuo paisaje, cuando de pronto, comencé a ver unos puntos luminosos sobre la negritud del estero. Poco a poco, se hacían más grandes, como si se acercaran, hasta que pude distinguir lo que eran ¡Cuatro pares de ojos que brillaban en la profunda negritud! Eran ojos rojos y parecían estar a unos cincuenta metros de la ruta y nunca quedaban atrás ¡Nos estaban siguiendo! Ahí me di cuenta que esos ojos siempre estaban a la misma distancia, como si se desplazaran a la misma velocidad ¡Cómo aceleré mis rezos en ese momento! Cerré con fuerza mis ojos y me tapé los oídos, y así estuve unos cuantos segundos o minutos, hasta que la terrible atracción diabólica o ese impulso misterioso, me obligó a abrirlos nuevamente y mirar ¡Y otra vez los cuatro pares de ojos seguían a la misma distancia! ¡Maldita mi suerte! Para evitar mirar de nuevo, me concentraba en el ruido del motor y miraba las estrellas, y así seguí unos cuantos kilómetros.  
-										</p>
-										<p>
-											El tormento terminó cuando llegamos a Lapachito, porque ahí ya no había más estero. A mí me dolía todo el cuerpo, de tanto temblar y hacer fuerza para aguantar el miedo. Cuando llegué a mi casa, se lo conté a mi papá y me dijo que el miedo me hacía ver esas cosas, y creo que tenía razón en la mitad nada más: en que tenía miedo; pero esos cuatro pares de ojos rojos yo les juro, por todos los santos y dioses, que los vi nítidamente. 
-										</p>
-										<p>
-											Me hubiese quedado tranquilo o apenas con alguna duda de todo ese asunto, de no haber sido por una revelación que tuve un tiempo después. Ocurrió a las dos o tres semanas, cuando mi primo me invitó a un asado en el campo de los Robles, en Cancha Larga. Allí tuve oportunidad de conocer a un viejito, que supo ser tropero por muchos años, pero que ahora solo se dedicaba a criar gallinas y marruecos y tenía una chacrita de algodón. Vivía en Lapacho Viejo, o sea cerca del… maldito Estero. Enseguida me entusiasmé cuando lo escuché hablar. Tenía esa forma de narrar de los que saben contar historias, de los que saben muchas cosas, y no me equivoqué. El viejito era un sabio.
-										</p>
-										<p>
-											Agarré dos vasos con Cinzano y lo llevé al viejito debajo de un aromito cerca del corral, para poder hablar tranquilos. En las galerías y alrededores de la casa, era puro jolgorio, gente hablando o gritando, jugando al truco, o matándose de risa por algún chiste, chicos jugando a la embopa o a las escondidas, y que no dejaban de gritar. Un clima así, no es bueno para contar ni escuchar historias misteriosas. Yo había pensado preguntarle muchas cosas y, sobre todo, escuchar sus historias.
-										</p>
-										<p>
-											Y así fue. Empezamos a hablar y yo, para entrar en confianza, le conté que estudiaba medicina, que estaba en segundo año y que ya sabía bastante sobre el funcionamiento del cuerpo. El viejito estaba maravillado conmigo, porque a la gente de campo le encanta hablar con un médico, o bueno, con un futuro médico como yo. Me empezó a preguntar por unos dolores que tenía en la cintura y las rodillas. Yo no sabía un pito de eso, porque todavía no lo había estudiado, pero para no quedar mal, le dije que esas cosas eran de la edad y de tanto hacer fuerza en el trabajo. Quedó contento con mi diagnóstico y seguimos hablando de algunas enfermedades de las vacas y de las personas.  
-										</p>
-										<p>
-											Después, como quien no quiere la cosa, empecé a preguntarle sobre su vida de tropero, arreando animales, recorriendo montes y cañadas, en fin, quería que empezara a hablar del maldito Estero ¡Y lo logré!
-										</p>
-										<p>
-											Narró muchas situaciones de su vida tropera, algunas muy cómicas, otras desgraciadas, algunas un poco terroríficas, hasta que en un momento se puso más serio, tomó todo lo que quedaba del Cinzano y aclarándose la garganta, con tono grave dijo:
-										</p>
-										<p class="p-2">
-											-Ahora le voy a contar algunas cosas del Estero ese... que seguramente usted, que es un muchacho que está en la ciencia, no me va a creer o pensará que estoy desvariando.
-										</p>
-										<p class="p-2">
-											-¡Pero por favor don Anacleto! Cuente, cuente nomás... –dije al tiempo que el viejito miraba su vaso vacío. Ahí me di cuenta que le estaba haciendo falta más combustible.
-										</p>
-										<p class="p-2">
-											-Espere un momentito don Anacleto –le dije agarrando su vaso y corrí hasta la casa. Llené el vaso con hielo y Cinzano y por las dudas me traje la botella. No iba a arriesgarme a que se quedara sin la bebida en medio del relato.
-										</p>
-										<p>
-											Con los ojos iluminados mirando el vaso lleno, don Anacleto comenzó:
-										</p>
-										<p class="p-2">
-											-Yo trabajé más de cuarenta años arreando animales, buscando bueyes perdidos o cuidando el pastoreo. Siempre en los alrededores o en el mismísimo Estero, o sea que lo conozco como a la palma de mi mano. Después de una caída muy fea de mi caballo, ya no quise seguir en eso y desde hace diez años, me dedico a la chacra y al corral ¡Eh, ya estoy pisando los setenta!
-										</p>
-										<p class="p-2">
-											-¿Y qué me cuenta de ese Estero...? Algunos dicen que ahí ocurrieron cosas bastante fuleras... –dije para que, de una vez por todas, hablara de lo que yo estaba esperando.
-										</p>
-										<p class="p-2">
-											-La gente habla por hablar, pero no saben nada. Nadie anduvo por ese Estero, salvo unos pocos troperos, como yo. Le voy a contar sobre dos casos que vi con mis propios ojos –dijo al tiempo que ingería medio vaso de Cinzano.
-										</p>
-										<p>
-											Para animarlo, ahí nomás llené de nuevo su vaso. Y para que no se sintiera solo, yo también tomaba unos tragos. Ya me estaba dando vueltas la cabeza, por la emoción y... por el Cinzano.
-										</p>
-										<p class="p-2">
-											-Una tardecita, venía desde Pindó arreando unas vaquillonas del finado Ismael Codutti. Se me había hecho muy tarde, porque en el camino se me espantaron y tuve que correrlas un buen rato hasta juntarlas de nuevo. Encima, una de las desgraciadas se me había perdido, y la tuve que buscar más de tres horas. Enseguida comprendí, que me iba a agarrar la noche atravesando ese maldito Estero, porque todavía me faltaban unas dos leguas por lo menos. Decidí acampar, porque no es bueno arrear animales de noche. Arrimé la tropilla contra un mogote y desensillé. Hice un fueguito y me recosté sobre mis calchas. Saqué de la bolsa de avíos unos salamines y galletas ¡Y también mi caramañola con el tinto! ¡Qué embromar! Comí tranquilito, ahí en medio de la noche. Lo único que se escuchaba era alguna que otra lechuza y cada tanto el canto de una urraca. Usted, doctorcito... ¿Sabía que la urraca canta de noche?
-										</p>
-										<p class="p-2">
-											-Sí, eso me han dicho –le mentí para no interrumpir su relato.
-										</p>
-										<p class="p-2">
-											-Bueno, la cosa fue que después de comer y tomarme el vinito, me armé un camastro con los pellones, saqué mi ponchillo para taparme, y puse a mano el 38 y el machete ¡Nunca le vaya a facilitar a la noche en medio del monte! Siempre hay que estar preparado. Puse unos buenos tronquitos para asegurar el fuego durante toda la noche y me dispuse a dormir.  
-										</p>
-										<p class="p-2">
-											-Y... 
-										</p>
-										<p class="p-2">
-											-Enseguida me dormí nomás. No sé cuanto tiempo habrá pasado, pero de repente, los perros empezaron a gemir como si los estuvieran garroteando, o como si hubieran visto algo muy espantoso, algo que los hubiese llenado de miedo ¡Y eso que no es fácil a asustar a la perrada!
-										</p>
-										<p class="p-2">
-											-¿Y...? ¿Qué era...?
-										</p>
-										<p class="p-2">
-											-No me va a creer... Me despierto y me levanto como un resorte, mientras manoteaba mi facón y el 38, y lo que vi me dejó helado. Ni en una pesadilla uno podría ver algo así...
-										</p>
-										<p class="p-2">
-											-¿Qué fue lo que vio don Anacleto?
-										</p>
-										<p class="p-2">
-											-Eran cuatro demonios.
-										</p>
-										<p class="p-2">
-											-¡¿Ehhh?! ¡¿Cuatro demonios?!
-										</p>
-										<p class="p-2">
-											-Como lo escucha doctorcito. Cuatro demonios bajo la forma mitad humana y mitad bestia.
-										</p>
-										<p class="p-2">
-											-¿¡Ehhh?! ¿Cómo...?
-										</p>
-										<p class="p-2">
-											-Eran una cruza de hombre con cabra. La cabeza, el cuello y las patas delanteras, de animal; el resto del cuerpo de persona, pero con muchos pelos, como si tuviera el cuero de la cabra. Tenían los ojos muy rojos y la mirada maligna... diabólica.
-										</p>
-										<p>
-											Yo me quedé helado y patitieso con semejante revelación. La verdad es que no lo podía creer, entonces pregunté:
-										</p>
-										<p class="p-2">
-											-Pero... ¿No será que usted a lo mejor... lo soñó nomás?
-										</p>
-										<p class="p-2">
-											-Mire muchacho, yo sé muy bien lo que es un sueño y lo que es realidad, y le digo también que a mí no me van a venir a arrear así nomás, a querer llevarme por delante. No suelo asustarme con facilidad, pero eso me dejó paralizado. Nunca voy a olvidarme de ese instante cuando desperté, y vi a los demonios parados alrededor del fuego. Apenas intentaba incorporarme, cuando esas bestias empezaron a arremeter contra todo, perros, caballo, el fuego, y... yo también ligué un guampazo en ese despelote. 
-										</p>
-										<p class="p-2">
-											-¿Un guampazo?
-										</p>
-										<p class="p-2">
-											-Como lo oye doctorcito. Y del susto se me cayeron el revólver y el facón. Se armó un remolino de tierra, cenizas y tizones que volaban por el aire y los bramidos o rugidos de esos bichos, que le helaban la sangre a cualquiera ¡Jamás de los jamases escuché semejantes chillidos! Eran una mezcla de alarido humano con balido interminable de cabra, algo espeluznante... –dijo bajando la cabeza, y agarrando el vaso de Cinzano, que de una sola empinada se lo tomó enterito.
-										</p>
-										<p>
-											Yo también apuré mi Cinzano, como para acompañarlo en ese momento tan angustioso, y ataqué de nuevo:
-										</p>
-										<p class="p-2">
-											-¿Y ahí don Anacleto...? ¿Qué hizo?
-										</p>
-										<p class="p-2">
-											-Y... ¿qué voy a hacer con semejantes bestias humanas? Me tiré cuerpo a tierra bajo una enramada y me arrastré monte adentro, escapando de ese lugar. Después me trepé a un árbol como si fuera un mono ¡Todo eso en medio de la oscuridad, mi amigo! ¡Es creer o reventar!
-										</p>
-										<p class="p-2">
-											-Me imagino don Anacleto...
-										</p>
-										<p class="p-2">
-											-Desde el árbol observé el lugar del campamento, y sólo podía distinguir el fuego todo desparramado, tizones por todas partes y chispas en el aire envueltas en una terrible polvareda de tierra y cenizas, y en medio de todo eso, las siluetas de las bestias dando saltos y haciendo firuletes en el aire, sin dejar de lanzar esos terribles alaridos. Era una danza infernal doctorcito. Los perros habían desaparecido, y ni se los escuchaba.
-										</p>
-										<p class="p-2">
-											-¿Y usted seguía arriba del árbol?
-										</p>
-										<p class="p-2">
-											-¡Por supuesto doctorcito! Ni borracho iba a bajar de allí. Creo que habré estado por lo menos dos o tres horas horquetado ahí arriba, hasta que empezó a amanecer y ya podía ver nítidamente el lugar del campamento.
-										</p>
-										<p class="p-2">
-											-¿Y qué vio don Anacleto?
-										</p>
-										<p class="p-2">
-											-¿Y qué voy a ver...? ¡Un tremendo despelote! El lugar parecía como si por allí hubiese pasado una tropilla de redomones...
-										</p>
-										<p class="p-2">
-											-¿Y los demonios...?
-										</p>
-										<p class="p-2">
-											-Los demonios habían desaparecido, igual que mis perros, mi tropa y mi caballo ¡Me quedé a pie, doctorcito!
-										</p>
-										<p class="p-2">
-											-¡A la flauta!
-										</p>
-										<p class="p-2">
-											-Cuando bajé del árbol, me puse a recorrer y mirar el lugar, había un gran desparramo de tizones, de mis calchas, de los arreos, y contra el tronco de un gran algarrobo... lo que vi me dejó mudo...
-										</p>
-										<p class="p-2">
-											-¿Qué vio...?
-										</p>
-										<p class="p-2">
-											-La estampita de la Virgen de Itatí, estaba atravesada por mi facón y clavada en el tronco de ese árbol...
-										</p>
-										<p class="p-2">
-											-¿La estampita? ¿Qué estampita?
-										</p>
-										<p class="p-2">
-											-Una estampita que yo solía llevar cada vez que salía con alguna tropa, para que me protegiera de cualquier cosa. Me la regaló mi suegra. La había traído de Itatí ¡y estaba bendecida! ¿Qué me cuenta?
-										</p>
-										<p class="p-2">
-											-Realmente increíble y para morirse de miedo don...
-										</p>
-										<p class="p-2">
-											-Y sí... Esos demonios no sólo casi me matan del susto, sino que me dejaron solo y a pata en medio del estero. Tuve que caminar unas cinco horas para llegar a mi casa.
-										</p>
-										<p>
-											Ahí sí que ya no me quedó ninguna duda de su historia. Veía su rostro alterado cuando narraba, sus ojitos brillosos, como si en ese mismo momento estuviera viendo a los demonios. Le serví otro vaso de Cinzano, y tomó la mitad en el acto. Se aclaró la garganta y arrancó nuevamente.
-										</p>
-										<p class="p-2">
-											-Y por si me había quedado alguna duda de lo que había visto, al mes más o menos, se me volvieron a presentar los cuatro demonios...
-										</p>
-										<p class="p-2">
-											-¿Otra vez?
-										</p>
-										<p class="p-2">
-											-Sí, fue una madrugada que salimos desde mi chacra arreando una tropilla de veinte vaquillonas. Partimos con mi compadre, el Eugenio Ávalos. Capaz que lo oyó nombrar...
-										</p>
-										<p class="p-2">
-											-No, la verdad que no, don Anacleto.
-										</p>
-										<p class="p-2">
-											-Bueno, la cosa fue que salimos a eso de las tres de la mañana y no habremos hecho ni una hora de camino, y ya bordeábamos el estero, para agarrar el camino a Yatay, cuando los animales se espantaron, como si hubieran visto diez fantasmas juntos. Salieron espantados y empezaron a correr en todas las direcciones, algo que sólo ocurre cuando los animales se asustan mucho. 
-										</p>
-										<p class="p-2">
-											-¿Y ahí...?
-										</p>
-										<p class="p-2">
-											-Empezamos a los chicotazos y gritos, para ver si podíamos reagruparlos, pero esos animales corrían como si hubieran visto al mismísimo demonio ¿Y qué le cuento? ¡No habían visto al demonio! ¡¡Habían visto a los cuatro demonios!!
-										</p>
-										<p class="p-2">
-											-¡¿No me diga?!
-										</p>
-										<p class="p-2">
-											-Sí doctorcito, los mismos cuatro demonios que me habían aparecido, estaban a la orilla del estero, parados y mirándonos... ¡Son los cuatro Diablos! Le grité a mi compadre.
-										</p>
-										<p class="p-2">
-											-¿Y cómo los vieron? Era de madrugada y seguramente estaba todo oscuro...
-										</p>
-										<p class="p-2">
-											-Los ojos, muchacho, esos cuatro pares de ojos rojos brillando como brazas en la oscuridad, son inconfundibles, y los tengo grabados en mi memoria para siempre. Yo enseguida los reconocí, pero además, el Eugenio sacó la linterna y alumbró ¡Y ni le cuento el julepe que se agarró el compadre! Esas cuatro figuras diabólicas, mitad persona y mitad bestia, eran algo que podía matar del susto a cualquiera. El Eugenio sacó el 32 largo y le metió plomo sin asco. Yo también desenfundé mi 38 y le vacié el tanque...
-										</p>
-										<p class="p-2">
-											-¿Y... los mataron?
-										</p>
-										<p class="p-2">
-											-¡Pero doctorcito! ¿Dónde habrá visto o escuchado que puedan matar al demonio? Después de la balacera, los cuatro demonios seguían parados en el mismo lugar como si nada, y ahí se nos vinieron al humo.
-										</p>
-										<p class="p-2">
-											-¡Qué lo tiró! Y ahí me imagino que sacaron los facones, para pelearlos...
-										</p>
-										<p class="p-2">
-											-¿A usted le parece que yo mastico vidrio doctorcito? ¡Ni locos íbamos a enfrentarlos! Cuando vimos que se nos venían, le metimos espuela y chicote a los caballitos y salimos a galope tendido ¡Parecíamos dos cohetes! Meta guacha, gritos y espuela íbamos con el compadre hasta que, de repente, a mi costado, se me aparea uno de los demonios, me mira con sus ojos diabólicos, a menos de un metro de distancia y ahí parece que el caballito también vio al demonio, porque frenó en seco del susto, como para cambiar de rumbo, y yo volé por el aire como un cachilito y me estampé contra un tacurú. A partir de ahí, no me acuerdo de nada y cuando desperté, después de estar cuatro días inconsciente, ya estaba en mi casa, todo golpeado y vendado y con mi pierna derecha rota. Quedé medio descaderado también. A mi compadre lo encontraron a unos doscientos metros de donde yo había caído. Estaba acurrucado entre unos espartillos, hecho un ovillo, con la cabeza entre las piernas...
-										</p>
-										<p class="p-2">
-											-Tendría frío seguramente –deduje.
-										</p>
-										<p class="p-2">
-											-Estaba muerto, doctorcito. Se murió del susto. Así, en esa posición todo acurrucado, suelen encontrarse a las personas cuando mueren del susto. El corazón no le aguantó al compadre y quien sabe todas las cosas que vio y padeció antes de morir. Yo creo que me salvé porque perdí la conciencia. Desde ese día dejé para siempre la vida de tropero.
-										</p>
-										<p class="p-2">
-											Me quedé con la boca abierta. Su historia confirmaba mi visión de los cuatro pares de ojos rojos sobre el estero y el por qué de ese nombre.
-										</p>
-										<p class="p-2">
-											Hablamos un rato más, hasta que se nos terminó la botella de Cinzano, justo cuando ya nos llamaban para el asado.
-										</p>
-								      </div>
-								      <div class="modal-footer">
-								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-								      </div>
-								    </div>
-								  </div>
-								</div>
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>Un extraño en la ventana</p>
-				    	</li>
-				    	<li>
-				    		<p>El ojeo</p>
-				    	</li>
-				    	<li>
-				    		<p>Crispín Soto y El Diablo 
-				    			<span class="text-muted float-right">
-				    				(1ra Parte)
-				    			</span>
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>Armas y Diablo</p>
-				    	</li>
-				    	<li>
-				    		<p>La Poseída </p>
-				    	</li>
-				    	<li>
-				    		<p>Una historia sobre el hombre del capote negro</p>
-				    	</li>
-				    </ul>
-				  </div>
-				</div>
+									<!-- Modal -->
+									<div class="modal fade bd-example-modal-lg" id="esterosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+									  <div class="modal-dialog modal-dialog-centered" role="document">
+									    <div class="modal-content">
+									      <div class="modal-header">
+									        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Estero cuatro diablos</h5>
+									        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
+									          <i class="fas fa-times text-muted"></i>
+									        </button>
+									      </div>
+									      <div class="modal-body container belle h4">
+											<p>
+												En el Chaco, como si no fuera suficiente tener un diablo, existe un estero donde habitan cuatro ¡Cuatro diablos! No uno, ni dos, ni tres ¡Cuatro! ¿Quién resistiría eso? Es el colmo. Y si alguno cree que esto es un invento mío para asustar a algún distraído o para hacerme el gracioso, que agarre la ruta once, que va desde Resistencia a Formosa, y que después me cuente, que encuentra luego del cruce con la ruta noventa. A menos de cien metros de ese cruce, verán un cartel verde con letras blancas y mayúsculas, de solo tres palabras: ESTERO CUATRO DIABLOS. 
+											</p>
+											<p>
+												Cuando era chico siempre pensaba que ese nombre seguro lo puso alguno para hacerse el gracioso o para asustar a los que pasaban por allí. Mucho tiempo después, pude comprender el por qué de ese nombre siniestro.
+											</p>
+											<p>
+												Es un interminable y misterioso estero que se extiende –a la derecha siguiendo por la ruta- hasta Lapachito, y sus otros límites son el río Guaycurú, el Paraje Yatay y la siniestra Cañada Címbaro ¡Mamita querida! ¡Qué miedo da pasar por ahí! Son leguas y leguas de llanura con pajonales amarillos, tacurúes, palmeras y mogotes de algarrobos. Cientos de cuervos revolotean el lugar buscando una osamenta; alguno que otro caraun solitario suele verse, y los caracoleros, en los postes de telégrafo o en las ramas de un árbol seco.
+											</p>
+											<p>
+												Yo jamás pisé el estero, ni pienso hacerlo, aunque estuviera totalmente chiflado, pero cada vez que voy a visitar a mis padres a La Leonesa ¡Tengo que pasar por esa ruta! Y durante todo ese trayecto, que son como veinte kilómetros, voy rezando y haciendo gancho duro para que el auto o el colectivo no se descomponga, para que no ocurra nada raro, ni aparezca alguna cosa extraña.
+											</p>
+											<p>
+												La verdad es que nunca me pasó nada grave ni trágico. Las únicas cosas que recuerdo son anécdotas, algunas las experimenté yo mismo, otras, fueron padecidas por amigos o conocidos.
+											</p>
+											<p>
+												Cuando era estudiante, casi siempre viajaba a dedo, y en muchas oportunidades me tocó hacerlo en la parte de atrás de alguna camioneta o camión, o sea al aire libre. En dos o tres de esos viajes, tuve la mala suerte de pasar por ese tenebroso lugar en horas de la noche. En una de esas oportunidades, viajaba solo y luego de pasar el cruce…¡Qué miedo virgencita santa! Empecé a rezar y temblaba como una hoja. De a ratos cerraba los ojos, después los abría y miraba el cielo estrellado, o miraba hacia atrás ¡Ni por las tapas quería mirar el estero! Pero había una fuerza extraña, un impulso desconocido o una diabólica atracción, que sin que me diera cuenta, llevaba mi vista hacia el maldito lugar ¡Ahí sí que me encomendaba a todos los santos! 
+											</p>
+											<p>
+												Lo único que podía verse, era lo que iba iluminando el vehículo a su paso. Pajonales, palmeras, mogotes y la negra e interminable oscuridad. Iba como hipnotizado mirando ese misterioso y perpetuo paisaje, cuando de pronto, comencé a ver unos puntos luminosos sobre la negritud del estero. Poco a poco, se hacían más grandes, como si se acercaran, hasta que pude distinguir lo que eran ¡Cuatro pares de ojos que brillaban en la profunda negritud! Eran ojos rojos y parecían estar a unos cincuenta metros de la ruta y nunca quedaban atrás ¡Nos estaban siguiendo! Ahí me di cuenta que esos ojos siempre estaban a la misma distancia, como si se desplazaran a la misma velocidad ¡Cómo aceleré mis rezos en ese momento! Cerré con fuerza mis ojos y me tapé los oídos, y así estuve unos cuantos segundos o minutos, hasta que la terrible atracción diabólica o ese impulso misterioso, me obligó a abrirlos nuevamente y mirar ¡Y otra vez los cuatro pares de ojos seguían a la misma distancia! ¡Maldita mi suerte! Para evitar mirar de nuevo, me concentraba en el ruido del motor y miraba las estrellas, y así seguí unos cuantos kilómetros.  
+											</p>
+											<p>
+												El tormento terminó cuando llegamos a Lapachito, porque ahí ya no había más estero. A mí me dolía todo el cuerpo, de tanto temblar y hacer fuerza para aguantar el miedo. Cuando llegué a mi casa, se lo conté a mi papá y me dijo que el miedo me hacía ver esas cosas, y creo que tenía razón en la mitad nada más: en que tenía miedo; pero esos cuatro pares de ojos rojos yo les juro, por todos los santos y dioses, que los vi nítidamente. 
+											</p>
+											<p>
+												Me hubiese quedado tranquilo o apenas con alguna duda de todo ese asunto, de no haber sido por una revelación que tuve un tiempo después. Ocurrió a las dos o tres semanas, cuando mi primo me invitó a un asado en el campo de los Robles, en Cancha Larga. Allí tuve oportunidad de conocer a un viejito, que supo ser tropero por muchos años, pero que ahora solo se dedicaba a criar gallinas y marruecos y tenía una chacrita de algodón. Vivía en Lapacho Viejo, o sea cerca del… maldito Estero. Enseguida me entusiasmé cuando lo escuché hablar. Tenía esa forma de narrar de los que saben contar historias, de los que saben muchas cosas, y no me equivoqué. El viejito era un sabio.
+											</p>
+											<p>
+												Agarré dos vasos con Cinzano y lo llevé al viejito debajo de un aromito cerca del corral, para poder hablar tranquilos. En las galerías y alrededores de la casa, era puro jolgorio, gente hablando o gritando, jugando al truco, o matándose de risa por algún chiste, chicos jugando a la embopa o a las escondidas, y que no dejaban de gritar. Un clima así, no es bueno para contar ni escuchar historias misteriosas. Yo había pensado preguntarle muchas cosas y, sobre todo, escuchar sus historias.
+											</p>
+											<p>
+												Y así fue. Empezamos a hablar y yo, para entrar en confianza, le conté que estudiaba medicina, que estaba en segundo año y que ya sabía bastante sobre el funcionamiento del cuerpo. El viejito estaba maravillado conmigo, porque a la gente de campo le encanta hablar con un médico, o bueno, con un futuro médico como yo. Me empezó a preguntar por unos dolores que tenía en la cintura y las rodillas. Yo no sabía un pito de eso, porque todavía no lo había estudiado, pero para no quedar mal, le dije que esas cosas eran de la edad y de tanto hacer fuerza en el trabajo. Quedó contento con mi diagnóstico y seguimos hablando de algunas enfermedades de las vacas y de las personas.  
+											</p>
+											<p>
+												Después, como quien no quiere la cosa, empecé a preguntarle sobre su vida de tropero, arreando animales, recorriendo montes y cañadas, en fin, quería que empezara a hablar del maldito Estero ¡Y lo logré!
+											</p>
+											<p>
+												Narró muchas situaciones de su vida tropera, algunas muy cómicas, otras desgraciadas, algunas un poco terroríficas, hasta que en un momento se puso más serio, tomó todo lo que quedaba del Cinzano y aclarándose la garganta, con tono grave dijo:
+											</p>
+											<p class="p-2">
+												-Ahora le voy a contar algunas cosas del Estero ese... que seguramente usted, que es un muchacho que está en la ciencia, no me va a creer o pensará que estoy desvariando.
+											</p>
+											<p class="p-2">
+												-¡Pero por favor don Anacleto! Cuente, cuente nomás... –dije al tiempo que el viejito miraba su vaso vacío. Ahí me di cuenta que le estaba haciendo falta más combustible.
+											</p>
+											<p class="p-2">
+												-Espere un momentito don Anacleto –le dije agarrando su vaso y corrí hasta la casa. Llené el vaso con hielo y Cinzano y por las dudas me traje la botella. No iba a arriesgarme a que se quedara sin la bebida en medio del relato.
+											</p>
+											<p>
+												Con los ojos iluminados mirando el vaso lleno, don Anacleto comenzó:
+											</p>
+											<p class="p-2">
+												-Yo trabajé más de cuarenta años arreando animales, buscando bueyes perdidos o cuidando el pastoreo. Siempre en los alrededores o en el mismísimo Estero, o sea que lo conozco como a la palma de mi mano. Después de una caída muy fea de mi caballo, ya no quise seguir en eso y desde hace diez años, me dedico a la chacra y al corral ¡Eh, ya estoy pisando los setenta!
+											</p>
+											<p class="p-2">
+												-¿Y qué me cuenta de ese Estero...? Algunos dicen que ahí ocurrieron cosas bastante fuleras... –dije para que, de una vez por todas, hablara de lo que yo estaba esperando.
+											</p>
+											<p class="p-2">
+												-La gente habla por hablar, pero no saben nada. Nadie anduvo por ese Estero, salvo unos pocos troperos, como yo. Le voy a contar sobre dos casos que vi con mis propios ojos –dijo al tiempo que ingería medio vaso de Cinzano.
+											</p>
+											<p>
+												Para animarlo, ahí nomás llené de nuevo su vaso. Y para que no se sintiera solo, yo también tomaba unos tragos. Ya me estaba dando vueltas la cabeza, por la emoción y... por el Cinzano.
+											</p>
+											<p class="p-2">
+												-Una tardecita, venía desde Pindó arreando unas vaquillonas del finado Ismael Codutti. Se me había hecho muy tarde, porque en el camino se me espantaron y tuve que correrlas un buen rato hasta juntarlas de nuevo. Encima, una de las desgraciadas se me había perdido, y la tuve que buscar más de tres horas. Enseguida comprendí, que me iba a agarrar la noche atravesando ese maldito Estero, porque todavía me faltaban unas dos leguas por lo menos. Decidí acampar, porque no es bueno arrear animales de noche. Arrimé la tropilla contra un mogote y desensillé. Hice un fueguito y me recosté sobre mis calchas. Saqué de la bolsa de avíos unos salamines y galletas ¡Y también mi caramañola con el tinto! ¡Qué embromar! Comí tranquilito, ahí en medio de la noche. Lo único que se escuchaba era alguna que otra lechuza y cada tanto el canto de una urraca. Usted, doctorcito... ¿Sabía que la urraca canta de noche?
+											</p>
+											<p class="p-2">
+												-Sí, eso me han dicho –le mentí para no interrumpir su relato.
+											</p>
+											<p class="p-2">
+												-Bueno, la cosa fue que después de comer y tomarme el vinito, me armé un camastro con los pellones, saqué mi ponchillo para taparme, y puse a mano el 38 y el machete ¡Nunca le vaya a facilitar a la noche en medio del monte! Siempre hay que estar preparado. Puse unos buenos tronquitos para asegurar el fuego durante toda la noche y me dispuse a dormir.  
+											</p>
+											<p class="p-2">
+												-Y... 
+											</p>
+											<p class="p-2">
+												-Enseguida me dormí nomás. No sé cuanto tiempo habrá pasado, pero de repente, los perros empezaron a gemir como si los estuvieran garroteando, o como si hubieran visto algo muy espantoso, algo que los hubiese llenado de miedo ¡Y eso que no es fácil a asustar a la perrada!
+											</p>
+											<p class="p-2">
+												-¿Y...? ¿Qué era...?
+											</p>
+											<p class="p-2">
+												-No me va a creer... Me despierto y me levanto como un resorte, mientras manoteaba mi facón y el 38, y lo que vi me dejó helado. Ni en una pesadilla uno podría ver algo así...
+											</p>
+											<p class="p-2">
+												-¿Qué fue lo que vio don Anacleto?
+											</p>
+											<p class="p-2">
+												-Eran cuatro demonios.
+											</p>
+											<p class="p-2">
+												-¡¿Ehhh?! ¡¿Cuatro demonios?!
+											</p>
+											<p class="p-2">
+												-Como lo escucha doctorcito. Cuatro demonios bajo la forma mitad humana y mitad bestia.
+											</p>
+											<p class="p-2">
+												-¿¡Ehhh?! ¿Cómo...?
+											</p>
+											<p class="p-2">
+												-Eran una cruza de hombre con cabra. La cabeza, el cuello y las patas delanteras, de animal; el resto del cuerpo de persona, pero con muchos pelos, como si tuviera el cuero de la cabra. Tenían los ojos muy rojos y la mirada maligna... diabólica.
+											</p>
+											<p>
+												Yo me quedé helado y patitieso con semejante revelación. La verdad es que no lo podía creer, entonces pregunté:
+											</p>
+											<p class="p-2">
+												-Pero... ¿No será que usted a lo mejor... lo soñó nomás?
+											</p>
+											<p class="p-2">
+												-Mire muchacho, yo sé muy bien lo que es un sueño y lo que es realidad, y le digo también que a mí no me van a venir a arrear así nomás, a querer llevarme por delante. No suelo asustarme con facilidad, pero eso me dejó paralizado. Nunca voy a olvidarme de ese instante cuando desperté, y vi a los demonios parados alrededor del fuego. Apenas intentaba incorporarme, cuando esas bestias empezaron a arremeter contra todo, perros, caballo, el fuego, y... yo también ligué un guampazo en ese despelote. 
+											</p>
+											<p class="p-2">
+												-¿Un guampazo?
+											</p>
+											<p class="p-2">
+												-Como lo oye doctorcito. Y del susto se me cayeron el revólver y el facón. Se armó un remolino de tierra, cenizas y tizones que volaban por el aire y los bramidos o rugidos de esos bichos, que le helaban la sangre a cualquiera ¡Jamás de los jamases escuché semejantes chillidos! Eran una mezcla de alarido humano con balido interminable de cabra, algo espeluznante... –dijo bajando la cabeza, y agarrando el vaso de Cinzano, que de una sola empinada se lo tomó enterito.
+											</p>
+											<p>
+												Yo también apuré mi Cinzano, como para acompañarlo en ese momento tan angustioso, y ataqué de nuevo:
+											</p>
+											<p class="p-2">
+												-¿Y ahí don Anacleto...? ¿Qué hizo?
+											</p>
+											<p class="p-2">
+												-Y... ¿qué voy a hacer con semejantes bestias humanas? Me tiré cuerpo a tierra bajo una enramada y me arrastré monte adentro, escapando de ese lugar. Después me trepé a un árbol como si fuera un mono ¡Todo eso en medio de la oscuridad, mi amigo! ¡Es creer o reventar!
+											</p>
+											<p class="p-2">
+												-Me imagino don Anacleto...
+											</p>
+											<p class="p-2">
+												-Desde el árbol observé el lugar del campamento, y sólo podía distinguir el fuego todo desparramado, tizones por todas partes y chispas en el aire envueltas en una terrible polvareda de tierra y cenizas, y en medio de todo eso, las siluetas de las bestias dando saltos y haciendo firuletes en el aire, sin dejar de lanzar esos terribles alaridos. Era una danza infernal doctorcito. Los perros habían desaparecido, y ni se los escuchaba.
+											</p>
+											<p class="p-2">
+												-¿Y usted seguía arriba del árbol?
+											</p>
+											<p class="p-2">
+												-¡Por supuesto doctorcito! Ni borracho iba a bajar de allí. Creo que habré estado por lo menos dos o tres horas horquetado ahí arriba, hasta que empezó a amanecer y ya podía ver nítidamente el lugar del campamento.
+											</p>
+											<p class="p-2">
+												-¿Y qué vio don Anacleto?
+											</p>
+											<p class="p-2">
+												-¿Y qué voy a ver...? ¡Un tremendo despelote! El lugar parecía como si por allí hubiese pasado una tropilla de redomones...
+											</p>
+											<p class="p-2">
+												-¿Y los demonios...?
+											</p>
+											<p class="p-2">
+												-Los demonios habían desaparecido, igual que mis perros, mi tropa y mi caballo ¡Me quedé a pie, doctorcito!
+											</p>
+											<p class="p-2">
+												-¡A la flauta!
+											</p>
+											<p class="p-2">
+												-Cuando bajé del árbol, me puse a recorrer y mirar el lugar, había un gran desparramo de tizones, de mis calchas, de los arreos, y contra el tronco de un gran algarrobo... lo que vi me dejó mudo...
+											</p>
+											<p class="p-2">
+												-¿Qué vio...?
+											</p>
+											<p class="p-2">
+												-La estampita de la Virgen de Itatí, estaba atravesada por mi facón y clavada en el tronco de ese árbol...
+											</p>
+											<p class="p-2">
+												-¿La estampita? ¿Qué estampita?
+											</p>
+											<p class="p-2">
+												-Una estampita que yo solía llevar cada vez que salía con alguna tropa, para que me protegiera de cualquier cosa. Me la regaló mi suegra. La había traído de Itatí ¡y estaba bendecida! ¿Qué me cuenta?
+											</p>
+											<p class="p-2">
+												-Realmente increíble y para morirse de miedo don...
+											</p>
+											<p class="p-2">
+												-Y sí... Esos demonios no sólo casi me matan del susto, sino que me dejaron solo y a pata en medio del estero. Tuve que caminar unas cinco horas para llegar a mi casa.
+											</p>
+											<p>
+												Ahí sí que ya no me quedó ninguna duda de su historia. Veía su rostro alterado cuando narraba, sus ojitos brillosos, como si en ese mismo momento estuviera viendo a los demonios. Le serví otro vaso de Cinzano, y tomó la mitad en el acto. Se aclaró la garganta y arrancó nuevamente.
+											</p>
+											<p class="p-2">
+												-Y por si me había quedado alguna duda de lo que había visto, al mes más o menos, se me volvieron a presentar los cuatro demonios...
+											</p>
+											<p class="p-2">
+												-¿Otra vez?
+											</p>
+											<p class="p-2">
+												-Sí, fue una madrugada que salimos desde mi chacra arreando una tropilla de veinte vaquillonas. Partimos con mi compadre, el Eugenio Ávalos. Capaz que lo oyó nombrar...
+											</p>
+											<p class="p-2">
+												-No, la verdad que no, don Anacleto.
+											</p>
+											<p class="p-2">
+												-Bueno, la cosa fue que salimos a eso de las tres de la mañana y no habremos hecho ni una hora de camino, y ya bordeábamos el estero, para agarrar el camino a Yatay, cuando los animales se espantaron, como si hubieran visto diez fantasmas juntos. Salieron espantados y empezaron a correr en todas las direcciones, algo que sólo ocurre cuando los animales se asustan mucho. 
+											</p>
+											<p class="p-2">
+												-¿Y ahí...?
+											</p>
+											<p class="p-2">
+												-Empezamos a los chicotazos y gritos, para ver si podíamos reagruparlos, pero esos animales corrían como si hubieran visto al mismísimo demonio ¿Y qué le cuento? ¡No habían visto al demonio! ¡¡Habían visto a los cuatro demonios!!
+											</p>
+											<p class="p-2">
+												-¡¿No me diga?!
+											</p>
+											<p class="p-2">
+												-Sí doctorcito, los mismos cuatro demonios que me habían aparecido, estaban a la orilla del estero, parados y mirándonos... ¡Son los cuatro Diablos! Le grité a mi compadre.
+											</p>
+											<p class="p-2">
+												-¿Y cómo los vieron? Era de madrugada y seguramente estaba todo oscuro...
+											</p>
+											<p class="p-2">
+												-Los ojos, muchacho, esos cuatro pares de ojos rojos brillando como brazas en la oscuridad, son inconfundibles, y los tengo grabados en mi memoria para siempre. Yo enseguida los reconocí, pero además, el Eugenio sacó la linterna y alumbró ¡Y ni le cuento el julepe que se agarró el compadre! Esas cuatro figuras diabólicas, mitad persona y mitad bestia, eran algo que podía matar del susto a cualquiera. El Eugenio sacó el 32 largo y le metió plomo sin asco. Yo también desenfundé mi 38 y le vacié el tanque...
+											</p>
+											<p class="p-2">
+												-¿Y... los mataron?
+											</p>
+											<p class="p-2">
+												-¡Pero doctorcito! ¿Dónde habrá visto o escuchado que puedan matar al demonio? Después de la balacera, los cuatro demonios seguían parados en el mismo lugar como si nada, y ahí se nos vinieron al humo.
+											</p>
+											<p class="p-2">
+												-¡Qué lo tiró! Y ahí me imagino que sacaron los facones, para pelearlos...
+											</p>
+											<p class="p-2">
+												-¿A usted le parece que yo mastico vidrio doctorcito? ¡Ni locos íbamos a enfrentarlos! Cuando vimos que se nos venían, le metimos espuela y chicote a los caballitos y salimos a galope tendido ¡Parecíamos dos cohetes! Meta guacha, gritos y espuela íbamos con el compadre hasta que, de repente, a mi costado, se me aparea uno de los demonios, me mira con sus ojos diabólicos, a menos de un metro de distancia y ahí parece que el caballito también vio al demonio, porque frenó en seco del susto, como para cambiar de rumbo, y yo volé por el aire como un cachilito y me estampé contra un tacurú. A partir de ahí, no me acuerdo de nada y cuando desperté, después de estar cuatro días inconsciente, ya estaba en mi casa, todo golpeado y vendado y con mi pierna derecha rota. Quedé medio descaderado también. A mi compadre lo encontraron a unos doscientos metros de donde yo había caído. Estaba acurrucado entre unos espartillos, hecho un ovillo, con la cabeza entre las piernas...
+											</p>
+											<p class="p-2">
+												-Tendría frío seguramente –deduje.
+											</p>
+											<p class="p-2">
+												-Estaba muerto, doctorcito. Se murió del susto. Así, en esa posición todo acurrucado, suelen encontrarse a las personas cuando mueren del susto. El corazón no le aguantó al compadre y quien sabe todas las cosas que vio y padeció antes de morir. Yo creo que me salvé porque perdí la conciencia. Desde ese día dejé para siempre la vida de tropero.
+											</p>
+											<p class="p-2">
+												Me quedé con la boca abierta. Su historia confirmaba mi visión de los cuatro pares de ojos rojos sobre el estero y el por qué de ese nombre.
+											</p>
+											<p class="p-2">
+												Hablamos un rato más, hasta que se nos terminó la botella de Cinzano, justo cuando ya nos llamaban para el asado.
+											</p>
+									      </div>
+									      <div class="modal-footer">
+									        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+									      </div>
+									    </div>
+									  </div>
+									</div>
+					    		</p>
+					    	</li>
+					    	<li>
+					    		<p>Un extraño en la ventana</p>
+					    	</li>
+					    	<li>
+					    		<p>El ojeo</p>
+					    	</li>
+					    	<li>
+					    		<p>Crispín Soto y El Diablo 
+					    			<span class="text-muted float-right">
+					    				(1ra Parte)
+					    			</span>
+					    		</p>
+					    	</li>
+					    	<li>
+					    		<p>Armas y Diablo</p>
+					    	</li>
+					    	<li>
+					    		<p>La Poseída </p>
+					    	</li>
+					    	<li>
+					    		<p>Una historia sobre el hombre del capote negro</p>
+					    	</li>
+					    </ul>
+					  </div>
+					</div>
 
-			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
-			</nav>
-	    </div>
-	  </div>
+				  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
+				  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
+				</nav>
+		    </div>
+		  </div>
 	<!-- VII -->
 	  <div class="card">
 	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Terror-7.jpg" alt="Card image cap">
@@ -790,7 +792,7 @@
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
@@ -1048,7 +1050,7 @@
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
@@ -1685,7 +1687,7 @@
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
@@ -1743,8 +1745,10 @@
 											¡Dejémonos de pavadas! Quiero que sepan una cosa y que se la graben a fuego en vuestras cabecitas: los tiburones en comparación con las palometas, son una manada de ovejas. Unos pollitos enfermos. Y algunos dirán, sí, pero los tiburones pueden medir hasta doce metros y llegar a pesar hasta una tonelada, y las palometas, sólo alcanzan a medir unos veinte o treinta centímetros y pesar no más de un kilo ¿Y yo qué digo?: Ahá, muy bien, es muy cierto, pero quiero ver a alguien de ustedes que se anime a zambullirse en un río y que trate de hacerse amigo de doscientas palometas y después me cuente.
 										</p>
 										<p>
-											Basta de pavadas. Es aconsejable que dejen las fantasías televisivas de los tiburones y pongan atención en esto, que quizá algún día sirva para evitar una desgracia. 
-Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, perversas, ¿algo más? Sí. Vienen por miles y atacan todas juntas. Nadie, absolutamente nadie, ha sobrevivido al ataque de un ejército de palometas. Pero no se queden tranquilos. Si creyeron que esto es todo lo malo de las palometas, error, hay dos cosas mucho más terrible que se los contaré más adelante.
+											Basta de pavadas. Es aconsejable que dejen las fantasías televisivas de los tiburones y pongan atención en esto, que quizá algún día sirva para evitar una desgracia.
+										</p>
+										<p>
+											Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, perversas, ¿algo más? Sí. Vienen por miles y atacan todas juntas. Nadie, absolutamente nadie, ha sobrevivido al ataque de un ejército de palometas. Pero no se queden tranquilos. Si creyeron que esto es todo lo malo de las palometas, error, hay dos cosas mucho más terrible que se los contaré más adelante.
 										</p>
 										<p>
 											“¿Qué nos dice de las pirañas, señor?” pregunta uno. Nada. Simplemente que son las primitas de las palometas y tienen mucha fama porque las promocionan en televisión y películas, para asustar a la gente.
@@ -1839,7 +1843,7 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
@@ -1983,7 +1987,7 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
@@ -2148,13 +2152,9 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
-	  </div>
-	<!-- Relleno -->
-	  <div class="card">
-	    <div class="card-body">Relleno</div>
 	  </div>
 </section>
 
@@ -2167,238 +2167,20 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 	</span>
 </div>
 
+<!-- FANTASMA DE LA PANADERÍA -->
+<hr class="col-2">
+
 <section id="libros-list" class="card-columns p-1">
-	<!-- Fan -->
+	<!-- Fantasma de la panadería -->
 	  <div class="card">
 	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/El-Fantasma....png" alt="Card image cap">
 	    <div class="card-body">
 			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
-
-				<div class="collapse" id="collapseExample">
-				  <div class="card card-body">
-				    <ul>
-				    	<li>
-				    		<p>De ánimas, aparecidos y otras yerbas</p>
-				    	</li>
-				    	<li>
-				    		<p>Alma en pena</p>
-				    	</li>
-				    	<li>
-				    		<p>El payaso maldito</p>
-				    	</li>
-				    	<li>
-				    		<p>La luz mala</p>
-				    	</li>
-				    	<li>
-				    		<p>
-								<!-- Button trigger modal -->
-				    			<a data-toggle="modal" data-target="#llamadosModal" href="#">
-					    			Llamados en la madrugada 
-					    			<small id="leer">
-					    		      <i class="fab fa-readme"></i>
-					    		    </small>
-				    			</a>
-
-								<!-- Modal -->
-								<div class="modal fade bd-example-modal-lg" id="llamadosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-								  <div class="modal-dialog modal-dialog-centered" role="document">
-								    <div class="modal-content">
-								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
-								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
-								          <i class="fas fa-times text-muted"></i>
-								        </button>
-								      </div>
-								      <div class="modal-body container belle h4">
-										<p>
-											Era una noche bastante calurosa, con mucha humedad. Ese día había estado lloviendo toda la tarde y casi hasta la nochecita, pero la temperatura apenas había bajado un poco.
-										</p>
-										<p>
-											El tío Aldo, sus dos ayudantes de la panadería y el pequeño M estaban tomando mate mientras horneaban el pan. Con apenas diez años, a M le gustaba quedarse hasta la madrugada o el amanecer hablando de cosas raras con el tío y sus ayudantes. Casi siempre hablaban de cosas fantásticas, claro, porque el tío Aldo era medio fantástico. A él siempre le sucedían cosas raras, cosas que a otras personas jamás les ocurrían.
-										</p>
-										<p>
-											La panadería de Cancha Larga era de por sí bastante tétrica. Estaba ubicada en medio del monte espeso, no había casas cercanas y los caminos eran angostos, casi como túneles, porque los árboles de cada costado se tocaban arriba con sus ramas, haciéndole como un techito al sendero. Ni loco alguien se animaba a pasar por allí de noche.
-										</p>
-										<p>
-											Era una casona grandísima: tenía más de diez piezas, grandes galerías, salas, salones, galpones, y la panadería que estaba a unos veinte metros. Todo el edificio estaba bastante abandonado y nunca nadie le había dado una manito de pintura, pero se notaba que había sido muy lindo cuando recién lo construyeron.
-											La casa y todo lo que la rodeaba ya daban miedo, pero además todo el mundo contaba que estaba embrujada, que se oían voces, ruidos raros, gritos o llamados en la noche, cuando no apariciones de hombres altos con capotes negros. Estar ahí era para morirse de miedo.
-											Por las dudas M nunca se despegaba de su tío, y menos que menos a la noche.
-										</p>
-										<p>
-											Y así estaban, mateando y hablando de la última pesca que habían hecho en el río Guaycurú. El tío Aldo contaba que sacó un surubí de veinte kilos y unos cuantos dorados. Alrededor todo era silencio y sólo se escuchaba cada tanto a un grillito, y a lo lejos, casi como un lamento, se oía a una urraca.
-										</p>
-										<p class="font-weight-bold">
-											De repente…
-										</p>
-										<p>
-											¡Clap, clap, clap!... 
-										</p>
-										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-											El salto que pegaron todos de sus banquitos significaba que se habían agarrado un julepe bárbaro. Se miraron con cara de asustados y se quedaron en silencio, paralizados. Esperaban que volvieran a golpear las manos y llamar, porque no sabían de dónde venía el llamado. Todos estaban como duros de miedo, mirándose y de nuevo…
-										</p>
-										<p>
-											¡Clap, clap, clap!... 
-										</p>
-										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-											Ahí sí, escucharon que el llamado venía del callejón que pasaba por el costado de la casa, cerca del portoncito. El tío Aldo agarró su escopeta, que siempre tenía a mano; uno de los muchachos llevó el radiosol y el otro un machete. M iba casi pegado a la cola de su tío.
-										</p>
-										<p>
-											Llegaron al portoncito y miraron para el lado de afuera, en el callejón, hacia los jardines, y nada. Recorrieron un poco el lugar... y nada. 
-											Se quedaron un poco preocupados y casi sin hablar volvieron al patio, pero todos ya estaban bastante serios e intrigados.
-										</p>
-										<p>
-											—¿Qué será eso, don Aldo? —preguntó asustado uno de sus ayudantes.
-										</p>
-										<p>
-											—Y nada... capaz que pasó algún tipo y quiso hacer una broma —dijo el tío muy poco convencido.
-										</p>
-										<p>
-											Él también sospechaba que podría tratarse de algo del más allá, algún aparecido, un alma en pena o alguno de los fantasmas que siempre rondaban la casa, pero no quería preocuparlos más.
-										</p>
-										<p>
-											—Muchachos...—dijo el tío— vamos a hacer una cosa. Nos preparamos por si vuelven a golpear, entonces salimos corriendo todos y cada uno sabrá lo que tiene que hacer.
-										</p>
-										<p>
-											Ahí ya se entusiasmaron todos.
-										</p>
-										<p>
-											—Vos, José, vas a llevar el radiosol. Apenas golpean, salís rajando hacia el portoncito o hacia donde escuches que golpean. Coco, vos agarrá el machete y corré para la izquierda. Yo voy para la derecha. Entonces, si el tipo golpea y sale corriendo, lo agarrás vos o lo agarro yo. ¿Estamos?
-										</p>
-										<p>
-											—Y yo... ¿qué hago? —preguntó M.
-										</p>
-										<p>
-											—Nada. Vos salís corriendo atrás mío y no te despegues.
-										</p>
-										<p>
-											Habrá pasado una media hora y...
-										</p>
-										<p>
-											¡Clap, clap, clap!... 
-										</p>
-										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-										</p>
-										<p>
-											—¡Vamos, muchachos! —gritó el tío.
-										</p>
-										<p>
-											Como alma que se lleva el diablo, todos salieron corriendo como lo habían planeado. José picó en punta con el radiosol hacia el portoncito; el tío Aldo con su escopeta, para la derecha y Coquito con su machete, para la izquierda. 
-										</p>
-										<p>
-											No habrá dado cinco pasos José, cuando se llevó por delante a uno de los perros que también corría hacia el portoncito y ¡puf! al suelo. Se pegó un flor de porrazo que levantó tanta polvareda que no se entendía nada; aparte el radiosol se rompió y quedaron en la más completa oscuridad. Por supuesto, se frustró el plan para atrapar al que llamaba.
-										</p>
-										<p>
-											El tío Aldo intentó arreglar el radiosol, pero no hubo caso. No les quedó más remedio que prender dos candiles, y ahí era más terrorífico todavía. Con la luz del candil todo parece más aterrador porque apenas alumbra, y como las llamitas de los candiles se mueven, las caras parecen cambiar de formas y encima en esa situación...
-										</p>
-										<p>
-											—Tío... ¿me podés llevar a mi casa? —preguntó M temblando de miedo.
-										</p>
-										<p>
-											—No podemos ir a esta hora a La Leonesa. Aparte, quedate piola que no va a pasar nada —trató de tranquilizarlo el tío.
-										</p>
-										<p>
-											Debido a que el principal elemento de iluminación se había roto, no podían hacer gran cosa, ya que no se podía correr con los candiles porque se apagaban por el viento. Entonces, el tío mandó a sacar las pilas de la radio, y buscó en la casa su linterna de pesca de tres elementos. Probaron y alumbraba muy lindo, se ve que las pilas eran nuevas. Luego dio las nuevas indicaciones:
-										</p>
-										<p>
-											—Muchachos, vamos a cambiar el plan. Vos, José, te vas con la linterna y te escondés detrás de la palmera que está a diez metros del portoncito. Apenas golpean, vos iluminás y nosotros corremos hacia el lugar.
-										</p>
-										<p>
-											—No vayan a tardar ¿eh? —dijo José
-										</p>
-										<p>
-											Y de nuevo se pusieron a tomar mate a la luz de los candiles, mientras el aterrorizado José hacía guardia escondido en la palmerita. Ya serían como las cuatro de la madrugada; Coquito bostezaba cada rato y a M se le cerraban los ojos, cuando...
-										</p>
-										<p>
-											¡Clap, clap, clap!... 
-										</p>
-										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-										</p>
-										<p>
-											De un salto patearon candiles, cayó la pava del mate, M que estaba medio dormido se paró de inmediato, pero no sabía para dónde correr. Los perros enfurecidos ladraban y, desde la palmerita, José gritaba como un loco:
-										</p>
-										<p>
-											—¡¡¡Ahí está!!! ¡¡¡Ahí está, don Aldo!!!
-										</p>
-										<p>
-											El tío con su escopeta y Coquito con el machete salieron disparados hacia el callejón, mientras la linterna de José encandilaba para todas partes y él no paraba de gritar:
-										</p>
-										<p>
-											—¡¡¡Acá va, don Aldo!!! ¡¡¡Acá va!!!
-										</p>
-										<p>
-											Y todos llegaron al alambrado contra el callejón… y nada. Alumbraron para aquí y para allá y nada. Pero José no paraba de temblar y seguía con el asunto:
-										</p>
-										<p>
-											—Le juro, don Aldo, que le vi... pasó corriendo delante mío. Era un tipo alto todo de negro. No le pude ver bien la cara porque era toda negra…
-										</p>
-										<p>
-											—Bueno, vamos a ver —dijo el tío—, hoy llovió todo el día y la arena del callejón está bien lisita. Habrán quedado algunas huellas.
-										</p>
-										<p>
-											Y todos salieron al callejón y alumbraron para aquí y para allá, y nada. El piso estaba lisito y sin ninguna marca, parecía una mesa de billar.
-										</p>
-										<p>
-											—Pero... don Aldo, le juro que yo le vi…—seguía diciendo José.
-										</p>
-										<p>
-											Y todos se volvieron a la casa. Como el pan ya estaba listo, lo sacaron del horno, lo embolsaron y se preparaban para ir a dormir, pero José habló de nuevo:
-										</p>
-										<p>
-											—Don Aldo, yo me voy a mi casa. Tengo miedo por mi mamá que está sola con mi hermanita y si ese tipo va para allá… Tengo miedo que le pase algo a cualquiera de ellas…
-										</p>
-										<p>
-											Y el tío trató de tranquilizarlo, que no iba a pasar nada, que se quedara a dormir y se fuera al otro día a la mañana, pero no hubo caso.
-										</p>
-										<p>
-											Ensilló el caballo, puso su cuchillo en la cintura y un machete entre las calchas y partió.
-										</p>
-										<p>
-											A la mañana siguiente, casi al mediodía apareció Sebastián, un primo de José, y preguntó por el tío.
-										</p>
-										<p>
-											—¿Qué pasa, Sebastián? 
-										</p>
-										<p>
-											—Don Aldo, hoy a la mañana unos troperos que iban llevando unos bueyes, encontraron el caballo de José al costado del camino, ahí en la curva, donde están esos algarrobos y el palo borracho. Pararon y se pusieron a mirar y... encontraron a José. Estaba al lado del alambrado, debajo de una enramada… acurrucado, como que tenía frío…
-										</p>
-										<p>
-											—Y... ¿qué estaba haciendo ahí? —preguntó con mucha preocupación el tío.
-										</p>
-										<p>
-											Y con lágrimas en los ojos el primo contestó:
-										</p>
-											—Estaba muerto, don Aldo.
-										</p>
-								      </div>
-								      <div class="modal-footer">
-								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
-								      </div>
-								    </div>
-								  </div>
-								</div>
-				    		</p>
-				    	</li>
-				    	<li>
-				    		<p>El Pomberito</p>
-				    	</li>
-				    	<li>
-				    		<p>Viento Norte</p>
-				    	</li>
-				    	<li>
-				    		<p>Juegos peligrosos</p>
-				    	</li>
-				    </ul>
-				  </div>
-				</div>
+			  <a class="btn btn-warning disabled" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
@@ -2413,213 +2195,294 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 	</span>
 </div>
 
+<hr class="col-2">
+
 <section id="libros-list" class="card-columns p-1">
-	<!-- MENSAJES DEL MAS ALLÁ -->
+	<!-- I -->
 	  <div class="card">
 	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Cuando-era-chico-1.jpg" alt="Card image cap">
 	    <div class="card-body">
 			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
+			  <a class="btn btn-warning" data-toggle="collapse" href="#collapse1CuandoChico" role="button" aria-expanded="false" aria-controls="collapse1CuandoChico">Índice</a>
 
-				<div class="collapse" id="collapseExample">
+				<div class="collapse" id="collapse1CuandoChico">
 				  <div class="card card-body">
 				    <ul>
 				    	<li>
-				    		<p>De ánimas, aparecidos y otras yerbas</p>
+				    		<p>Yo nací en el Chaco</p>
 				    	</li>
 				    	<li>
-				    		<p>Alma en pena</p>
-				    	</li>
-				    	<li>
-				    		<p>El payaso maldito</p>
-				    	</li>
-				    	<li>
-				    		<p>La luz mala</p>
+				    		<p>El héroe</p>
 				    	</li>
 				    	<li>
 				    		<p>
 								<!-- Button trigger modal -->
-				    			<a data-toggle="modal" data-target="#llamadosModal" href="#">
-					    			Llamados en la madrugada 
+				    			<a data-toggle="modal" data-target="#pandorgaModal" href="#">
+					    			La pandorga gigante 
 					    			<small id="leer">
 					    		      <i class="fab fa-readme"></i>
 					    		    </small>
 				    			</a>
 
 								<!-- Modal -->
-								<div class="modal fade bd-example-modal-lg" id="llamadosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal fade bd-example-modal-lg" id="pandorgaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
+								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">La pandorga gigante</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
 								      </div>
 								      <div class="modal-body container belle h4">
 										<p>
-											Era una noche bastante calurosa, con mucha humedad. Ese día había estado lloviendo toda la tarde y casi hasta la nochecita, pero la temperatura apenas había bajado un poco.
+											Una de las cosas más fantásticas que fabricamos con Sergio fue la pandorga gigante ¡qué pandorgón nos mandamos! Pero eso no fue nada, lo más increíble sucedió el día que la hicimos volar por primera vez... y por última.
 										</p>
 										<p>
-											El tío Aldo, sus dos ayudantes de la panadería y el pequeño M estaban tomando mate mientras horneaban el pan. Con apenas diez años, a M le gustaba quedarse hasta la madrugada o el amanecer hablando de cosas raras con el tío y sus ayudantes. Casi siempre hablaban de cosas fantásticas, claro, porque el tío Aldo era medio fantástico. A él siempre le sucedían cosas raras, cosas que a otras personas jamás les ocurrían.
+											La pandorga medía como dos metros de diámetro, y le pusimos de cola unos pantalones, camisas viejas y unos pedazos de pellones que encontramos por ahí.
 										</p>
 										<p>
-											La panadería de Cancha Larga era de por sí bastante tétrica. Estaba ubicada en medio del monte espeso, no había casas cercanas y los caminos eran angostos, casi como túneles, porque los árboles de cada costado se tocaban arriba con sus ramas, haciéndole como un techito al sendero. Ni loco alguien se animaba a pasar por allí de noche.
+											Me acuerdo de que la empezamos a fabricar un sábado que yo llegué a Cancha Larga, justo el día que comenzaban las vacaciones de invierno ¡tenía por delante quince días para pasármela en el campo con mi primo!
 										</p>
 										<p>
-											Era una casona grandísima: tenía más de diez piezas, grandes galerías, salas, salones, galpones, y la panadería que estaba a unos veinte metros. Todo el edificio estaba bastante abandonado y nunca nadie le había dado una manito de pintura, pero se notaba que había sido muy lindo cuando recién lo construyeron.
-											La casa y todo lo que la rodeaba ya daban miedo, pero además todo el mundo contaba que estaba embrujada, que se oían voces, ruidos raros, gritos o llamados en la noche, cuando no apariciones de hombres altos con capotes negros. Estar ahí era para morirse de miedo.
-											Por las dudas M nunca se despegaba de su tío, y menos que menos a la noche.
+											Siempre fabricábamos pandorgas, pero de las comunes, y nos gustaba remontarlas sobre el estero o en alguna chacra y enganchar un paracaídas al hilo; entonces lo hacíamos subir bien alto y cuando estaba cerca de la pandorga, realizábamos una maniobra con el piolín (un saludito) y con eso el paracaídas se desenganchaba y empezaba a caer lentamente. Muchas veces le atábamos al paracaídas un soldadito de plástico, para imaginarnos que se venía una invasión o cosas así. 
 										</p>
 										<p>
-											Y así estaban, mateando y hablando de la última pesca que habían hecho en el río Guaycurú. El tío Aldo contaba que sacó un surubí de veinte kilos y unos cuantos dorados. Alrededor todo era silencio y sólo se escuchaba cada tanto a un grillito, y a lo lejos, casi como un lamento, se oía a una urraca.
-										</p>
-										<p class="font-weight-bold">
-											De repente…
+											El asunto de la pandorga gigante ya lo habíamos hablado varias veces y se nos había ocurrido que si era bien grande, tendría mucha fuerza y podríamos hacer subir por el piolín a una gallina o a un gato atado a un paracaídas y tirarlos desde allá arriba ¡íbamos a ser los primeros en tener gallinas o gatos paracaidistas! Pero jamás se nos pasó por la cabeza lo que luego nos sucedió.
 										</p>
 										<p>
-											¡Clap, clap, clap!... 
+											Desde hacía unos diez días, Sergio ya había cortado unas varillas de guayibí, que es lo mejor que hay para fabricar pandorgas y las secó bien al sol, así que esa misma siesta nos pusimos a armarla con mucho entusiasmo. Cruzamos cuatro varillas para que la pandorga tuviera ocho lados en su borde, además con esta forma son muy estables y no coletean tanto. Le reforzamos el centro con unas vueltas de alambre bien ajustado y a las puntas las unimos con un piolín. Cuando estuvo listo el esqueleto, recortamos papel de unas bolsas de harina, que es un papel fuertísimo y no se rompe ni a palos, preparamos como cinco litros de engrudo y lo pegamos al esqueleto ¡que lo tiró que era grande! Parecía un plato volador. 
 										</p>
 										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-											El salto que pegaron todos de sus banquitos significaba que se habían agarrado un julepe bárbaro. Se miraron con cara de asustados y se quedaron en silencio, paralizados. Esperaban que volvieran a golpear las manos y llamar, porque no sabían de dónde venía el llamado. Todos estaban como duros de miedo, mirándose y de nuevo…
+											En realidad no hicimos todo solos, también nos ayudaron los hermanos Acuña, Eduardo y Raúl, que eran muy compinches de Sergio. El otro que también estaba era Marcelino Cuesta, un chico de unos diez años, pero que parecía de seis o siete de tan flaquito y arruinado; capaz que no pesaba ni veinte kilos. Hacía poco él y su familia habían venido a vivir a Cancha Larga y tenían su ranchito cerca de la chacra de los Almanza.
 										</p>
 										<p>
-											¡Clap, clap, clap!... 
+											Mi primo y los Acuña le habían puesto de sobrenombre Canastita, porque decían que de tan livianito podía andar pisando los camalotes y las hojitas sobre el agua —como el pajarito— y no hundirse. A Canastita no le dejaban hacer nada, porque no servía ni para cuidar a un perro atado, así que el pobrecito se la pasaba agachado con sus brazos sobre las rodillas y la carita apoyada, mirándonos horas y horas con sus ojitos muy grandes y curiosos. A mí me daba lástima, pero el que mandaba era Sergio, así que no había discusión.
 										</p>
 										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-											Ahí sí, escucharon que el llamado venía del callejón que pasaba por el costado de la casa, cerca del portoncito. El tío Aldo agarró su escopeta, que siempre tenía a mano; uno de los muchachos llevó el radiosol y el otro un machete. M iba casi pegado a la cola de su tío.
+											 A eso de las cinco de la tarde ya se había secado bien el engrudo y Sergio fue hasta un galpón a buscar la pintura. La pintamos de azul y amarillo ¡por supuesto! ¡Si Sergio y yo éramos boquenses hasta el caracú! También le agregamos en cada punta de las varillas unas tiritas de papel crepé con los mismos colores. Ya nos imaginábamos que todo Cancha Larga iba a ver en los cielos esa inmensa pandorga azul y oro. A la tardecita nos despedimos y quedamos en encontrarnos al otro día a las once.
 										</p>
 										<p>
-											Llegaron al portoncito y miraron para el lado de afuera, en el callejón, hacia los jardines, y nada. Recorrieron un poco el lugar... y nada. 
-											Se quedaron un poco preocupados y casi sin hablar volvieron al patio, pero todos ya estaban bastante serios e intrigados.
+											Ese domingo hacía mucho frío y había un viento norte terrible, así que eso venía muy bien para nuestros planes. A eso de las once de la mañana, llegaron los Acuña y nos juntamos en el galpón; Canastita ya estaba desde las nueve, porque desconfiaba de todos nosotros y por nada del mundo quería perderse la remontada. 
 										</p>
 										<p>
-											—¿Qué será eso, don Aldo? —preguntó asustado uno de sus ayudantes.
+											Partimos hacia una chacrita al costado del estero, ése era el lugar perfecto porque estaba recién arada y rastreada y medía como trescientos metros de largo por cien de ancho. Habíamos conseguido un carretel de doscientos metros de un piolín gruesísimo, de los que se usan para poner cimbras en el río, y cuando llegamos a la chacrita le hicimos las riendas, ajustamos todo y preparamos el operativo. ¡Qué emoción teníamos! Hasta Canastita saltaba de alegría y eso que no había hecho un pito… 
+										</p>
+										<p class="p-2">
+											—Y yo... ¿Qué hago, Keko…? —preguntó el gurrumín a mi primo con mucho temor.
+										</p>
+										<p class="p-2">
+											—¡¡¡Dejate de embromar!!! Eso podes hacer ¡qué hincha que sos! —le respondió con autoridad.
 										</p>
 										<p>
-											—Y nada... capaz que pasó algún tipo y quiso hacer una broma —dijo el tío muy poco convencido.
+											Cuando estuvo todo listo, Sergio dio las instrucciones para el despegue: los Acuña serían los encargados de sostener la pandorga de cara al viento y esperar la orden para soltarla; mi primo sostendría el piolín y manejaría la remontada, y yo tenía que prenderme del piolín a unos cinco metros detrás de él, para ayudarlo a sostener por si hacía mucha fuerza…
+										</p>
+										<p class="p-2">
+											—Yo quiero ayudaaaar…—atacó de nuevo Canastita con su voz de lamento de urraca, viendo que el despegue era inminente.
+										</p>
+										<p class="p-2">
+											—¡Pero, será posible! no ves que sos muy chiquito y arruinado para hacer algo...
+										</p>
+										<p class="p-2">
+											—…yo quiero ayudaaaar…
+										</p>
+										<p class="p-2">
+											—¡Bueno, mirá! Antes de que te dé una patada y te haga volar hasta el medio del estero, andá con Eduardo y Raúl a sostener la pandorga ¡y no me hables más!
 										</p>
 										<p>
-											Él también sospechaba que podría tratarse de algo del más allá, algún aparecido, un alma en pena o alguno de los fantasmas que siempre rondaban la casa, pero no quería preocuparlos más.
+											Y ésa fue la mayor felicidad que pudiera haber recibido Canastita, salió a los saltos, loco de contento y agitando sus manitos hacia el cielo, corriendo hasta la pandorga que estaba a unos cincuenta metros ¡por fin podía hacer algo! Los Acuña lo pusieron en medio de ellos y le dijeron que se prendiera firmemente de las varillas y sostuviera con fuerza. En ese momento el viento soplaba como un chiflete, así que ahí nomás Sergio dio la orden esperada: 
+										</p>
+										<p class="p-2">
+											—¡¡¡Suelten!!!
 										</p>
 										<p>
-											—Muchachos...—dijo el tío— vamos a hacer una cosa. Nos preparamos por si vuelven a golpear, entonces salimos corriendo todos y cada uno sabrá lo que tiene que hacer.
+											Yo me afirmé trancando mi pie en un pozo y sosteniendo el piolín contra la cintura, como cuando se sostiene un lazo al enlazar un novillo, y ahí sentí el tirón cuando la fantástica pandorga empezó a levantar vuelo, haciendo un ruido grave por el zumbido del viento ¡parecía un avión a chorro, la loca! Haciendo flamear las tiritas azul y oro, su cola de ropas y pellones ¡qué emoción era ver esa cosa gigantesca subir a los cielos! Pero…¡¡Canastita también había levantado vuelo!!
 										</p>
 										<p>
-											Ahí ya se entusiasmaron todos.
+											¡¡No lo podíamos creer!! Canastita ya estaba a unos seis o siete metros de altura gritando y pataleando, prendido como una garrapata a la pandorga y enredado con la cola. Parece que de tanta emoción se olvidó de que tenía que soltarla o no escuchó la orden y cuando se avivó ya estaba subiendo y tuvo miedo de tirarse. ¡Qué desesperación nos agarró a todos! ¡No sabíamos qué corchos hacer! 
 										</p>
 										<p>
-											—Vos, José, vas a llevar el radiosol. Apenas golpean, salís rajando hacia el portoncito o hacia donde escuches que golpean. Coco, vos agarrá el machete y corré para la izquierda. Yo voy para la derecha. Entonces, si el tipo golpea y sale corriendo, lo agarrás vos o lo agarro yo. ¿Estamos?
+											Lo único que nos salió a todos fue gritarle a Canastita, pero me parece que con eso lo confundíamos más, porque Sergio y yo le decíamos una cosa y los Acuña, que estaban más cerca de la pandorga, le gritaban otra:
+										</p>
+										<p class="p-2">
+											—¡¡Tirate, pedazo de tarado!! ¡¡Tirate, infeliz, no ves que si no te vas al cielo!!— le gritábamos nosotros.
+										</p>
+										<p class="p-2">
+											—¡Agarrate, Canastita! ¡Agarrate bien fuerte y no te sueltes, que te vas a lastimar! —suplicaban Eduardo y Raúl.
 										</p>
 										<p>
-											—Y yo... ¿qué hago? —preguntó M.
+											Y Canastita no sabía a quién hacerle caso, mientras la pandorga subía y subía, y él lloraba a grito pelado y pedía que lo bajaran; y lo peor era que el viento cada vez más fuerte nos empezó a arrastrar a Sergio y a mí, porque nosotros no le dábamos soga, sino la pandorga llegaba hasta las nubes.
 										</p>
 										<p>
-											—Nada. Vos salís corriendo atrás mío y no te despegues.
+											La cosa es que en esa lucha por sostenerla, en un momento tropecé y me fui de panza al suelo, y como no le aflojaba al piolín, me empezó a arrastrar por la tierra arada levantando polvareda. Sergio se desesperaba por sostenerla y me gritaba:
+										</p>
+										<p class="p-2">
+											—¡Afirmate! ¡Afirmate, infeliz!, ¡no ves que nos está llevando!
 										</p>
 										<p>
-											Habrá pasado una media hora y...
+											Y yo más que nadie quería afirmarme, pero me seguía arrastrando y  me comí como medio kilo de tierra y hasta perdí mis alpargatas. Por suerte llegaron en nuestra ayuda los Acuña, y entre los cuatro ya pudimos aguantar esa pandorga infernal.
 										</p>
 										<p>
-											¡Clap, clap, clap!... 
+											Ahí recién nos tranquilizamos un poco y mientras mirábamos al piloto, empezamos a calcular qué corchos podíamos hacer para solucionar el asunto. Nos dimos cuenta de que el viento soplaba para el lado del estero; entonces Sergio dijo que lo mejor sería darle más soga a la pandorga para que se mantuviera sobre el agua, entonces si Canastita caía, por los menos caería en el agua y no se lastimaría tanto.
 										</p>
 										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
+											En ese momento la pandorga estaba a unos sesenta o setenta metros de altura y a pesar de eso, Canastita se sentía más tranquilo, hasta parece que le empezó a gustar eso de pilotear; nosotros también nos dimos cuenta de que la cosa ya no era tan peligrosa, porque el peso del piloto estabilizaba muy bien a la pandorga, así que no había peligro de que empezara a coletear ¡mamita querida, si llegaba a coletear! Ahí sí que Canastita se hacía pelota. 
 										</p>
 										<p>
-											—¡Vamos, muchachos! —gritó el tío.
+											Como ya nos sentíamos tranquilos, con la situación controlada y con Canastita sentado y acomodado entre en las riendas de la cola y bien prendido de las varillas, entonces empezamos a disfrutar de la cosa: 
+										</p>
+										<p class="p-2">
+											—¡Che, Canastita! Sos un genio ¡Mirá cuando cuentes esto en la escuela! —le gritó Raúl.
+										</p>
+										<p class="p-2">
+											—¡Canastita! ¡Sos el primer astronauta de Cancha Larga! —lo sentenció Sergio.
 										</p>
 										<p>
-											Como alma que se lleva el diablo, todos salieron corriendo como lo habían planeado. José picó en punta con el radiosol hacia el portoncito; el tío Aldo con su escopeta, para la derecha y Coquito con su machete, para la izquierda. 
+											Y desde el espacio sideral, Canastita ya se animó a hablar y hasta a hacerse el canchero:
+										</p>
+										<p class="p-2">
+											—¡Mantengan esta altura, muchachos! ¡Qué lindo se ve desde acá!
+										</p>
+										<p class="p-2">
+											—¡No te hagas el piola, Canastita, porque soltamos el piolín y te vas de cabeza al agua! —le gritó Sergio.
+										</p>
+										<p class="p-2">
+											—¡No se enojen, muchachos, pero esto es muy lindo!  ¡Eeh! ¡¿Alguien puede ir a llamar a mis hermanos para que me vengan a ver?!
+										</p>
+										<p class="p-2">
+											—¡Vos estás loco! ¡Si se enteran dónde estás, tu viejo nos corre a chicotazos por toda la chacra!
 										</p>
 										<p>
-											No habrá dado cinco pasos José, cuando se llevó por delante a uno de los perros que también corría hacia el portoncito y ¡puf! al suelo. Se pegó un flor de porrazo que levantó tanta polvareda que no se entendía nada; aparte el radiosol se rompió y quedaron en la más completa oscuridad. Por supuesto, se frustró el plan para atrapar al que llamaba.
+											La cosa estaba muy divertida, pero empezamos a darnos cuenta de algo importante y complicado a la vez, y es que no sabíamos cómo hacer para bajar la pandorga y a Canastita sin lastimarlo, porque el viento no aflojaba y si le dábamos más soga, la pandorga se alejaba y subía más todavía, y si tirábamos para bajarla, podría cortarse el piolín por la fuerza del viento. Lo único que quedaba por hacer era esperar que calmara ese chiflete, pero ya era mediodía y teníamos más hambre que perro de tapera y además, en cualquier momento podría venir alguno de la casa a buscarnos y ahí sí que se armaba. 
 										</p>
 										<p>
-											El tío Aldo intentó arreglar el radiosol, pero no hubo caso. No les quedó más remedio que prender dos candiles, y ahí era más terrorífico todavía. Con la luz del candil todo parece más aterrador porque apenas alumbra, y como las llamitas de los candiles se mueven, las caras parecen cambiar de formas y encima en esa situación...
+											Yo calculo que en ese momento Canastita estaría orbitando a unos cien metros de altura sobre el estero y nosotros estábamos casi en el límite de la chacrita y el agua, sosteniendo el piolín, algunos sentados, otros parados y ya medio aburridos por no saber cómo resolver el problema. No sé a quién se le ocurrió una peligrosa idea y a partir de allí se armó una discusión, mientras Canastita miraba desde arriba, queriendo saber de qué corcho hablábamos.
+										</p>
+										<p class="p-2">
+											—Che... ¿y si atamos el piolín a ese aromito, nos vamos a comer y volvemos a la siesta?
+										</p>
+										<p class="p-2">
+											—¡Pero vos sos loco! ¡¿Cómo vamos a dejarlo a Canastita volando y solito, mirá si le pasa algo?! —retrucó otro.
+										</p>
+										<p class="p-2">
+											—¿Y qué le puede pasar? Solamente que se caiga al agua —agregó de nuevo el primero.
+										</p>
+										<p class="p-2">
+											—No seas tarado. Mirá si afloja el viento o empieza a coletear. Si estamos aquí por lo menos podremos manejar la pandorga. O si se cae, podremos socorrerlo rápidamente.
 										</p>
 										<p>
-											—Tío... ¿me podés llevar a mi casa? —preguntó M temblando de miedo.
+											En ese momento intervino un tercero, que dijo:
+										</p>
+										<p class="p-2">
+											—Muchachos, lo que pasa ahora es que no podemos bajarlo y ni siquiera tenemos alguna idea de cómo hacerlo, si seguimos acá, van a venir a buscarnos y ahí se descubre todo. Yo creo que debemos dejarlo atado, vamos a comer, le decimos a los padres de Canastita que él se quedó a comer en lo de los Almanza porque lo invitaron y listo el pollo. Después volvemos a la siesta y ahí ya decidimos cualquier forma para bajarlo.
+										</p>
+										<p class="p-2">
+											—Creo que ésa es una buena idea —apoyaron dos, y con eso se quedó todo decidido.
+										</p>
+										<p class="p-2">
+											—¡Che, Canastita! ¡¿Sabés qué...?! ¡Nosotros nos vamos a comer y...!
+										</p>
+										<p class="p-2">
+											-¡¡¡Nooooooo!!!  ¡¡¡Nooo me dejen, buaaaaaahhhhhhh!!!
+										</p>
+										<p class="p-2">
+											—¡Pará un cacho, no pasa nada, te atamos de este aromito, nos vamos a comer y volvemos lo más rápido posible; eso sí, tratá de no moverte mucho por las dudas, a ver si todavía la haces coletear y te venís a pique!
+										</p>
+										<p class="p-2">
+											—¡¡¡Noooo, no me dejen!!! ¡¡¡Por favor, llamen a mi mamá y a mi papá para que vengan a bajarme, buaaah!!!
+										</p>
+										<p class="p-2">
+											—¡Si llamamos a tu mamá y a tu papá, a vos te van a bajar a los cascotazos y a nosotros nos van a correr por todo Cancha Larga! ¡Ni borrachos vamos a avisar!
 										</p>
 										<p>
-											—No podemos ir a esta hora a La Leonesa. Aparte, quedate piola que no va a pasar nada —trató de tranquilizarlo el tío.
+											Y Canastita lloraba y suplicaba que por lo menos se quedara alguien, pero no hubo caso y luego de atar el piolín al aromito, nos fuimos todos.
 										</p>
 										<p>
-											Debido a que el principal elemento de iluminación se había roto, no podían hacer gran cosa, ya que no se podía correr con los candiles porque se apagaban por el viento. Entonces, el tío mandó a sacar las pilas de la radio, y buscó en la casa su linterna de pesca de tres elementos. Probaron y alumbraba muy lindo, se ve que las pilas eran nuevas. Luego dio las nuevas indicaciones:
+											Y allí se quedó el tripulante de la pandorga, solito, con la única compañía de la música del viento norte y los cantos de los teros allá abajo.
 										</p>
 										<p>
-											—Muchachos, vamos a cambiar el plan. Vos, José, te vas con la linterna y te escondés detrás de la palmera que está a diez metros del portoncito. Apenas golpean, vos iluminás y nosotros corremos hacia el lugar.
+											Los Acuña fueron a su casa a comer y de paso mentirían a los padres de Canastita, diciendo que él se quedó a comer en lo de los Almanza.
+										</p>
+										<p class="p-2">
+											—¿Y cómo anduvo la pandorga? —preguntó el papá de Sergio, mientras almorzábamos.
+										</p>
+										<p class="p-2">
+											—Eeeh... bien, costó hacerla subir pero después la hicimos volar... —dijo Sergio.
+										</p>
+										<p class="p-2">
+											—¿Y dónde la dejaron ahora? —preguntó de nuevo el tío Luis.
+										</p>
+										<p class="p-2">
+											—Eeeh... la llevó Eduardo a su casa, porque iba a arreglarle la cola —mintió Sergio.
 										</p>
 										<p>
-											—No vayan a tardar ¿eh? —dijo José
+											La cosa fue que apenas terminamos de comer, salimos rajando para lo de los Acuña, les chiflamos desde el tacuaral y ellos salieron a toda máquina. Ahí entre los cuatro nos encaminamos hacia la chacrita. Cruzamos corriendo el mogote que tapaba toda la zona del estero, para ver lo antes posible la pandorga y quedarnos tranquilos. Cuando estuvimos del otro lado... ¡la pandorga no estaba!  ¡Mamita querida! Ahí sí que nos agarró la desesperación y empezamos a correr a todo trapo, gritando a los cuatro vientos y llamando a Canastita.
 										</p>
 										<p>
-											Y de nuevo se pusieron a tomar mate a la luz de los candiles, mientras el aterrorizado José hacía guardia escondido en la palmerita. Ya serían como las cuatro de la madrugada; Coquito bostezaba cada rato y a M se le cerraban los ojos, cuando...
+											Llegamos al lugar y a pesar del frío nos metimos a los saltos en el estero y revisamos toda la zona donde sobrevolaba la pandorga... y nada. ¡Nada! 
 										</p>
 										<p>
-											¡Clap, clap, clap!... 
+											En realidad lo que encontramos fue el piolín, y se notaba que se cortó justo en la rienda. Entonces pensamos que la pandorga pudo haber empezado a coletear y capaz que se fue a parar al monte y que Canastita estaría enganchado en algunas ramas. Ahí nomás rajamos todos para el monte y empezamos a buscar y a gritar:
+										</p>
+										<p class="p-2">
+											—¡Canastita! ¡¿Dónde te metiste?! —gritaba uno.
+										</p>
+										<p class="p-2">
+											—¡Dejá de hacerte el gracioso! —gritaba Sergio.
+										</p>
+										<p class="p-2">
+											—¡¡Contestá, Canastita!! —imploraba otro.
 										</p>
 										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
+											Pero nada. Solo oíamos el silbido del viento entre las ramas. Recorrimos cien veces el lugar y ni un rastro. Raúl, que era el más compinche de Canastita, empezó a llorar.
 										</p>
 										<p>
-											De un salto patearon candiles, cayó la pava del mate, M que estaba medio dormido se paró de inmediato, pero no sabía para dónde correr. Los perros enfurecidos ladraban y, desde la palmerita, José gritaba como un loco:
+											Después de buscar más de dos horas, tomamos la decisión de contarle primero a Coco, el hermano de Sergio, y si con eso no solucionábamos nada, ahí si ya le contaríamos a todo el mundo para ver qué hacer.
 										</p>
 										<p>
-											—¡¡¡Ahí está!!! ¡¡¡Ahí está, don Aldo!!!
+											Volvimos a la casa a eso de las cuatro de la tarde y lo fuimos a encarar directamente a Coco:
+										</p>
+										<p class="p-2">
+											—¡¿Quééééé?! ¿Que a Canastita lo hicieron volar en la pandorga y ahora desapareció? —preguntó Coco con cara de espantado cuando se lo contamos.
+										</p>
+										<p class="p-2">
+											—Bueno, nosotros no le dijimos que fuera a volar o que se subiera a la pandorga, el tirifilo quedó prendido de las varillas y subió como un cohete. No es nuestra culpa —le respondió Sergio.
 										</p>
 										<p>
-											El tío con su escopeta y Coquito con el machete salieron disparados hacia el callejón, mientras la linterna de José encandilaba para todas partes y él no paraba de gritar:
+											Ahí nomás Coco tomó la sabia decisión de contarle al tío Luis y después a los padres de Canastita y a toda la gente de la zona, porque ya iba a empezar a oscurecer y la cosa se complicaría más todavía.
 										</p>
 										<p>
-											—¡¡¡Acá va, don Aldo!!! ¡¡¡Acá va!!!
+											Al rato, todo el mundo estaba enterado de la desaparición aérea de Canastita y cada uno salió a buscarlo a pie, a caballo o en sulky; la mayoría miraba para arriba, como esperando que el astronauta apareciera en algún momento. A eso de las seis y media o siete ya había oscurecido y hacía un frío terrible, y todos los que lo buscaban volvieron a la casa de mi primo. La familia entera de los Cuesta lloraba sin consuelo y rezaban pidiendo que Canastita apareciera. La tía Isabel —la mamá de Sergio— nos llevó a los cuatro responsables de esa desgracia aérea a la piecita de la despensa y allí nos dio un reto que duró más de media hora y que me acuerdo hasta el día de hoy ¡qué brava estaba la tía!
 										</p>
 										<p>
-											Y todos llegaron al alambrado contra el callejón… y nada. Alumbraron para aquí y para allá y nada. Pero José no paraba de temblar y seguía con el asunto:
+											Los Acuña, Sergio y yo queríamos que nos tragara la tierra o desaparecer de cualquier forma; teníamos mucha vergüenza, porque nos sentíamos culpables de haberlo mandado a Canastita al espacio.
+										</p>
+											Esa noche el tío Luis, Coco y don Cuesta fueron a hacer la denuncia a la policía. Al otro día Coco nos contó que los policías no le creían y primero se mataban de risa, hasta que el tío Luis se enojó y les dijo que no estaban bromeando y que Canastita había desaparecido volando en una pandorga. Al final los tipos tomaron la denuncia y les prometieron que al otro día se pondrían a buscar por todos lados.
+										</p>
+										</p>
+											Desde ese lunes, empezaron a patrullar todo Cancha Larga y sus alrededores, y cada vez buscaban más lejos, hasta que por fin apareció el primer rastro: un hombre que tenía su ranchito al costado de la Cañada Címbaro, dijo que el domingo a la siesta vio surcar en los cielos una cosa. Primero creyó que era un plato volador, pero como tenía los colores de Boca, pensó que era un invento de alguien para festejar o algo así; dijo también que ese aparato pasó volando muy alto, que tenía cola y que parecía que alguien lo tripulaba, pero no pudo distinguir si era animal o persona.
+										</p>
+										</p>
+											 Se supo también que unos troperos que llevaban animales hacia El Palmar, vieron ese domingo a media tarde una cosa que pasó volando a ras de las copas de los árboles. Al principio no lo podían creer y hasta entre ellos empezaron a discutir: que si era un plato volador, o alguna cosa diabólica o vaya a saber qué invento raro de Norteamérica, pero que era medio redondo, tenía los colores de Boca y una cola muy extraña; parecía además que un marcianito iba gritando ahí arriba: “¡¡¡Bajenmeeeeeee, por favor, bájenme!!!”
+										</p>
+										</p>
+											Y ahí sí que les entró el julepe y la duda, porque los marcianos no hablan nuestro idioma, pero eso no era avión ni helicóptero, ni siquiera un cohete. Dicen que uno de ellos ya había sacado el 38 para sacudirle unos chumbazos, pero los demás le impidieron disparar, a ver si todavía mataba a un inocente. La cosa es que el aparato se alejó sin hacer ningún ruido de motor y se fue en dirección hacia el Sur.
 										</p>
 										<p>
-											—Le juro, don Aldo, que le vi... pasó corriendo delante mío. Era un tipo alto todo de negro. No le pude ver bien la cara porque era toda negra…
+											Después de más de dos meses de búsqueda, lo único que encontraron fueron testigos en Tatané, Palmar, Guaycurú y La Laguna y todos decían más o menos lo mismo: que ese domingo a la tarde, vieron pasar volando una cosa rara con los colores de Boca.
 										</p>
 										<p>
-											—Bueno, vamos a ver —dijo el tío—, hoy llovió todo el día y la arena del callejón está bien lisita. Habrán quedado algunas huellas.
+											A los tres meses la policía dio por terminada la búsqueda y Canastita fue declarado oficialmente desaparecido.
 										</p>
 										<p>
-											Y todos salieron al callejón y alumbraron para aquí y para allá, y nada. El piso estaba lisito y sin ninguna marca, parecía una mesa de billar.
+											Los Cuesta quedaron desconsolados, y todas las tardes prendían velas y rezaban algunas oraciones.
 										</p>
 										<p>
-											—Pero... don Aldo, le juro que yo le vi…—seguía diciendo José.
+											Nosotros cuatro quedamos muy tristes y sin consuelo, sentíamos que la culpa fue nuestra, por abandonarlo en la pandorga para ir a comer, y hasta Sergio se arrepentía de haberlo retado tantas veces.
 										</p>
 										<p>
-											Y todos se volvieron a la casa. Como el pan ya estaba listo, lo sacaron del horno, lo embolsaron y se preparaban para ir a dormir, pero José habló de nuevo:
-										</p>
-										<p>
-											—Don Aldo, yo me voy a mi casa. Tengo miedo por mi mamá que está sola con mi hermanita y si ese tipo va para allá… Tengo miedo que le pase algo a cualquiera de ellas…
-										</p>
-										<p>
-											Y el tío trató de tranquilizarlo, que no iba a pasar nada, que se quedara a dormir y se fuera al otro día a la mañana, pero no hubo caso.
-										</p>
-										<p>
-											Ensilló el caballo, puso su cuchillo en la cintura y un machete entre las calchas y partió.
-										</p>
-										<p>
-											A la mañana siguiente, casi al mediodía apareció Sebastián, un primo de José, y preguntó por el tío.
-										</p>
-										<p>
-											—¿Qué pasa, Sebastián? 
-										</p>
-										<p>
-											—Don Aldo, hoy a la mañana unos troperos que iban llevando unos bueyes, encontraron el caballo de José al costado del camino, ahí en la curva, donde están esos algarrobos y el palo borracho. Pararon y se pusieron a mirar y... encontraron a José. Estaba al lado del alambrado, debajo de una enramada… acurrucado, como que tenía frío…
-										</p>
-										<p>
-											—Y... ¿qué estaba haciendo ahí? —preguntó con mucha preocupación el tío.
-										</p>
-										<p>
-											Y con lágrimas en los ojos el primo contestó:
-										</p>
-											—Estaba muerto, don Aldo.
+											Desde entonces, siempre andábamos mirando hacia los cielos con mucha tristeza y un hilo de esperanza... y nunca más volvimos a fabricar otra pandorga.
 										</p>
 								      </div>
 								      <div class="modal-footer">
@@ -2631,229 +2494,168 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 				    		</p>
 				    	</li>
 				    	<li>
-				    		<p>El Pomberito</p>
+				    		<p>Papando moscas</p>
 				    	</li>
 				    	<li>
-				    		<p>Viento Norte</p>
+				    		<p>La guerra</p>
 				    	</li>
 				    	<li>
-				    		<p>Juegos peligrosos</p>
+				    		<p>Los piratas de Paso Paloma </p>
+				    	</li>
+				    	<li>
+				    		<p>Una lección de dignidad</p>
+				    	</li>
+				    	<li>
+				    		<p>Mi abuelo</p>
 				    	</li>
 				    </ul>
 				  </div>
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
-	<!-- LOBRISÓN -->
+	<!-- II -->
 	  <div class="card">
 	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Cuando-era-chico-2.jpg" alt="Card image cap">
 	    <div class="card-body">
 			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
+			  <a class="btn btn-warning" data-toggle="collapse" href="#collapse2CuandoChico" role="button" aria-expanded="false" aria-controls="collapse2CuandoChico">Índice</a>
 
-				<div class="collapse" id="collapseExample">
+				<div class="collapse" id="collapse2CuandoChico">
 				  <div class="card card-body">
 				    <ul>
 				    	<li>
-				    		<p>De ánimas, aparecidos y otras yerbas</p>
+				    		<p>Amor de carnaval</p>
 				    	</li>
 				    	<li>
-				    		<p>Alma en pena</p>
+				    		<p>Mario Kriviski, el guardaespaldas</p>
 				    	</li>
 				    	<li>
-				    		<p>El payaso maldito</p>
+				    		<p>Perdidos en la noche</p>
 				    	</li>
 				    	<li>
-				    		<p>La luz mala</p>
+				    		<p>Un tecito con mi papá</p>
+				    	</li>
+				    	<li>
+				    		<p>Mis viajes en carretilla</p>
 				    	</li>
 				    	<li>
 				    		<p>
 								<!-- Button trigger modal -->
-				    			<a data-toggle="modal" data-target="#llamadosModal" href="#">
-					    			Llamados en la madrugada 
+				    			<a data-toggle="modal" data-target="#panicoModal" href="#">
+					    			Pánico en el barrio 
 					    			<small id="leer">
 					    		      <i class="fab fa-readme"></i>
 					    		    </small>
 				    			</a>
 
 								<!-- Modal -->
-								<div class="modal fade bd-example-modal-lg" id="llamadosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal fade bd-example-modal-lg" id="panicoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
+								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Pánico en el barrio</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
 								      </div>
 								      <div class="modal-body container belle h4">
 										<p>
-											Era una noche bastante calurosa, con mucha humedad. Ese día había estado lloviendo toda la tarde y casi hasta la nochecita, pero la temperatura apenas había bajado un poco.
+											El único perro que tuve en mi vida se llamaba Boca y murió de rabia. 
 										</p>
 										<p>
-											El tío Aldo, sus dos ayudantes de la panadería y el pequeño M estaban tomando mate mientras horneaban el pan. Con apenas diez años, a M le gustaba quedarse hasta la madrugada o el amanecer hablando de cosas raras con el tío y sus ayudantes. Casi siempre hablaban de cosas fantásticas, claro, porque el tío Aldo era medio fantástico. A él siempre le sucedían cosas raras, cosas que a otras personas jamás les ocurrían.
+											El nombre obedecía al club de mis amores, y mis amiguitos más boquenses y yo, solíamos llamarlo: “Boquita”.
 										</p>
 										<p>
-											La panadería de Cancha Larga era de por sí bastante tétrica. Estaba ubicada en medio del monte espeso, no había casas cercanas y los caminos eran angostos, casi como túneles, porque los árboles de cada costado se tocaban arriba con sus ramas, haciéndole como un techito al sendero. Ni loco alguien se animaba a pasar por allí de noche.
+											Era un perro vulgar y lleno de pulgas, como cualquier otro perro común, pero sentía un extraño y profundo afecto por él. En el barrio todos los demás chicos también le habían tomado mucho cariño; talvez porque era demasiado bueno, casi no ladraba, nunca mordió a nadie, y me seguía tanto a mí como a mis hermanas, adonde quiera que fuéramos; y siempre moviendo la cola como única actividad. Más que perro parecía un conejo.
 										</p>
 										<p>
-											Era una casona grandísima: tenía más de diez piezas, grandes galerías, salas, salones, galpones, y la panadería que estaba a unos veinte metros. Todo el edificio estaba bastante abandonado y nunca nadie le había dado una manito de pintura, pero se notaba que había sido muy lindo cuando recién lo construyeron.
-											La casa y todo lo que la rodeaba ya daban miedo, pero además todo el mundo contaba que estaba embrujada, que se oían voces, ruidos raros, gritos o llamados en la noche, cuando no apariciones de hombres altos con capotes negros. Estar ahí era para morirse de miedo.
-											Por las dudas M nunca se despegaba de su tío, y menos que menos a la noche.
+											El Boca comía cualquier cosa, o nada, y tampoco protestaba por eso. Era muy obediente, y podría decirse que casi no se notaba su existencia. Quizá por eso me llamó la atención esa tarde de verano cuando vi la forma torpe (más torpe que lo habitual) de caminar de mi perrito, y esa espuma blanca que echaba por la boca.
 										</p>
 										<p>
-											Y así estaban, mateando y hablando de la última pesca que habían hecho en el río Guaycurú. El tío Aldo contaba que sacó un surubí de veinte kilos y unos cuantos dorados. Alrededor todo era silencio y sólo se escuchaba cada tanto a un grillito, y a lo lejos, casi como un lamento, se oía a una urraca.
-										</p>
-										<p class="font-weight-bold">
-											De repente…
+											Cuando se lo conté a mi papá, él se alarmó y dijo que lo llevaría para que lo viera el enfermero, don Antonio Garmaz, que no sólo hacía de enfermero, sino también de médico, de veterinario o de lo que sea, ya que por esa época no había médicos ni veterinarios en La Leonesa.
 										</p>
 										<p>
-											¡Clap, clap, clap!... 
+											A los pocos días, todos los chicos del barrio fuimos notificados por nuestros padres, que deberíamos ser vacunados, ya que en caso contrario quedaríamos rabiosos, torpes y echaríamos espuma por la boca como el perro.
 										</p>
 										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-											El salto que pegaron todos de sus banquitos significaba que se habían agarrado un julepe bárbaro. Se miraron con cara de asustados y se quedaron en silencio, paralizados. Esperaban que volvieran a golpear las manos y llamar, porque no sabían de dónde venía el llamado. Todos estaban como duros de miedo, mirándose y de nuevo…
+											La prolongada ausencia del Boca me preocupaba y también preocupaba a todos los demás, y ante las reiteradas preguntas a mi papá, él me respondía que no volvería hasta curarse por completo (muchos años después, cuando ya era grandecito, mi papá me confesó que en realidad el Boca fue inmediatamente sacrificado para que le revisaran el cerebro y comprobar "si tenía la rabia").
 										</p>
 										<p>
-											¡Clap, clap, clap!... 
+											La vacunación en masa a la que habíamos sido condenados todos los que estuvimos en contacto con el Boca, constituía  una verdadera pesadilla para nosotros.
 										</p>
 										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-											Ahí sí, escucharon que el llamado venía del callejón que pasaba por el costado de la casa, cerca del portoncito. El tío Aldo agarró su escopeta, que siempre tenía a mano; uno de los muchachos llevó el radiosol y el otro un machete. M iba casi pegado a la cola de su tío.
+											No solo era un cruel espanto saber que uno recibiría una vacuna hoy mismo, sino que era una tortura que nos dijeran que serían ¡más de veinte! Con eso también nos amargaban el futuro. Para peor, ¡¡los chuzazos de las inyecciones serían en la panza!! Y no en los brazos o la cola, que son lugares más preparados para este tipo de cosas.
 										</p>
 										<p>
-											Llegaron al portoncito y miraron para el lado de afuera, en el callejón, hacia los jardines, y nada. Recorrieron un poco el lugar... y nada. 
-											Se quedaron un poco preocupados y casi sin hablar volvieron al patio, pero todos ya estaban bastante serios e intrigados.
+											El barrio estaba convulsionado, tanto entre los grandes como entre los chicos. Estos últimos me acusaban de la cruel condena que padecían, con el lógico fundamento de que era dueño del perro. Yo sin embargo, estaba más afligido por el destino y estado de salud del Boca,  que por las vacunaciones que se avecinaban.
 										</p>
 										<p>
-											—¿Qué será eso, don Aldo? —preguntó asustado uno de sus ayudantes.
+											El primer día que apareció don Antonio en su bicicleta y con su maletincito (colgado en el caño), provocó un desparramo nunca visto. Los chicos desaparecieron como por arte de magia, y por lo tanto los primeros en ser vacunados fueron los adultos, mientras claro está, esperaban al santo cohete que los niños reaparecieran. Al cabo de media hora y ante el silencio y ausencia espectral de los pequeños, comenzaron la búsqueda. Casi todos habíamos acudido a nuestros escondites habituales, o sea a los lugares o guaridas que utilizábamos como escondrijos en el diario juego de las escondidas. Los más pequeños se acuartelaban detrás de las puertas, y los mayorcitos obviamente acudíamos a lugares más sofisticados y seguros. Fue así que junto a mis dos hermanas nos trepamos y quedamos sólidamente aferrados en lo alto del algarrobo del patio, cual verdaderos monos en sus ramas preferidas. Mi papá y mi mamá intentaban convencernos con tontos argumentos y falsas promesas de regalos y golosinas en general. La estrategia era un fracaso desde el inicio, ya que a escasos dos o tres metros de ellos (que nos hablaban mirando hacia las alturas del árbol); paciente como un verdugo, se paseaba don Antonio, blandiendo una temible jeringa de vidrio, con su brillante y asesina aguja. A sus pies, y sobre un calentador a kerosene, una cajita metálica con agua, bullía amenazante con su macabro contenido: más jeringas y agujas.
 										</p>
 										<p>
-											—Y nada... capaz que pasó algún tipo y quiso hacer una broma —dijo el tío muy poco convencido.
+											Yo llevaba la voz cantante del grupo, ya que con mis nueve años era el mayor de los tres. Mientras estábamos encaramados en el follaje, tratábamos de negociar un pacto que nos beneficiara (o sea nosotros pretendíamos salvarnos de las inyecciones). Pero mi papá no aflojaba y el diálogo comenzó a endurecerse hasta llegar a los retos, con amenazas de duro escarmiento si no bajábamos de inmediato. Esto tampoco logró cambiar nuestra postura y permanecíamos enarbolados. 
 										</p>
 										<p>
-											Él también sospechaba que podría tratarse de algo del más allá, algún aparecido, un alma en pena o alguno de los fantasmas que siempre rondaban la casa, pero no quería preocuparlos más.
+											Mas tarde unos buenos cascotazos de  amedrentamiento lograron convencernos, dando por terminado nuestro motín. El descenso era la única vía posible.
 										</p>
 										<p>
-											—Muchachos...—dijo el tío— vamos a hacer una cosa. Nos preparamos por si vuelven a golpear, entonces salimos corriendo todos y cada uno sabrá lo que tiene que hacer.
+											El primero en ser ejecutado fui yo, que saqué fuerzas de lo desconocido y apechugando la situación, levanté mi remerita mostrando la panza, al letal instrumento de don Antonio.
 										</p>
 										<p>
-											Ahí ya se entusiasmaron todos.
+											Un inútil pataleo precedió a la vacunación de mis hermanas, que continuaron llorando un rato más.
 										</p>
 										<p>
-											—Vos, José, vas a llevar el radiosol. Apenas golpean, salís rajando hacia el portoncito o hacia donde escuches que golpean. Coco, vos agarrá el machete y corré para la izquierda. Yo voy para la derecha. Entonces, si el tipo golpea y sale corriendo, lo agarrás vos o lo agarro yo. ¿Estamos?
+											Este nuevo hecho (la vacunación), modificó las costumbres de todos y en particular, de los chicos del barrio. Debido a que estábamos en plena época de vacaciones de verano, los padres propusieron a don Antonio, un horario fijo de vacunación, que sería desde las diez a las once de la mañana.
 										</p>
 										<p>
-											—Y yo... ¿qué hago? —preguntó M.
+											Cuando supimos eso, de inmediato todos los niños nos organizamos a fin de montar una guardia transitoria y advertir la llegada de don Antonio, con el objetivo –claro está- de dar la alarma cuando el vacunador apareciera. Ante el grito de alerta del guardia de turno: “¡¡Ahí viene!! ¡¡ Ahí viene!!”, cundía el pánico y se armaba el gran desparramo. Todos rajábamos a lugares predeterminados, a fin de retardar lo máximo posible la ejecución o mejor todavía, si podíamos zafar de un día de inyección.
 										</p>
 										<p>
-											—Nada. Vos salís corriendo atrás mío y no te despegues.
+											Hubo casos de padres que apenas sus hijos se levantaban y desayunaban, eran encerrados preventivamente en el baño, con el claro propósito de evitar fugatinas o desapariciones.
 										</p>
 										<p>
-											Habrá pasado una media hora y...
+											Otros niños más paparulos, eran atrapados en plena actividad de sus juegos rutinarios, ya que por olvido o por tontura natural, no tenían en cuenta de la desgracia que se avecinaba cada mañana. Sin decir agua va, eran ejecutados.
 										</p>
 										<p>
-											¡Clap, clap, clap!... 
+											El mayor de los hijos de Collman, tenía once años y era campeón en cuatrocientos metros libres en el colegio y en los torneos intercolegiales, atraparlo era una verdadera hazaña. Su padre y otros vecinos, organizaban pelotones de ciclistas para correrlo. Sólo alcanzaron a hacerle siete vacunas. 
 										</p>
 										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
+											Los hermanitos Fernández, eran los más pacíficos en el barrio, tenían ocho y seis años. Diariamente luego del desayuno apelaban a la piedad y misericordia de sus padres para evitar el chuzazo. Todo era en vano.
 										</p>
 										<p>
-											—¡Vamos, muchachos! —gritó el tío.
+											Gladys Oviedo -que vivía enfrente de mi casa- la amiguita de mi hermana Mirta, se paseaba por la vereda de su casa acunando y palmoteando a su muñeca y a la espera del vacunador, cantando una canción (de un solo estribillo) inventada por ella misma como si fuera una especie de conjuro contra el dolor: “la inyección no me va a doleeer, la inyección no me va a doleeer”. Igual lloraba luego de ser vacunada.
 										</p>
 										<p>
-											Como alma que se lleva el diablo, todos salieron corriendo como lo habían planeado. José picó en punta con el radiosol hacia el portoncito; el tío Aldo con su escopeta, para la derecha y Coquito con su machete, para la izquierda. 
+											Los hermanos Busemi, “Pelado”, Mario y Gilda, eran los más valientes y estoicos: diariamente esperaban al vacunador, sentados en el banco de la galería, serios y serenos. Cuando este llegaba, simplemente se paraban y con la misma seriedad, levantaban sus ropas mostrando las panzas.
 										</p>
 										<p>
-											No habrá dado cinco pasos José, cuando se llevó por delante a uno de los perros que también corría hacia el portoncito y ¡puf! al suelo. Se pegó un flor de porrazo que levantó tanta polvareda que no se entendía nada; aparte el radiosol se rompió y quedaron en la más completa oscuridad. Por supuesto, se frustró el plan para atrapar al que llamaba.
+											La casa de los Melagrani lindaba con el muro del Club Solari, y eso resultó ser una gran ventaja para los hermanos Miguel y Nancy, ya que cuando escuchaban el alerta de pánico (a veces incluso mucho antes) en menos que canta un gallo se trepaban a un árbol del fondo de su patio -cuyas ramas sobrepasaban el muro del club-, y como ágiles monos se desplazaban sobre los gajos hasta tirarse al otro lado. Esto era un verdadero dolor de cabeza para los padres, porque el club estaba siempre cerrado a la mañana, y el cuidador era sordomudo así que no había ninguna posibilidad de sacar a esos niños de allí. En dos ocasiones el padre debió ir en busca del presidente de la institución para que abriera las puertas y poder sacar a sus hijos. Obvio que se ligaban unos buenos tirones de oreja, pero en cada ocasión se salvaban de los chuzazos. Claro que al tercer o cuarto día, los padres ya tomaron los debidos recaudos y apenas se despertaban los niños eran encerrados en el comedor con la tarea de leer, mientras esperaban la llegada de don Antonio.
 										</p>
 										<p>
-											El tío Aldo intentó arreglar el radiosol, pero no hubo caso. No les quedó más remedio que prender dos candiles, y ahí era más terrorífico todavía. Con la luz del candil todo parece más aterrador porque apenas alumbra, y como las llamitas de los candiles se mueven, las caras parecen cambiar de formas y encima en esa situación...
+											Muchos demostraban valentía cuando aparecía el enfermero, y conteniendo las lágrimas mostraban gallardamente la barriga. Otros imploraban misericordia y no faltaban los que se revolcaban en el suelo, gritando y pataleando cual verdaderos posesos.
 										</p>
 										<p>
-											—Tío... ¿me podés llevar a mi casa? —preguntó M temblando de miedo.
+											El hecho sirvió también para dar lugar a un nuevo juego: contarse quién tenía más chuzazos en la panza.
 										</p>
 										<p>
-											—No podemos ir a esta hora a La Leonesa. Aparte, quedate piola que no va a pasar nada —trató de tranquilizarlo el tío.
+											La mañana que don Antonio anunció que era el último día de vacunas, increíblemente a todos nos invadió la tristeza. Nos estaban quitando una fantástica aventura, un motivo de peligro real y el verdadero placer de escondernos por necesidad.
 										</p>
 										<p>
-											Debido a que el principal elemento de iluminación se había roto, no podían hacer gran cosa, ya que no se podía correr con los candiles porque se apagaban por el viento. Entonces, el tío mandó a sacar las pilas de la radio, y buscó en la casa su linterna de pesca de tres elementos. Probaron y alumbraba muy lindo, se ve que las pilas eran nuevas. Luego dio las nuevas indicaciones:
+											Para los más crueles constituía también, la pérdida de excelentes oportunidades de ver sufrir y llorar a los demás.
 										</p>
 										<p>
-											—Muchachos, vamos a cambiar el plan. Vos, José, te vas con la linterna y te escondés detrás de la palmera que está a diez metros del portoncito. Apenas golpean, vos iluminás y nosotros corremos hacia el lugar.
+											A partir de ese día se podía respirar una aburrida tranquilidad en todo el barrio. Los chicos se dedicaban resignados, a sus juegos rutinarios.
 										</p>
 										<p>
-											—No vayan a tardar ¿eh? —dijo José
+											Mucho tiempo me pasé mirando hacia una u otra esquina, con la secreta esperanza de ver reaparecer al Boca con su tonto andar. Sentado bajo un aromito y a veces con lágrimas en los ojos, recordaba con nostalgia la torpe compañía de mi perro y su mirada fiel y temerosa.
 										</p>
 										<p>
-											Y de nuevo se pusieron a tomar mate a la luz de los candiles, mientras el aterrorizado José hacía guardia escondido en la palmerita. Ya serían como las cuatro de la madrugada; Coquito bostezaba cada rato y a M se le cerraban los ojos, cuando...
-										</p>
-										<p>
-											¡Clap, clap, clap!... 
-										</p>
-										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-										</p>
-										<p>
-											De un salto patearon candiles, cayó la pava del mate, M que estaba medio dormido se paró de inmediato, pero no sabía para dónde correr. Los perros enfurecidos ladraban y, desde la palmerita, José gritaba como un loco:
-										</p>
-										<p>
-											—¡¡¡Ahí está!!! ¡¡¡Ahí está, don Aldo!!!
-										</p>
-										<p>
-											El tío con su escopeta y Coquito con el machete salieron disparados hacia el callejón, mientras la linterna de José encandilaba para todas partes y él no paraba de gritar:
-										</p>
-										<p>
-											—¡¡¡Acá va, don Aldo!!! ¡¡¡Acá va!!!
-										</p>
-										<p>
-											Y todos llegaron al alambrado contra el callejón… y nada. Alumbraron para aquí y para allá y nada. Pero José no paraba de temblar y seguía con el asunto:
-										</p>
-										<p>
-											—Le juro, don Aldo, que le vi... pasó corriendo delante mío. Era un tipo alto todo de negro. No le pude ver bien la cara porque era toda negra…
-										</p>
-										<p>
-											—Bueno, vamos a ver —dijo el tío—, hoy llovió todo el día y la arena del callejón está bien lisita. Habrán quedado algunas huellas.
-										</p>
-										<p>
-											Y todos salieron al callejón y alumbraron para aquí y para allá, y nada. El piso estaba lisito y sin ninguna marca, parecía una mesa de billar.
-										</p>
-										<p>
-											—Pero... don Aldo, le juro que yo le vi…—seguía diciendo José.
-										</p>
-										<p>
-											Y todos se volvieron a la casa. Como el pan ya estaba listo, lo sacaron del horno, lo embolsaron y se preparaban para ir a dormir, pero José habló de nuevo:
-										</p>
-										<p>
-											—Don Aldo, yo me voy a mi casa. Tengo miedo por mi mamá que está sola con mi hermanita y si ese tipo va para allá… Tengo miedo que le pase algo a cualquiera de ellas…
-										</p>
-										<p>
-											Y el tío trató de tranquilizarlo, que no iba a pasar nada, que se quedara a dormir y se fuera al otro día a la mañana, pero no hubo caso.
-										</p>
-										<p>
-											Ensilló el caballo, puso su cuchillo en la cintura y un machete entre las calchas y partió.
-										</p>
-										<p>
-											A la mañana siguiente, casi al mediodía apareció Sebastián, un primo de José, y preguntó por el tío.
-										</p>
-										<p>
-											—¿Qué pasa, Sebastián? 
-										</p>
-										<p>
-											—Don Aldo, hoy a la mañana unos troperos que iban llevando unos bueyes, encontraron el caballo de José al costado del camino, ahí en la curva, donde están esos algarrobos y el palo borracho. Pararon y se pusieron a mirar y... encontraron a José. Estaba al lado del alambrado, debajo de una enramada… acurrucado, como que tenía frío…
-										</p>
-										<p>
-											—Y... ¿qué estaba haciendo ahí? —preguntó con mucha preocupación el tío.
-										</p>
-										<p>
-											Y con lágrimas en los ojos el primo contestó:
-										</p>
-											—Estaba muerto, don Aldo.
+											Nunca pude olvidarlo.
 										</p>
 								      </div>
 								      <div class="modal-footer">
@@ -2878,7 +2680,7 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
@@ -2893,14 +2695,16 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 	</span>
 </div>
 
-<section class="card-columns p-1">
+<hr class="col-2">
+
+<section id="libros-list" class="card-columns p-1">
 	<!-- MENSAJES DEL MAS ALLÁ -->
 	  <div class="card">
 	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Mensajes-del-Más-Allá.jpg" alt="Card image cap">
 	    <div class="card-body">
 			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
+			  <a class="btn btn-warning disabled" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
 
 				<div class="collapse" id="collapseExample">
 				  <div class="card card-body">
@@ -3124,216 +2928,49 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
-	<!-- LOBRISÓN -->
+	<!-- LOBISÓN -->
 	  <div class="card">
 	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Lobisón.jpg" alt="Card image cap">
 	    <div class="card-body">
 			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
+			  <a class="btn btn-warning" data-toggle="collapse" href="#collapseLobo" role="button" aria-expanded="false" aria-controls="collapseLobo">Índice</a>
 
-				<div class="collapse" id="collapseExample">
+				<div class="collapse" id="collapseLobo">
 				  <div class="card card-body">
 				    <ul>
-				    	<li>
-				    		<p>De ánimas, aparecidos y otras yerbas</p>
-				    	</li>
-				    	<li>
-				    		<p>Alma en pena</p>
-				    	</li>
-				    	<li>
-				    		<p>El payaso maldito</p>
-				    	</li>
-				    	<li>
-				    		<p>La luz mala</p>
-				    	</li>
-				    	<li>
+				    	<span class="text-muted">CAPITULO I. [La primera transformación]</span>
+				    	<li class="m-0">
 				    		<p>
+				    		<!-- I -->
 								<!-- Button trigger modal -->
-				    			<a data-toggle="modal" data-target="#llamadosModal" href="#">
-					    			Llamados en la madrugada 
+				    			<a data-toggle="modal" data-target="#familiaModal" href="#">
+					    			La familia Godoy 
 					    			<small id="leer">
 					    		      <i class="fab fa-readme"></i>
 					    		    </small>
 				    			</a>
 
 								<!-- Modal -->
-								<div class="modal fade bd-example-modal-lg" id="llamadosModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								<div class="modal fade bd-example-modal-lg" id="familiaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
 								  <div class="modal-dialog modal-dialog-centered" role="document">
 								    <div class="modal-content">
 								      <div class="modal-header">
-								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">Llamados en la madrugada</h5>
+								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">I · La familia Godoy</h5>
 								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
 								          <i class="fas fa-times text-muted"></i>
 								        </button>
 								      </div>
 								      <div class="modal-body container belle h4">
 										<p>
-											Era una noche bastante calurosa, con mucha humedad. Ese día había estado lloviendo toda la tarde y casi hasta la nochecita, pero la temperatura apenas había bajado un poco.
+											La familia Godoy era muy numerosa. Lo que se dice un batallón. Estaba compuesta por once integrantes; el papá, la mamá y nueve hijos, de los cuales, los ocho primeros eran varones y la última una nena. Habían nacido en escalerita, con un año más o menos de diferencia entre uno y otro. Cuentan que la mamá quería tener una nena, y como seguían naciendo varones, no paro de tener hijos, hasta que por fin nació una mujer. Por suerte.  
 										</p>
 										<p>
-											El tío Aldo, sus dos ayudantes de la panadería y el pequeño M estaban tomando mate mientras horneaban el pan. Con apenas diez años, a M le gustaba quedarse hasta la madrugada o el amanecer hablando de cosas raras con el tío y sus ayudantes. Casi siempre hablaban de cosas fantásticas, claro, porque el tío Aldo era medio fantástico. A él siempre le sucedían cosas raras, cosas que a otras personas jamás les ocurrían.
-										</p>
-										<p>
-											La panadería de Cancha Larga era de por sí bastante tétrica. Estaba ubicada en medio del monte espeso, no había casas cercanas y los caminos eran angostos, casi como túneles, porque los árboles de cada costado se tocaban arriba con sus ramas, haciéndole como un techito al sendero. Ni loco alguien se animaba a pasar por allí de noche.
-										</p>
-										<p>
-											Era una casona grandísima: tenía más de diez piezas, grandes galerías, salas, salones, galpones, y la panadería que estaba a unos veinte metros. Todo el edificio estaba bastante abandonado y nunca nadie le había dado una manito de pintura, pero se notaba que había sido muy lindo cuando recién lo construyeron.
-											La casa y todo lo que la rodeaba ya daban miedo, pero además todo el mundo contaba que estaba embrujada, que se oían voces, ruidos raros, gritos o llamados en la noche, cuando no apariciones de hombres altos con capotes negros. Estar ahí era para morirse de miedo.
-											Por las dudas M nunca se despegaba de su tío, y menos que menos a la noche.
-										</p>
-										<p>
-											Y así estaban, mateando y hablando de la última pesca que habían hecho en el río Guaycurú. El tío Aldo contaba que sacó un surubí de veinte kilos y unos cuantos dorados. Alrededor todo era silencio y sólo se escuchaba cada tanto a un grillito, y a lo lejos, casi como un lamento, se oía a una urraca.
-										</p>
-										<p class="font-weight-bold">
-											De repente…
-										</p>
-										<p>
-											¡Clap, clap, clap!... 
-										</p>
-										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-											El salto que pegaron todos de sus banquitos significaba que se habían agarrado un julepe bárbaro. Se miraron con cara de asustados y se quedaron en silencio, paralizados. Esperaban que volvieran a golpear las manos y llamar, porque no sabían de dónde venía el llamado. Todos estaban como duros de miedo, mirándose y de nuevo…
-										</p>
-										<p>
-											¡Clap, clap, clap!... 
-										</p>
-										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-											Ahí sí, escucharon que el llamado venía del callejón que pasaba por el costado de la casa, cerca del portoncito. El tío Aldo agarró su escopeta, que siempre tenía a mano; uno de los muchachos llevó el radiosol y el otro un machete. M iba casi pegado a la cola de su tío.
-										</p>
-										<p>
-											Llegaron al portoncito y miraron para el lado de afuera, en el callejón, hacia los jardines, y nada. Recorrieron un poco el lugar... y nada. 
-											Se quedaron un poco preocupados y casi sin hablar volvieron al patio, pero todos ya estaban bastante serios e intrigados.
-										</p>
-										<p>
-											—¿Qué será eso, don Aldo? —preguntó asustado uno de sus ayudantes.
-										</p>
-										<p>
-											—Y nada... capaz que pasó algún tipo y quiso hacer una broma —dijo el tío muy poco convencido.
-										</p>
-										<p>
-											Él también sospechaba que podría tratarse de algo del más allá, algún aparecido, un alma en pena o alguno de los fantasmas que siempre rondaban la casa, pero no quería preocuparlos más.
-										</p>
-										<p>
-											—Muchachos...—dijo el tío— vamos a hacer una cosa. Nos preparamos por si vuelven a golpear, entonces salimos corriendo todos y cada uno sabrá lo que tiene que hacer.
-										</p>
-										<p>
-											Ahí ya se entusiasmaron todos.
-										</p>
-										<p>
-											—Vos, José, vas a llevar el radiosol. Apenas golpean, salís rajando hacia el portoncito o hacia donde escuches que golpean. Coco, vos agarrá el machete y corré para la izquierda. Yo voy para la derecha. Entonces, si el tipo golpea y sale corriendo, lo agarrás vos o lo agarro yo. ¿Estamos?
-										</p>
-										<p>
-											—Y yo... ¿qué hago? —preguntó M.
-										</p>
-										<p>
-											—Nada. Vos salís corriendo atrás mío y no te despegues.
-										</p>
-										<p>
-											Habrá pasado una media hora y...
-										</p>
-										<p>
-											¡Clap, clap, clap!... 
-										</p>
-										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-										</p>
-										<p>
-											—¡Vamos, muchachos! —gritó el tío.
-										</p>
-										<p>
-											Como alma que se lleva el diablo, todos salieron corriendo como lo habían planeado. José picó en punta con el radiosol hacia el portoncito; el tío Aldo con su escopeta, para la derecha y Coquito con su machete, para la izquierda. 
-										</p>
-										<p>
-											No habrá dado cinco pasos José, cuando se llevó por delante a uno de los perros que también corría hacia el portoncito y ¡puf! al suelo. Se pegó un flor de porrazo que levantó tanta polvareda que no se entendía nada; aparte el radiosol se rompió y quedaron en la más completa oscuridad. Por supuesto, se frustró el plan para atrapar al que llamaba.
-										</p>
-										<p>
-											El tío Aldo intentó arreglar el radiosol, pero no hubo caso. No les quedó más remedio que prender dos candiles, y ahí era más terrorífico todavía. Con la luz del candil todo parece más aterrador porque apenas alumbra, y como las llamitas de los candiles se mueven, las caras parecen cambiar de formas y encima en esa situación...
-										</p>
-										<p>
-											—Tío... ¿me podés llevar a mi casa? —preguntó M temblando de miedo.
-										</p>
-										<p>
-											—No podemos ir a esta hora a La Leonesa. Aparte, quedate piola que no va a pasar nada —trató de tranquilizarlo el tío.
-										</p>
-										<p>
-											Debido a que el principal elemento de iluminación se había roto, no podían hacer gran cosa, ya que no se podía correr con los candiles porque se apagaban por el viento. Entonces, el tío mandó a sacar las pilas de la radio, y buscó en la casa su linterna de pesca de tres elementos. Probaron y alumbraba muy lindo, se ve que las pilas eran nuevas. Luego dio las nuevas indicaciones:
-										</p>
-										<p>
-											—Muchachos, vamos a cambiar el plan. Vos, José, te vas con la linterna y te escondés detrás de la palmera que está a diez metros del portoncito. Apenas golpean, vos iluminás y nosotros corremos hacia el lugar.
-										</p>
-										<p>
-											—No vayan a tardar ¿eh? —dijo José
-										</p>
-										<p>
-											Y de nuevo se pusieron a tomar mate a la luz de los candiles, mientras el aterrorizado José hacía guardia escondido en la palmerita. Ya serían como las cuatro de la madrugada; Coquito bostezaba cada rato y a M se le cerraban los ojos, cuando...
-										</p>
-										<p>
-											¡Clap, clap, clap!... 
-										</p>
-										<p>
-											—¡¡¡Don Aldo!!! ¡¡¡Don Aldo!!!
-										</p>
-										<p>
-											De un salto patearon candiles, cayó la pava del mate, M que estaba medio dormido se paró de inmediato, pero no sabía para dónde correr. Los perros enfurecidos ladraban y, desde la palmerita, José gritaba como un loco:
-										</p>
-										<p>
-											—¡¡¡Ahí está!!! ¡¡¡Ahí está, don Aldo!!!
-										</p>
-										<p>
-											El tío con su escopeta y Coquito con el machete salieron disparados hacia el callejón, mientras la linterna de José encandilaba para todas partes y él no paraba de gritar:
-										</p>
-										<p>
-											—¡¡¡Acá va, don Aldo!!! ¡¡¡Acá va!!!
-										</p>
-										<p>
-											Y todos llegaron al alambrado contra el callejón… y nada. Alumbraron para aquí y para allá y nada. Pero José no paraba de temblar y seguía con el asunto:
-										</p>
-										<p>
-											—Le juro, don Aldo, que le vi... pasó corriendo delante mío. Era un tipo alto todo de negro. No le pude ver bien la cara porque era toda negra…
-										</p>
-										<p>
-											—Bueno, vamos a ver —dijo el tío—, hoy llovió todo el día y la arena del callejón está bien lisita. Habrán quedado algunas huellas.
-										</p>
-										<p>
-											Y todos salieron al callejón y alumbraron para aquí y para allá, y nada. El piso estaba lisito y sin ninguna marca, parecía una mesa de billar.
-										</p>
-										<p>
-											—Pero... don Aldo, le juro que yo le vi…—seguía diciendo José.
-										</p>
-										<p>
-											Y todos se volvieron a la casa. Como el pan ya estaba listo, lo sacaron del horno, lo embolsaron y se preparaban para ir a dormir, pero José habló de nuevo:
-										</p>
-										<p>
-											—Don Aldo, yo me voy a mi casa. Tengo miedo por mi mamá que está sola con mi hermanita y si ese tipo va para allá… Tengo miedo que le pase algo a cualquiera de ellas…
-										</p>
-										<p>
-											Y el tío trató de tranquilizarlo, que no iba a pasar nada, que se quedara a dormir y se fuera al otro día a la mañana, pero no hubo caso.
-										</p>
-										<p>
-											Ensilló el caballo, puso su cuchillo en la cintura y un machete entre las calchas y partió.
-										</p>
-										<p>
-											A la mañana siguiente, casi al mediodía apareció Sebastián, un primo de José, y preguntó por el tío.
-										</p>
-										<p>
-											—¿Qué pasa, Sebastián? 
-										</p>
-										<p>
-											—Don Aldo, hoy a la mañana unos troperos que iban llevando unos bueyes, encontraron el caballo de José al costado del camino, ahí en la curva, donde están esos algarrobos y el palo borracho. Pararon y se pusieron a mirar y... encontraron a José. Estaba al lado del alambrado, debajo de una enramada… acurrucado, como que tenía frío…
-										</p>
-										<p>
-											—Y... ¿qué estaba haciendo ahí? —preguntó con mucha preocupación el tío.
-										</p>
-										<p>
-											Y con lágrimas en los ojos el primo contestó:
-										</p>
-											—Estaba muerto, don Aldo.
+											Don Godoy era agricultor, tenía chacras y sus principales plantaciones eran el algodón y el tabaco. Además cultivaba pimientos, tomates, batatas, mandiocas y zapallos. Tenía una gran huerta donde había todo tipo de verduras y un campo de más de cien hectáreas con vacas, caballos y algunos chivos. Los Godoy no eran ricos, pero con lo que producían vivían bastante bien. Todos los integrantes de la familia ayudaban en las tareas. Los hijos más grandes colaboraban en las tareas de la ganadería y la chacra, los más chicos en la huerta, ordeñando vacas y ayudando a su madre a hacer queso y dulce de leche. Don Godoy y su señora estaban contentos con la vida que llevaban y por sobre todas las cosas, porque podían mandar a sus hijos a la escuela. Todos llegaban a completar al menos, el séptimo grado.
 										</p>
 								      </div>
 								      <div class="modal-footer">
@@ -3344,21 +2981,392 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 								</div>
 				    		</p>
 				    	</li>
-				    	<li>
-				    		<p>El Pomberito</p>
+				    	<li class="m-0">
+				    		<p>
+				    		<!-- II -->
+								<!-- Button trigger modal -->
+				    			<a data-toggle="modal" data-target="#primerosLoboModal" href="#">
+					    			Los primeros años de un niño-lobo 
+					    			<small id="leer">
+					    		      <i class="fab fa-readme"></i>
+					    		    </small>
+				    			</a>
+
+								<!-- Modal -->
+								<div class="modal fade bd-example-modal-lg" id="primerosLoboModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								  <div class="modal-dialog modal-dialog-centered" role="document">
+								    <div class="modal-content">
+								      <div class="modal-header">
+								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">II · Los primeros años de un niño-lobo</h5>
+								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
+								          <i class="fas fa-times text-muted"></i>
+								        </button>
+								      </div>
+								      <div class="modal-body container belle h4">
+										<p>
+											En la familia Godoy todo era trabajo y armonía, pero claro había un problema, y ese era Eduardo, el séptimo hijo varón. El señor y la señora Godoy ya estaban al tanto de la desgracia que podrían padecer al tener un séptimo hijo varón, por eso, apenas nació Eduardo, hicieron todo lo que se debe hacer en esos casos, lo bautizaron, le pusieron unas lanitas rojas en la frente, cintitas en la muñeca, colgaron ajo detrás de la puerta, le rezaron todo el día y otras cuantas cosas más. Pero lo que no sabían, es que nadie escapa a la maldición del séptimo hijo varón. Como ya está escrito en alguna parte, esa condena maldita se cumple siempre. Eduardo el séptimo hijo, estaba condenado a ser lobisón.
+										</p>
+										<p>
+											El pobre Eduardo tuvo que soportar desde pequeño, todas las bromas y cargadas de sus propios hermanos y otros parientes. Cosas como:
+										</p>
+										<p class="p-2">
+											—¿Qué hacés lobito?
+										</p>
+										<p>
+											O también 
+										</p>
+										<p class="p-2">
+											—¡No te comas las gallinas lobito! 
+										</p>
+										<p>
+											Cuando empezó a ir a la escuela, la situación empeoró. Sus compañeritos les hacían dibujos en el pizarrón, o les pegaban cartelitos en el banco o en su portafolios. A veces, tres o cuatro se escondían esperando que pase, y ahí de golpe, le gritaban:
+										</p>
+										<p class="p-2">
+											—¡¡¡Auuuuuuuuuuuuuuuu, aaaaaaaauuuuuuuuuuuuuuuuu!!!
+										</p>
+										<p class="p-2">
+											—¡¡¡Auuuuuuu, aaauuuuuuuuuuuuuuuuuuuuuu!!!
+										</p>
+										<p class="p-2">
+											—¡¡¡Auuuuuuuuuuuuuuuuuuuuuuu, auuuuuuuuuuuuuuuuu!!!
+										</p>
+										<p>
+											Se ponían a aullar todos juntos, burlándose y haciéndole pasar momentos muy feos que nunca olvidaría.
+										</p>
+										<p>
+											Hubo ocasiones en las que cansado de tantas bromas, se agarraba a las piñas. A veces le contaba a la maestra, quien lo consolaba diciendo que no hiciera caso, que esas cosas no existían o que eran leyendas del campo. 
+										</p>
+										<p>
+											<span class="font-italic">Sí</span> —pensaba él— <span class="font-italic">pero nosotros vivimos en Cancha Larga, en el medio del campo, y yo... estoy dentro de la leyenda.</span> 
+										</p>
+										<p>
+											Eduardo estaba seguro que esas cosas existían, y que eran totalmente verdaderas. Sus propios padres y tíos contaban historias de otros chicos, que habían tenido la misma maldición y que en noches de luna llena, se escapaban de la casa, se transformaban en lobisón, se comían gallinas, pollitos y hasta algunos gatos. Después, antes de que amaneciera, volvían a su estado humano y se acostaban a dormir. Al otro día no se acordaban de nada.
+										</p>
+										<p>
+											Seguramente cualquiera se preguntará: ¿y cómo sabían que se transformó, y que anduvo por ahí comiendo pollitos? Esto era muy sencillo de descubrir. Después de una noche de luna llena, la ropa del lobisón amanecía sucia con caca de gallina y había plumas por todos lados. En las sábanas, la pieza y en todas partes había rastros de que había andado por algún gallinero, y las alpargatas siempre estaban embarradas. No había ninguna duda, estas eran pruebas suficientes para saber que esa persona comía pollitos, y por lo tanto era lobisón.
+										</p>
+										<p>
+											Pero había una cosa mucho peor, que era cuando el lobisón no iba a los gallineros, ni comía pollitos y... se dedicaba a atacar personas. Estos eran los lobisones más temidos, y también, estas eran las situaciones más peligrosas para un lobisón... porque podían matarlo.
+										</p>
+										<p>
+											En general, los lobisones atacaban a los gauchos que iban a caballo y de noche. Los gauchos iban al trotecito, silbando algún chamamé, contemplando lo lindo que es el campo cuando la luna llena lo ilumina. Ahí nomás y de repente:
+										</p>
+										<p class="p-2">
+											—¡¡¡Aauuuuuuuuuu!!!, aauuuuuuuuuuuuuu!!!
+										</p>
+										<p>
+											De los matorrales o del costado del camino saltaba el lobisón. El perro, el caballo y el gaucho, se pegaban flor de susto.
+										</p>
+										<p>
+											El perro del gaucho, era el primero con el que se trenzaba en feroz pelea. Pero ahí nomás, el gaucho bajaba de su caballo y con la guacha en una mano y el facón en la otra,  desafiaba a la bestia humana.
+										</p>
+										<p class="p-2">
+											—¡¡¡Vení lobisón hijo e´mandinga!!!! ¡¡¡Vení maula que te destripo!!!
+										</p>
+										<p>
+											Y en ese revuelo de polvareda, guachazos, ladridos y aullidos, se armaba un gran batifondo. La pelea solía durar media hora más o menos. El gaucho nunca podía matar al lobisón, su perro siempre salía todo mordisqueado, y a veces no contaba el cuento.
+										</p>
+										<p class="p-2">
+											—¡Ese lobisón hijuna gransiete! se salvó que  no lo matara, pero le sacudí unos buenos guachazos que hasta ahora le debe estar ardiendo el lomo al desgraciao ese... -solía contar el gaucho a sus amigos en el almacén.
+										</p>
+								      </div>
+								      <div class="modal-footer">
+								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+								      </div>
+								    </div>
+								  </div>
+								</div>
+				    		</p>
 				    	</li>
-				    	<li>
-				    		<p>Viento Norte</p>
+				    	<li class="m-0">
+				    		<p>
+				    		<!-- III -->
+								<!-- Button trigger modal -->
+				    			<a data-toggle="modal" data-target="#eduNazaModal" href="#">
+					    			Eduardo y Nazareno Cruz 
+					    			<small id="leer">
+					    		      <i class="fab fa-readme"></i>
+					    		    </small>
+				    			</a>
+
+								<!-- Modal -->
+								<div class="modal fade bd-example-modal-lg" id="eduNazaModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								  <div class="modal-dialog modal-dialog-centered" role="document">
+								    <div class="modal-content">
+								      <div class="modal-header">
+								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">III · Eduardo y Nazareno Cruz</h5>
+								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
+								          <i class="fas fa-times text-muted"></i>
+								        </button>
+								      </div>
+								      <div class="modal-body container belle h4">
+										<p>
+											Desde muy chico, a Eduardo siempre le gustaba escuchar la radio. Se la pasaba horas con la oreja pegada a la radio escuchando radioteatros en los que se relataban historias, cuentos o leyendas. Cada historia tenía muchos personajes y Eduardo se imaginaba a cada uno de ellos. ¡Que fantástico y maravilloso era eso! ¡Escuchar e imaginar!
+										</p>
+										<p>
+											Habitualmente los radioteatros se transmitían en el horario de la siesta, porque era el momento en el que la gente descansaba de sus tareas campestres.
+										</p>
+										<p>
+											 Cierto día, más o menos a los ocho o nueve años, escuchó en la radio la propaganda de un nuevo radioteatro que se emitiría por LT5 Radio Chaco, en el horario de las dos de la tarde. En la propaganda se escuchaba una música de suspenso que daba miedo, y la voz grave del locutor que decía:  
+										</p>
+										<p class="p-2">
+											— “Nazareno Cruz... ¡auuuuuuuu! y el lobo… ¡¡¡el lobisón de Pago Largo!!! Con la compañiiía radioteatraaaal de Analía Zubeldí y Sergio Rigó. Desde el primero de julio, de catorce a quince horas y de lunes a viernes, no se pierdan el gran radioteatroooo de el... hombre-lobo. Sintoniceeeee Radio Chacoooooo, la primera en su diaaaal”.
+										</p>
+										<p>
+											Cada vez que escuchaba la propaganda, Eduardo se entusiasmaba y  a la vez sentía una profunda inquietud. Pensaba que Nazareno Cruz tendría muchas cosas parecidas a él, por lo tanto con el radioteatro podría saber  más sobre lobisones.
+										</p>
+										<p>
+											Así fue que desde el primero de julio, partía diariamente rumbo al galpón de maiz, con su radio Spika forrada en cuero marrón, para escuchar con la oreja pegada a su pequeño aparato, la historia de Nazareno. Ese era un momento en el que quería estar absolutamente solo. Era una hora de pura emoción, donde le parecía estar escuchando como sería su vida y hasta se sentía en el mismísimo papel de Nazareno Cruz.
+										</p>
+										<p>
+											Después de tres meses, el radioteatro llegó a su fin. Tuvo un desenlace que Eduardo nunca hubiese querido escuchar... al lobisón lo mataban con una bala de plata en el corazón. Eso lo dejó muy triste durante bastante tiempo y le costó tratar de olvidar o comprender, que era solo una novela llevada a la radio y que todo podía ser irreal. 
+										</p>
+										<p>
+											A los diez años, comenzó a pensar que ya no quería cumplir años, porque según la leyenda, la transformación empezaba a operar entre los doce y catorce. 
+										</p>
+										<p>
+											 Cuando cumplió los once, una gran angustia comenzó a invadirlo. Eduardo pensaba:
+										</p>
+										<p class="font-italic">
+											Ya me estoy acercando…
+										</p>
+								      </div>
+								      <div class="modal-footer">
+								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+								      </div>
+								    </div>
+								  </div>
+								</div>
+				    		</p>
 				    	</li>
-				    	<li>
-				    		<p>Juegos peligrosos</p>
+				    	<li class="m-0">
+				    		<p>
+				    		<!-- IV -->
+								<!-- Button trigger modal -->
+				    			<a data-toggle="modal" data-target="#eduCumpleModal" href="#">
+					    			Eduardo cumple 12 años 
+					    			<small id="leer">
+					    		      <i class="fab fa-readme"></i>
+					    		    </small>
+				    			</a>
+
+								<!-- Modal -->
+								<div class="modal fade bd-example-modal-lg" id="eduCumpleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								  <div class="modal-dialog modal-dialog-centered" role="document">
+								    <div class="modal-content">
+								      <div class="modal-header">
+								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">IV · Eduardo cumple 12 años</h5>
+								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
+								          <i class="fas fa-times text-muted"></i>
+								        </button>
+								      </div>
+								      <div class="modal-body container belle h4">
+										<p>
+											El día de su cumpleaños número doce se acercaba día a día, y ese hecho lo inquietaba cada vez más.   
+										</p>
+										<p>
+											Como no sabía el día exacto de su primera transformación, decidió prepararse. Empezó a controlar todos los meses el almanaque para ver los cambios lunares, y en particular, saber con precisión cuando tendría viernes de luna llena. Tenía un cuaderno escondido donde escribía todo lo que le iba pasando. Se miraba las manos, y constantemente iba al espejo del baño donde se quedaba un buen rato mirándose para ver si no le crecían las cejas, las orejas, o si le afloraban los colmillos. También anotaba el comportamiento de los demás, sobre todo el de sus padres y hermanos y... algo raro sucedía.
+										</p>
+										<p>
+											 Por ejemplo, los viernes de noche, en los que había luna llena, ninguno de sus hermanos quería sentarse a su lado durante la cena. Su mamá no reprendía a nadie, era como si de alguna manera, los apoyaba. Su papá lo miraba constantemente, le observaba las manos y la forma de comer. Su mamá se preocupaba de que apenas terminara de cenar, se fuera inmediatamente a la pieza.
+										</p>
+										<p>
+											Y así fue pasando el tiempo, sin que ocurriera nada especial. Más o menos seis o siete meses después de haber cumplido los doce años, un viernes de abril, el almanaque señalaba luna llena. Eduardo anotó todo, pero esta vez con mayor cuidado, cada detalle de su cuerpo y cada sensación. Esa noche, a la hora de la cena, empezó a sentirse extraño. No tenía hambre, quería salir a correr, saltar un muro o treparse a un árbol. Trató de no pensar demasiado en eso, y se sentó a la mesa con su familia.
+										</p>
+										<p>
+											Cuando ya estaban alrededor de la mesa, reparó en que todos lo miraban diferente. También notó que algo extraño ocurría con su olfato. Esto sí que lo asustó. Percibía olores diferentes, olores desconocidos. A su vez podía oír mucho mejor. Escuchaba ruidos lejanos. Hasta incluso pudo escuchar como uno de sus hermanos, Juancito, sentado en el otro extremo de la mesa le cuchicheaba al oído a su hermanita:
+										</p>
+										<p class="p-2">
+											—Te apuesto a que esta noche se transforma en lobisón, y te come primero a vos por ser la más chiquita. Primero te come las patitas, después los bracitos, y después tus orejitas... grunch, grunch... 
+										</p>
+										<p>
+											Vio y pudo olfatear el terror de su pequeña hermanita, a la que le corrían dos lagrimones, mientras lo miraba espantada.
+										</p>
+										<p>
+											Cuando su papá fue a la cocina a buscar un sacacorchos, su mamá aprovechó para levantarse e ir tras su esposo y decirle al oído:
+										</p>
+										<p class="p-2">
+											—¿No te parece que hoy está más extraño que nunca?
+										</p>
+										<p class="p-2">
+											—Pamplinas, yo lo veo igual que siempre -contestó el padre.
+										</p>
+										<p>
+											Eduardo escuchó nítidamente ese murmullo, estando a más de diez metros, y eso era lo que más lo asustaba. Se daba cuenta que tenía poderes, poderes que antes jamás los había experimentado.
+										</p>
+										<p>
+											Apenas terminó de comer, Eduardo se levantó y fue a su pieza, la que compartía con dos hermanos más. Prendió una vela, tomó su cuaderno y empezó a escribir todas las cosas extrañas que había sentido. Miró por la ventana y vio que había una gran luna llena. La luna estaba más brillante que nunca. Alumbraba tanto que parecía de día. Trató de pensar en todo lo que le había dicho su maestra, que solo eran leyendas, que no era cierto y que no le pasaría nada, pero igual estaba muy intranquilo, sintiéndose cada vez más extraño.
+										</p>
+										<p>
+											Trató de serenarse y esperó que vinieran sus hermanos. Tal vez si jugaban una escoba del quince o un chin chón, la noche pasaría más rápido y el no tendría mucho tiempo para pensar.
+										</p>
+										<p>
+											Pero el tiempo pasó y sus hermanos no venían, entonces fue hasta el comedor a ver que pasaba, y allí encontró solamente a su madre lavando los platos:
+										</p>
+										<p class="p-2">
+											—Mamá… ¿dónde están Víctor y Manuel?
+										</p>
+										<p class="p-2">
+											—Ehh... se fueron a dormir a la otra pieza, porque.... eeh, no querés venir a dormir a nuestra pieza esta noche, con tu papá y conmigo? ¡Dale vení!
+										</p>
+										<p>
+											En ese momento comprendió que las cosas ya eran muy diferentes a otras veces. Pudo oler el miedo de todos, incluido el de sus padres.
+										</p>
+										<p>
+											Afligido pero a la vez eufórico y con ganas de salir a correr y saltar, fue a su pieza, anotó la ropa que tenía puesta, un pantalón marrón, una camisa de franela a cuadros rojos y azules, medias y alpargatas. Toda la ropa estaba muy limpita, y eso también lo anotó. Apagó la vela, se acostó vestido y tirado boca arriba, no se podía dormir. Ya era casi medianoche... 
+										</p>
+								      </div>
+								      <div class="modal-footer">
+								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+								      </div>
+								    </div>
+								  </div>
+								</div>
+				    		</p>
+				    	</li>
+				    	<li class="m-0">
+				    		<p>
+				    		<!-- V -->
+								<!-- Button trigger modal -->
+				    			<a data-toggle="modal" data-target="#transofmacionModal" href="#">
+					    			La transformación 
+					    			<small id="leer">
+					    		      <i class="fab fa-readme"></i>
+					    		    </small>
+				    			</a>
+
+								<!-- Modal -->
+								<div class="modal fade bd-example-modal-lg" id="transofmacionModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								  <div class="modal-dialog modal-dialog-centered" role="document">
+								    <div class="modal-content">
+								      <div class="modal-header">
+								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">V · La transformación</h5>
+								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
+								          <i class="fas fa-times text-muted"></i>
+								        </button>
+								      </div>
+								      <div class="modal-body container belle h4">
+										<p>
+											Un rato después, comenzó a sentir que se le estiraba la piel. Le parecía que sus manos se agrandaban, se empezó a tocar y sintió que tenía pelos en todas partes. No podía pensar en nada, estaba como confundido. Sintió que sus orejas, cuando rozaban la almohada, eran distintas. No se animó a prender de nuevo la vela, se levantó arrimándose a la ventana, donde la luna alumbraba con toda intensidad y entonces ya no le quedó ninguna duda, la transformación había comenzado, ya se estaba convirtiendo en lobisón. Se tocó la cara y la sintió extraña. Quiso llorar y no pudo, quiso mirarse los pies, y fue como si le hubieran arrancado los pensamientos. 
+										</p>
+										<p>
+											Cuando reaccionó estaba corriendo por el costado de un camino. No sabía hacia donde iba pero se sentía bien, con mucha fuerza y ganas de cualquier cosa, disfrutaba de esa carrera en medio del campo y de la noche, con esa grandísima luna llena. Comprendió también que corría como... ¡¡¡si fuera un perro!!! y no como una persona; tenía cuatro patas, pelos por todas partes... pensó…
+										</p>
+										<p>
+											 <span class="font-italic">¡¡¡Soy un lobisón!!</span> -quiso gritar y llorar y...
+										</p>
+										<p class="p-2">
+											—Aaaaaauuuuuuuuuuuuu, aaauuuuuuuuuuu!!!! –comenzó a aullar.
+										</p>
+										<p>
+											No entendía porque podía pensar como una persona y cuando quería hablar o gritar le salía un aullido. Corrió sin parar, sin saber hacia donde corría. De repente… lo entendió todo, era un lobisón, un animal con cuatro patas, cola, hocico, y lo que es peor, era consciente de eso.
+										</p>
+										<p>
+											Hizo un trechito más y vio el caserío donde estaba el almacén, unas cuatro o cinco casas más y la escuela, su escuela, donde iba todos los días a la mañana. 
+										</p>
+										<p>
+											Cuando ya estaba muy cerca, a unos cincuenta metros, los perros empezaron a ladrar y aullar como si tuvieran miedo. Todos ladraban desesperadamente, pero ninguno salía a enfrentarlo. De pronto vio que por una puerta, al costado del almacén, salió alguien que en una mano tenía una linterna con la que alumbraba, y en la otra llevaba una escopeta. Se sentía con muchos poderes, podía sentir el menor ruido a la distancia, podía ver casi en la oscuridad, y oler cualquier cosa por más rara que sea. 
+										</p>
+										<p>
+											Eduardo se metió entre el espartillo, se agazapó para que no lo vieran y para no ligar un tiro; entonces el hombre empezó a retar a los perros para que se callaran, pero estos seguían como gimiendo por el terrible miedo y porque querían avisarle a su dueño, que algo había. El lobisón se quedó quieto por unos instantes, hasta que el hombre, después de revisar los alrededores y de alumbrar para todas partes, entró nuevamente a la casa. Los perros se callaron.
+										</p>
+										<p>
+											Después de unos minutos, el lobisón se dirigió sigiloso hacia el gallinero de la casa de los Pérez, que estaba a unos doscientos metros del almacén, y otra vez se armó un gran batifondo. Los perros empezaron a ladrar como locos, las gallinas cacareaban y los gansos gorjeaban. Ahí ya no dudó, tomó carrera y de un gran salto, pasó limpito el tejido que tenía un metro y medio de alto y cayó entre las gallinas y los gansos. Se armó un revuelo que casi termina asustándose él mismo. Sin perder tiempo y de un zarpazo agarró la primera gallina que se le cruzó y con su gran boca y sus afilados colmillos, le partió el cuello de un mordiscón. Con la gallina muerta en la boca volvió a saltar el tejido y emprendió una veloz carrera campo adentro. Con el tole-tole que se armó, los perros no paraban de ladrar y gemir, las gallinas se habían vuelto locas, y el dueño de casa se levantó y salió a ver que pasaba, y ahí nomás les gritó:
+										</p>
+										<p class="p-2">
+											—¡Juira perro! ¡Juira! Seguro que son esas comadrejas de porquería… –mientras recorría los alrededores de la casa.
+										</p>
+										<p>
+											Lo único que encontró fue un gran alboroto de todos los animales. Entonces se dirigió hacia el gallinero y cuando alumbró para adentro encontró lo que sospechaba, había plumas desparramadas por el piso y un gran reguero de sangre.
+										</p>
+										<p class="p-2">
+											—Comadreja hijuna gransiete, si te agarro te hago volar la cabeza...
+										</p>
+										<p>
+											A unos cien metros, sobre una lomita de tierra blanca, el lobisón se devoraba a la gallina. Se la comió con plumas y todo. Después volvió a acercarse al caserío, porque se le ocurrió una idea. Quería recorrer su escuela, quería ver desde la ventana su aula, su banco, el pizarrón, quería percibir el olor a tiza y tinta que siempre había en su aula y sobre todo, quería saber cómo se sentiría mirando todo eso como un lobisón.
+										</p>
+										<p>
+											Se acercó con mucho sigilo, pero los perros de los alrededores igual empezaron a ladrar. Llegó hasta la ventana del aula de séptimo grado, y se paró en dos patas; acercó el hocico contra el vidrio y con la claridad que daba la luna y su aguda visión, pudo ver todas esas cosas que le eran tan familiares. Quiso llorar, empezó a gemir, sintió miedo de no poder convertirse nuevamente en humano, y de no poder regresar a su escuela para estar con sus compañeros. Una profunda tristeza lo invadió. De un salto dio media vuelta y empezó a correr para su casa, no sabía que hacer, ni cuanto le duraría la transformación. Pensó que no podía volver en ese estado a su pieza. Recordó haber leído que antes del amanecer, comenzaría nuevamente la transformación inversa, entonces no quiso alejarse demasiado. 
+										</p>
+								      </div>
+								      <div class="modal-footer">
+								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+								      </div>
+								    </div>
+								  </div>
+								</div>
+				    		</p>
+				    	</li>
+				    	<li class="m-0">
+				    		<p>
+				    		<!-- VI -->
+								<!-- Button trigger modal -->
+				    			<a data-toggle="modal" data-target="#primerGauchoModal" href="#">
+					    			Su primer enfrentamiento con un gaucho 
+					    			<small id="leer">
+					    		      <i class="fab fa-readme"></i>
+					    		    </small>
+				    			</a>
+
+								<!-- Modal -->
+								<div class="modal fade bd-example-modal-lg" id="primerGauchoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+								  <div class="modal-dialog modal-dialog-centered" role="document">
+								    <div class="modal-content">
+								      <div class="modal-header">
+								        <h5 class="modal-title display-4 cinzel ls-3 text-muted" id="exampleModalLongTitle">VI · Su primer enfrentamiento con un gaucho</h5>
+								        <button type="button" class="btn btn-light" data-dismiss="modal" aria-label="Close">
+								          <i class="fas fa-times text-muted"></i>
+								        </button>
+								      </div>
+								      <div class="modal-body container belle h4">
+										<p>
+											Tomó entonces por una picada que iba hacia la chacra de los Barrero y los Almanza, pensó que la noche estaba linda para recorrer un poco, además ya no tenía ganas de comerse otra gallina, mejor sería correr un poco y nada más. Cuando iba al trotecito sintió un traqueteo que venía a lo lejos, se paró para oír mejor y se dio cuenta que venía un caballo con dos perros a unos doscientos metros aproximadamente. Se escondió detrás de la pared de un ranchito abandonado que estaba al costado del caminito y esperó. Cuanto más se acercaba, más nítidamente escuchaba el traqueteo parejo del caballo y al hombre que venía silbando un chamamé. Eduardo no tenía intenciones de hacer nada, quería quedarse escondido y que pasaran de largo, pero justo cuando pasaban frente al ranchito, los perros se enloquecieron y empezaron a ladrar como endemoniados, aullaban y corrían alrededor del caballo, que también se asustó y comenzó a corcovear y relinchar. El gaucho no entendía nada, o mejor dicho sí, se imaginaba que algo había y que podía ser una luz mala, un alma en pena, un aparecido, que eran cosas comunes, pero nunca se imaginó lo que realmente sucedería. 
+										</p>
+										<p class="p-2">
+											—¡¡¡Salí hijunagransiete!!! ¡¡Salí si sos macho!! ¡¡Salí de una vez sea lo que sea, hombre, bestia o ánima!! –gritaba enloquecido y lleno de miedo.
+										</p>
+										<p>
+											Eduardo no tuvo miedo, estaba tranquilo y no quería enfrentarse a los perros; su cuerpo era casi el doble de grande y su fuerza el triple que la de un perro común. Se sentía  superior y sabía que si peleaban, los mataría. Pero de pronto, tres estruendos lo hicieron saltar del susto. Tres tiros habían pegado contra la pared donde se escondía y los perros parecía que se animaron porque se acercaron mucho, y aullaban como locos, entonces ya no dudó más y salió de su escondite a enfrentarlos.
+										</p>
+										<p>
+											Su color negro y su tamaño mucho mayor que el de cualquier perro, le dieron un susto al gaucho que ahí nomás le encajó los tres tiros que le quedaban de su 38 largo, mientras gritaba azuzando a sus perros:
+										</p>
+										<p class="p-2">
+											—¡¡¡Chúmbale Batuque!!! ¡¡¡Chúmbale Negro!!!
+										</p>
+										<p>
+											El lobisón recibió un tiro en una pata, pero ni lo preocupó, y con un rápido movimiento agarró a uno de los perros; el tarascón le alcanzó la garganta y cayó herido de muerte. El otro perro ladraba enloquecido y retrocedía porque no quería seguir la misma suerte que su compañero. Pero de un salto, el lobisón lo cazó de la paleta, lo zamarreó y cuando se aprestaba a clavarle los colmillos, sintió unos chicotazos sobre el lomo y los gritos del gaucho, que se había bajado del caballo con el chicote y un machete. Soltó al perro y corrió.
+										</p>
+										<p>
+											Corría por el costado del caminito hacia su casa, no tenía ni idea de que hora sería, pero ya no tenía ganas de seguir vagando y trenzarse en otra pelea. Le dolía un poco el balazo que le dieron en su pata trasera derecha, pero también sabía que eso se iba a curar muy rápido.
+										</p>
+										<p>
+											Según la leyenda, la única forma de matar a un lobisón, era si una bala de plata le daba en el corazón; y  si lo herían, como en este caso, la herida se curaría pronto.
+										</p>
+										<p>
+											Cuando vio el puentecito, supo que ya estaba cerca de su casa y pensó en cómo llegar sin que nadie se diera cuenta. Dudaba en entrar a la casa como lobisón, o esperar a transformarse en humano. Se preocupó, no sabía qué hacer, tampoco quería asustar a su familia y tuvo mucho miedo de que si lo veían así, con toda seguridad no lo reconocerían y hasta podrían meterle unos balazos.
+										</p>
+										<p>
+											Dio un rodeo para llegar a su casa por la parte de atrás, el único problema era que había un tejido muy alto, como de dos metros, pero se acordó que era lobisón y tomando una corta carrera, saltó y cayó en el patio. Miro para todos lados y ahí se llevó un susto bárbaro, porque vio que debajo del aromito estaban sus dos perros, que lo miraban sin ladrar, como si lo hubiesen olfateado y reconocido. Se acercó a ellos, que apenas gemían y temblaban de miedo, se olfatearon de cerca como si se saludaran.
+										</p>
+										<p>
+											El lobisón recorrió un poco más el patio, y debajo de una planta de limón vio sus ropas, el pantalón marrón, la camisa de franela a cuadros, las alpargatas. Estaban tiradas y parecían como rotas o deshilachadas. 
+										</p>
+								      </div>
+								      <div class="modal-footer">
+								        <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+								      </div>
+								    </div>
+								  </div>
+								</div>
+				    		</p>
 				    	</li>
 				    </ul>
 				  </div>
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
@@ -3368,7 +3376,7 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 	    <div class="card-body">
 			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
+			  <a class="btn btn-warning disabled" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
 
 				<div class="collapse" id="collapseExample">
 				  <div class="card card-body">
@@ -3592,7 +3600,7 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
@@ -3602,7 +3610,7 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 	    <div class="card-body">
 			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
+			  <a class="btn btn-warning disabled" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
 
 				<div class="collapse" id="collapseExample">
 				  <div class="card card-body">
@@ -3826,7 +3834,7 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
@@ -3841,14 +3849,16 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 	</span>
 </div>
 
-<section class="card-columns p-1">
+<hr class="col-2">
+
+<section id="libros-list" class="card-columns p-1">
 	<!-- LA CACERÍA -->
 	  <div class="card">
 	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/La-cacería.jpg" alt="Card image cap">
 	    <div class="card-body">
 			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
+			  <a class="btn btn-warning disabled" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
 
 				<div class="collapse" id="collapseExample">
 				  <div class="card card-body">
@@ -4072,7 +4082,7 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
@@ -4082,7 +4092,7 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 	    <div class="card-body">
 			<nav class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
 			  <!-- Button trigger modal -->
-			  <a class="btn btn-warning" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
+			  <a class="btn btn-warning disabled" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Índice</a>
 
 				<div class="collapse" id="collapseExample">
 				  <div class="card card-body">
@@ -4306,7 +4316,7 @@ Las palometas son lo peor que hay, son asesinas, crueles, voraces, despiadadas, 
 				</div>
 
 			  <a class="nav-item disabled nav-link btn" href="#"><i class="fas fa-share-alt"></i></a>
-			  <a class="nav-item nav-link btn btn-outline-primary" href="#"><i class="fas fa-shopping-cart"></i></a>
+			  <a class="nav-item nav-link btn btn-outline-primary disabled" href="#"><i class="fas fa-shopping-cart"></i> (proximamente)</a>
 			</nav>
 	    </div>
 	  </div>
