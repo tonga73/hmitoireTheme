@@ -1,6 +1,7 @@
 <!doctype html>
 <html @php language_attributes() @endphp>
   @include('partials.head')
+  <div class="loader"></div>
   <body @php body_class() @endphp>
     @php do_action('get_header') @endphp
     @include('partials.header')

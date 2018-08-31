@@ -1,0 +1,51 @@
+#bio-header {
+  color: $light;
+  border-radius: 15px 15px 0 0;
+
+  span {
+    h1 {
+      font-weight: 300;
+    }
+  }
+}
+
+#bio-section {
+  @include flex-around();
+
+  align-items: center;
+  justify-content: space-around;
+  padding: 1em;
+
+  img {
+    margin: 0 1.5px;
+  }
+}
+
+@media (max-width: 576px) {
+  #bio-section {
+    text-align: center;
+    padding: 5px 7px;
+
+    span {
+      font-size: 5vw;
+    }
+  }
+}
+
+@media (min-width: 768px) {
+  #bio-section {
+    span {
+      font-size: 2.1vw;
+      text-align: center;
+    }
+  }
+}
+
+@media (min-width: 992px) {
+  #bio-section {
+    span {
+      font-size: 21px;
+      text-align: center;
+    }
+  }
+}

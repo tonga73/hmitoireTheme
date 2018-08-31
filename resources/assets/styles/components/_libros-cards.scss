@@ -17,6 +17,11 @@
 }
 
 #libros-section-title.jumbotron {
+  small {
+    width: 100%;
+    margin: 0 auto;
+  }
+
   span {
     i {
       display: block;

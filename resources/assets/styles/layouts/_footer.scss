@@ -1,0 +1,33 @@
+footer {
+  section.widget {
+    padding: 1em;
+
+    ul {
+      li {
+        margin-bottom: 0 !important;
+      }
+    }
+  }
+
+  section.widget.simple-social-icons {
+    padding: 3em;
+
+    ul {
+      @include flex-it();
+
+      li {
+        a {
+          font-size: 35px;
+
+          &:hover {
+            background-color: $primary !important;
+            -webkit-transition: 0.273519s ease-in-out;
+            -moz-transition: 0.273519s ease-in-out;
+            -o-transition: 0.273519s ease-in-out;
+            transition: 0.273519s ease-in-out;
+          }
+        }
+      }
+    }
+  }
+}
