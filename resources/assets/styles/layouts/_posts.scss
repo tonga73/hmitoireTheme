@@ -1,7 +1,57 @@
 #post-single {
-  header.jumbotron {
+  header {
     span.entry-title {
+      @include flex-around();
+
       align-items: center;
+
+      h1 {
+        color: $dark;
+        max-width: 50%;
+      }
+
+      div {
+        max-height: 500px;
+        max-width: 50%;
+        overflow: hidden;
+
+        img {
+          width: 100%;
+          height: auto;
+        }
+      }
+    }
+  }
+}
+
+// Small devices (landscape phones, 576px and up)
+@media (max-width: 992px) {
+  #post-single {
+    header {
+      width: 100%;
+
+      span.entry-title {
+        display: block;
+
+        h1 {
+          max-width: 100%;
+          padding: 1em 0;
+          text-align: center;
+        }
+
+        div {
+          max-width: 100%;
+
+          img {
+            width: 100%;
+            height: auto;
+          }
+        }
+      }
+
+      h4 {
+        padding: 0 !important;
+      }
     }
   }
 }

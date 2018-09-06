@@ -54,7 +54,7 @@
   @extend .nav-item;
 }
 
-.scrolled {
+.banner.scrolled {
   position: fixed;
   -webkit-transition: 0.53195s ease-in-out;
   -moz-transition: 0.53195s ease-in-out;
@@ -71,6 +71,18 @@
     width: auto;
     color: $light;
     display: none;
+  }
+
+  .nav {
+    .menu-item {
+      &:hover {
+        background-color: $light;
+
+        a {
+          color: $dgreen !important;
+        }
+      }
+    }
   }
 }
 
@@ -93,14 +105,6 @@
 
           span {
             display: none;
-          }
-        }
-
-        &:hover {
-          background-color: $light;
-
-          i {
-            color: $dgreen;
           }
         }
       }

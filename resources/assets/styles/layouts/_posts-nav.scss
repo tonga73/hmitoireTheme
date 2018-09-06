@@ -1,0 +1,16 @@
+nav.navigation.posts-navigation {
+  padding: 1em;
+
+  div.nav-links {
+    @include flex-between();
+
+    width: 100%;
+    text-align: center;
+
+    .nav-previous,
+    .nav-next {
+      width: 50%;
+      padding: 1em;
+    }
+  }
+}
