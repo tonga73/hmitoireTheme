@@ -31,10 +31,6 @@
 					<small class="d-block text-muted">[ el autor con sus hermanas ]</small>
 					<img class="img-fluid img-thumbnail" style="max-height: 370px;" src="http://hugomitoire.com/wp-content/uploads/2018/08/Los-3.jpg" alt="">	
 				</span>
-				<span class="col-12">
-					<img class="img-fluid img-thumbnail" style="max-height: 370px;" src="http://hugomitoire.com/wp-content/uploads/2018/08/DSC02490-abelito-y-Nestito.jpg" alt="">
-					<small class="d-block text-muted">[ aquí con su hermano menor ]</small>
-				</span>
 			</picture>
 		</div>
 		<div id="bio-section" class="col-sm-12 col-lg-6">
