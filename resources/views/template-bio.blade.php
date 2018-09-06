@@ -8,11 +8,11 @@
   @while(have_posts()) @php the_post() @endphp
   <div class="container-fluid">
   	<div class="row belle">
-  		<div id="bio-header" class="col-sm-12 text-center p-3 bg-warning">
+  		<div id="bio-header" class="col-sm-12 text-center bg-dark p-3">
   			<img height="170" class="rounded-circle" src="https://scontent.fcnq2-1.fna.fbcdn.net/v/t1.0-9/10550996_10204396826944089_6888955505019437684_n.jpg?_nc_cat=0&oh=e3142185dc8e498d523fcecc3a2365d3&oe=5C3646AA" alt="">
   			<h2 class="cinzel pt-3">Biografía</h2>
   			<span class="barlow ls-5">
-  				<h1 class="m-0 pt-2 pb-1">Hugo Daniel Mitoire</h1>
+  				<h1 class="m-0 pt-2 pb-1 display-4 text-white">Hugo Daniel Mitoire</h1>
   			</span>
   		</div>
 		<div id="bio-section" class="col-sm-12 col-lg-6">
@@ -31,14 +31,14 @@
 					<small class="d-block text-muted">[ el autor con sus hermanas ]</small>
 					<img class="img-fluid img-thumbnail" style="max-height: 370px;" src="http://hugomitoire.com/wp-content/uploads/2018/08/Los-3.jpg" alt="">	
 				</span>
+				<span class="col-12">
+					<img class="img-fluid img-thumbnail" style="max-height: 370px;" src="http://hugomitoire.com/wp-content/uploads/2018/08/Bandera.jpg" alt="">
+					<small class="d-block text-muted">[ llevando la bandera nacional ]</small>
+				</span>
 			</picture>
 		</div>
 		<div id="bio-section" class="col-sm-12 col-lg-6">
 			<picture class="row text-center">
-				<span class="col-12">
-					<small class="d-block text-muted">[ llevando la bandera nacional ]</small>
-					<img class="img-fluid img-thumbnail" style="max-height: 370px;" src="http://hugomitoire.com/wp-content/uploads/2018/08/Bandera.jpg" alt="">
-				</span>
 				<span class="col-12">
 					<img class="img-fluid img-thumbnail" style="max-height: 370px;" src="http://hugomitoire.com/wp-content/uploads/2018/08/Empezando-la-secundaria.jpg" alt="">
 					<small class="d-block text-muted">[ luciendo elegante en su juventud ]</small>

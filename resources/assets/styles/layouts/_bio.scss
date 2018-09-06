@@ -2,6 +2,11 @@
   color: $light;
   border-radius: 15px 15px 0 0;
 
+  h2 {
+    text-decoration: underline;
+    opacity: 0.7;
+  }
+
   span {
     h1 {
       font-weight: 300;
@@ -14,7 +19,7 @@
 
   align-items: center;
   justify-content: space-around;
-  padding: 1em;
+  padding: 3em;
 
   img {
     margin: 0 1.5px;
