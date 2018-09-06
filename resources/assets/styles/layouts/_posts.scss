@@ -14,10 +14,11 @@
         max-height: 500px;
         max-width: 50%;
         overflow: hidden;
+        text-align: center;
 
         img {
-          width: 100%;
-          height: auto;
+          width: auto;
+          max-height: 500px;
         }
       }
     }
@@ -41,11 +42,6 @@
 
         div {
           max-width: 100%;
-
-          img {
-            width: 100%;
-            height: auto;
-          }
         }
       }
 
