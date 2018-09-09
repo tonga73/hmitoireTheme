@@ -21,3 +21,247 @@
   @extend .btn;
   @extend .btn-secondary;
 }
+
+section.comments {
+  h2 {
+    margin: 0;
+    padding: 1em;
+    text-align: right;
+    cursor: default;
+    color: $gray-400;
+  }
+
+  ol {
+    li {
+      margin: 5px;
+
+      article.comment-body {
+        footer.comment-meta {
+          a {
+            text-decoration: none;
+          }
+
+          .comment-author.vcard {
+            padding: 1em;
+
+            img.avatar {
+              padding: 1em;
+              background-color: $primary;
+              border-radius: 50px;
+              max-height: 75px;
+              max-width: 75px;
+            }
+
+            b.fn {
+              letter-spacing: 1px;
+              padding: 1em 0 1em 1em;
+
+              a {
+                color: $light;
+                background-color: $dark;
+                padding: 7px;
+                border-radius: 35px;
+
+                &:hover {
+                  background-color: $primary;
+                }
+              }
+            }
+          }
+
+          div.comment-metadata {
+            background-color: $dark;
+            margin: 0 auto;
+            width: 71%;
+            text-align: center;
+            padding: 1em;
+            border-radius: 7px 7px 0 0;
+
+            time {
+              color: $light;
+              letter-spacing: 1.3px;
+              font-size: 19px;
+            }
+          }
+        }
+
+        .comment-content {
+          background: $light;
+          color: $dark;
+          text-align: right;
+          width: 70%;
+          margin: 0 auto;
+          border-radius: 0 0 15px 15px;
+          padding: 1em;
+        }
+
+        div.reply {
+          text-align: right;
+          width: 80%;
+
+          a.comment-reply-link {
+            color: $light;
+            background-color: $gray-700;
+            padding: 0.7em;
+            text-transform: lowercase;
+            font-weight: 300;
+            letter-spacing: 1.3px;
+            border-radius: 15px;
+            text-decoration: none;
+
+            &:hover {
+              background-color: $dgreen;
+              font-weight: 500;
+            }
+          }
+        }
+      }
+
+      ol.children {
+        li.comment {
+          article.comment-body {
+            footer.comment-meta {
+              .comment-author.vcard {
+                padding: 0;
+
+                img {
+                  background-color: $gray-700;
+                }
+              }
+
+              .comment-metadata {
+                padding: 0.5em;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+  div.comment-respond {
+    padding: 0.3em 0;
+
+    h3.comment-reply-title {
+      text-align: right;
+      font-family: 'Cinzel', serif;
+      color: $gray-400;
+    }
+
+    form.comment-form {
+      p.logged-in-as {
+        @include flex-around();
+
+        padding: 0.5em 0;
+        background-color: $light;
+        border-top: 0.3em solid $warning;
+      }
+
+      span.required {
+        font-size: 25px;
+        font-weight: bold;
+        color: $danger;
+      }
+
+      p.comment-notes {
+        color: $gray-400;
+        letter-spacing: 0.8px;
+
+        span#email-notes {
+          background-color: $gray-400;
+          color: $dark;
+          padding: 3px;
+          margin-right: 10px;
+          border-radius: 7px;
+        }
+      }
+
+      p.form-submit {
+        text-align: right;
+
+        input.submit {
+          border: 3px solid $gray-400;
+
+          &:hover {
+            background-color: $gray-400;
+            color: $dark;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 992px) {
+  section.comments {
+    padding: 0;
+
+    h2 {
+      text-align: center;
+    }
+
+    ol {
+      li {
+        margin: 1em 0;
+
+        article.comment-body {
+          display: block;
+
+          footer.comment-meta {
+            margin: 0;
+
+            .comment-author.vcard {
+              padding: 0;
+              text-align: center;
+
+              img {
+                margin: 0 auto;
+                display: block;
+              }
+
+              b.fn {
+                display: block;
+                padding-bottom: 0;
+              }
+
+              span.says {
+                margin: 0.3em 0;
+              }
+            }
+          }
+
+          .comment-metadata {
+            margin: 0 auto !important;
+          }
+        }
+
+        ol.children {
+          padding: 0;
+        }
+      }
+    }
+
+    div.comment-respond {
+      padding: 0;
+
+      h3 {
+        text-align: center !important;
+      }
+
+      form.comment-form {
+        p {
+          text-align: center;
+          margin: 0 auto;
+          padding: 0.5em;
+
+          span#email-notes {
+            display: block;
+            border-radius: 0 !important;
+            margin: 0 auto;
+            width: 100%;
+          }
+        }
+      }
+    }
+  }
+}

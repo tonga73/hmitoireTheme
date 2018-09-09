@@ -1,4 +1,8 @@
 #post-single {
+  background-color: $light;
+  border-radius: 15px 15px 0 0;
+  border: 0;
+
   header {
     span.entry-title {
       @include flex-around();
@@ -22,6 +26,13 @@
         }
       }
     }
+  }
+
+  .entry-content {
+    background-color: $light;
+    padding: 1.5em;
+    letter-spacing: 0.83519px;
+    line-height: 175%;
   }
 }
 

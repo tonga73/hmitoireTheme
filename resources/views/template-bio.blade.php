@@ -8,7 +8,7 @@
   @while(have_posts()) @php the_post() @endphp
   <div class="container-fluid">
   	<div class="row belle">
-  		<div id="bio-header" class="col-sm-12 text-center bg-dark p-3">
+  		<div id="bio-header" class="col-sm-12 text-center bg-warning p-3">
   			<img height="170" class="rounded-circle" src="https://scontent.fcnq2-1.fna.fbcdn.net/v/t1.0-9/10550996_10204396826944089_6888955505019437684_n.jpg?_nc_cat=0&oh=e3142185dc8e498d523fcecc3a2365d3&oe=5C3646AA" alt="">
   			<h2 class="cinzel pt-3">Biografía</h2>
   			<span class="barlow ls-5">

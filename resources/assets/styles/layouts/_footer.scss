@@ -31,3 +31,9 @@ footer {
     }
   }
 }
+
+@media (max-width: 576px) {
+  footer.jumbotron {
+    padding: 0;
+  }
+}

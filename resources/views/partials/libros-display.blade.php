@@ -1,7 +1,7 @@
 <!-- SERIE CUENTOS DE TERROR PARA FRANCO -->
-<hr class="col-8">
 
 	<div id="libros-section-title" class="col-12 jumbotron p-1 jumbotron-fluid ls-3 text-center">
+		<hr class="col-8">
 		<small class="border border-dark h3 p-1 text-dark rounded">Serie</small>
 		<span class="h2 text-warning">
 		   <i class="cinzel">Cuentos de Terror para Franco</i>
@@ -30,9 +30,9 @@
 			</section>
 
 <!-- SERIE: CUANDO ERA CHICO -->
-<hr class="col-8">
 
 	<div id="libros-section-title" class="col-12 jumbotron p-1 jumbotron-fluid ls-3 text-center">
+		<hr class="col-8">
 		<small class="border border-dark h3 p-1 text-dark rounded">Serie</small>
 		<span class="h2 text-warning">
 		   <i class="cinzel">Cuando era chico</i>
@@ -49,9 +49,9 @@
 			</section>
 
 <!-- NOVELAS: GÉNERO FANTÁSTICO Y DE CIENCIA FICCIÓN -->
-<hr class="col-8">
 
 	<div id="libros-section-title" class="col-12 jumbotron p-1 jumbotron-fluid ls-3 text-center">
+		<hr class="col-8">
 		<small class="border border-dark h3 p-1 text-dark rounded">Novela</small>
 		<span class="h2 text-warning">
 		   <i class="cinzel">Género Fantástico y de Ciencia Ficción</i>
@@ -72,9 +72,9 @@
 			</section>
 
 <!-- NOVELAS: GÉNERO NEGRO -->
-<hr class="col-8">
 
 	<div id="libros-section-title" class="col-12 jumbotron p-1 jumbotron-fluid ls-3 text-center">
+		<hr class="col-8">
 		<small class="border border-dark h3 p-1 text-dark rounded">Novela</small>
 		<span class="h2 text-warning">
 		   <i class="cinzel">Género Negro</i>
@@ -91,9 +91,9 @@
 			</section>
 
 <!-- OTROS: ANTOLOGÍA -->
-<hr class="col-8">
 
 	<div id="libros-section-title" class="col-12 jumbotron p-1 jumbotron-fluid ls-3 text-center">
+		<hr class="col-8">
 		<small class="border border-dark h3 p-1 text-dark rounded">Otros</small>
 		<span class="h2 text-warning">
 		   <i class="cinzel">Antología</i>

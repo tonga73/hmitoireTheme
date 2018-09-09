@@ -1,0 +1,9 @@
+form.search-form {
+  @include flex-it();
+
+  padding: 1em;
+
+  label {
+    margin: 0;
+  }
+}

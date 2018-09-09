@@ -11,6 +11,20 @@ nav.navigation.posts-navigation {
     .nav-next {
       width: 50%;
       padding: 1em;
+
+      a {
+        color: $light;
+        background-color: $secondary;
+        padding: 1em;
+        display: block;
+        text-decoration: none;
+        width: 30%;
+        margin: 0 auto;
+
+        &:hover {
+          background-color: $primary;
+        }
+      }
     }
   }
 }
