@@ -10,7 +10,7 @@
     {!! get_search_form(false) !!}
   @endif
 
-  <div class="card-columns p-3">
+  <div class="card-columns px-3">
     @while (have_posts()) @php the_post() @endphp
       @include('partials.content-'.get_post_type())
     @endwhile  

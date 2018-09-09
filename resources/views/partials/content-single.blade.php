@@ -1,7 +1,7 @@
 <article id="post-single" @php post_class( 'card' ) @endphp>
   <header class="card-header">
     <span class="entry-title">
-        <h1 class="card-title">
+        <h1 class="card-title cinzel">
           {{ get_the_title() }}
         </h1>
       @php 
@@ -16,7 +16,7 @@
       @include('partials/entry-meta')
     </h4>
   </header>
-  <div class="entry-content container">
+  <div class="entry-content container belle h4">
     @php the_content() @endphp
   </div>
   <section>

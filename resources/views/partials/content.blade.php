@@ -2,10 +2,12 @@
     <img class="card-img-top" src="{{ get_the_post_thumbnail_url() }}" alt="Imágen del post">
 	<div class="card-body p-0">
 	  <header class="card-header">	  		  		
-	    <h2 class="entry-title card-title"><a href="{{ get_permalink() }}">{{ get_the_title() }}</a></h2>
-	    @include('partials/entry-meta')
+	    <a class="d-block text-right" href="{{ get_permalink() }}">
+	    	<h2 class="entry-title card-title cinzel">{{ get_the_title() }}</h2>
+	    	@include('partials/entry-meta')
+	    </a>
 	  </header>
-	  <div class="entry-summary card-text p-1">
+	  <div class="entry-summary card-text p-2 belle h5">
 	    @php the_excerpt() @endphp
 	  </div>		
 	</div>

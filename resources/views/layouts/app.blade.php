@@ -6,7 +6,7 @@
     @php do_action('get_header') @endphp
     @include('partials.header')
     <div class="wrap container-fluid" role="document">
-      <div class="content mt-3">
+      <div class="content mt-2">
         <main class="main">
           @yield('content')
         </main>
