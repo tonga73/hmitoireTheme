@@ -150,6 +150,34 @@
     }
   }
 
+  @media (max-width: 576px) {
+    .swiper-container {
+      .swiper-slide {
+        .card {
+          .card-body {
+            ul {
+              li.chapter-section {
+                font-size: 11px;
+              }
+
+              li {
+                a {
+                  font-size: 11px;
+                  padding: 0;
+                }
+
+                p {
+                  font-size: 11px;
+                  margin: 0;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
   @media (max-width: 992px) {
     .swiper-container {
       .swiper-slide {
