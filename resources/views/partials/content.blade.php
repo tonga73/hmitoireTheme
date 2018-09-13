@@ -3,7 +3,7 @@
 	<div class="card-body p-0">
 	  <header class="card-header">	  		  		
 	    <a class="d-block text-right" href="{{ get_permalink() }}">
-	    	<h2 class="entry-title card-title cinzel">{{ get_the_title() }}</h2>
+	    	<h4 class="entry-title card-title cinzel">{{ get_the_title() }}</h4>
 	    	@include('partials/entry-meta')
 	    </a>
 	  </header>

@@ -5,5 +5,5 @@
 @extends('layouts.app')
 
 @section('content')
-  @include('partials.libros-display')
+  @include('partials.libros-section')
 @endsection
