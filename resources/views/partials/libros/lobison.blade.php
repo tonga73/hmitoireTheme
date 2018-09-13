@@ -3,7 +3,7 @@
 	    <img class="card-img-top" src="http://hugomitoire.com/wp-content/uploads/2018/08/Lobisón.jpg" alt="Card image cap">
 	    <div class="card-body">
 				    <ul>
-				    	<li class="chapter-section">CAPITULO I - La primera transformación</li>
+				    	<li class="chapter-section">I - La primera transformación</li>
 				    <!-- I -->
 				    	<li class="m-0">
 								<!-- Button trigger modal -->
@@ -54,14 +54,10 @@
 					    		    </small>
 				    			</a>
 				    	</li>
-				    <!-- VI -->
-				    	<li class="m-0">
-
-				    	</li>
-				    	<li class="chapter-section">CAPITULO II - El muchachito y la bestia</li>
-				    	<li class="chapter-section">CAPITULO III - La vida de un lobisón</li>
-				    	<li class="chapter-section">CAPITULO IV - A la caza del lobisón</li>
-				    	<li class="chapter-section">GLOSARIO</li>
+				    	<li class="chapter-section">II - El muchachito y la bestia</li>
+				    	<li class="chapter-section">III - La vida de un lobisón</li>
+				    	<li class="chapter-section">IV - A la caza del lobisón</li>
+				    	<li class="chapter-section"></li>
 				    </ul>
 	    </div>
 	  </div>

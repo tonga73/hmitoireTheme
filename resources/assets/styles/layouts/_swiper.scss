@@ -157,7 +157,7 @@
           .card-body {
             ul {
               li.chapter-section {
-                font-size: 11px;
+                font-size: 10px !important;
               }
 
               li {
@@ -169,6 +169,10 @@
                 p {
                   font-size: 11px;
                   margin: 0;
+
+                  span {
+                    font-size: 10px;
+                  }
                 }
               }
             }
