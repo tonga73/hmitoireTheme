@@ -100,7 +100,7 @@
     }
   }
 
-  @media (max-width: 1200px) {
+  @media (min-width: 1200px) {
     #widget-section.card-columns {
       -webkit-column-count: 3;
       -moz-column-count: 3;
