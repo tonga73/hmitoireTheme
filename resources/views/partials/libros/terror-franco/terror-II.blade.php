@@ -13,10 +13,10 @@
 				</li>
 				<li>
 				    		<p>Eduardo, el lobisón 
-				    			<span class="text-muted">
-				    				(1ra. Parte)
-				    			</span>
 				    		</p>
+				    		<span>
+				    			(1ra. Parte)
+				    		</span>
 				</li>
 				<li>
 				 <p>El fantasma de la panadería</p>

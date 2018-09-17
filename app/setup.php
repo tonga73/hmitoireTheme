@@ -73,9 +73,9 @@ add_action('after_setup_theme', function () {
  */
 add_action('widgets_init', function () {
     $config = [
-        'before_widget' => '<section class="widget d-flex justify-content-center %1$s %2$s">',
+        'before_widget' => '<section class="widget card border-0 %1$s %2$s">',
         'after_widget'  => '</section>',
-        'before_title'  => '<h3>',
+        'before_title'  => '<h3 class="text-right border p-1 text-light rounded">',
         'after_title'   => '</h3>'
     ];
     register_sidebar([

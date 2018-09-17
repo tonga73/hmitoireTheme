@@ -16,10 +16,10 @@
 				    	</li>
 				    	<li>
 				    		<p>Eduardo el lobisón 
-				    			<span class="text-muted">
-				    				(2da. Parte)
-				    			</span>
 				    		</p>
+				    		<span>
+				    			(2da. Parte)
+				    		</span>
 				    	</li>
 				    	<li>
 				    		<p>Luciano Vallejos el bailarín</p>

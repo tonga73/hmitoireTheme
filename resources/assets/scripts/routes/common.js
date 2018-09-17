@@ -1,5 +1,8 @@
 export default {
   init() {
+    $(window).load(function(){
+         $('.loader').fadeOut();
+    });
     $(function () {
       $(document).scroll(function () {
         var $nav = $(".banner");

@@ -57,7 +57,7 @@
 				    	<li class="chapter-section">II - El muchachito y la bestia</li>
 				    	<li class="chapter-section">III - La vida de un lobisón</li>
 				    	<li class="chapter-section">IV - A la caza del lobisón</li>
-				    	<li class="chapter-section"></li>
+				    	<li class="chapter-section">GLOSARIO</li>
 				    </ul>
 	    </div>
 	  </div>

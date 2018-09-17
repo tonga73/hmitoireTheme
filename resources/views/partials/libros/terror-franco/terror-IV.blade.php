@@ -4,17 +4,17 @@
 					    <ul>
 					    	<li>
 					    		<p>La bestia 
-					    			<span class="text-muted">
-					    				(1ra Parte)
-					    			</span>
 					    		</p>
+					    		<span>
+					    			(1ra Parte)
+					    		</span>
 					    	</li>
 					    	<li>
 					    		<p>Eduardo el lobisón  
-					    			<span class="text-muted">
-					    				(3ra Parte)
-					    			</span>
 					    		</p>
+					    		<span>
+					    			(3ra Parte)
+					    		</span>
 					    	</li>
 					    	<li>
 									<!-- Button trigger modal -->
@@ -33,10 +33,10 @@
 					    	</li>
 					    	<li>
 					    		<p>Crispín Soto y El Diablo 
-					    			<span class="text-muted">
-					    				(1ra Parte)
-					    			</span>
 					    		</p>
+					    		<span>
+					    			(1ra Parte)
+					    		</span>
 					    	</li>
 					    	<li>
 					    		<p>Armas y Diablo</p>

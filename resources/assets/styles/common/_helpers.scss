@@ -1,0 +1,8 @@
+// STRIPED LIST
+ul.striped-list {
+  list-style-type: none;
+}
+
+ul.striped-list > li:nth-of-type(odd) {
+  background-color: rgba($gray-600, 0.5);
+}

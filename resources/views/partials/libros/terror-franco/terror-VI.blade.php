@@ -7,10 +7,10 @@
 				    	</li>
 				    	<li>
 				    		<p>Mensajes del Más Allá 
-				    			<span class="text-muted">
-				    				(2da. Parte)
-				    			</span>
 				    		</p>
+				    		<span>
+				    			(2da. Parte)
+				    		</span>
 				    	</li>
 				    	<li>
 				    		<p>Laguna El Palmar</p>

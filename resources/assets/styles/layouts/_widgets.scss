@@ -1,0 +1,102 @@
+.footer {
+  #widget-section.card-columns {
+    .widget.card {
+      background-color: transparent;
+
+      h3 {
+        cursor: default;
+      }
+
+      ul {
+        @extend .list-group;
+        @extend .striped-list;
+
+        color: $danger;
+
+        li {
+          @extend .list-group-item;
+
+          background-color: transparent;
+          border: 0;
+          border-bottom: 1px solid transparent;
+
+          span.post-date {
+            display: block;
+            text-align: right;
+          }
+        }
+      }
+
+      ul.striped-list > li:nth-of-type(even) {
+        border-bottom: 1px solid $dark;
+      }
+    }
+
+    .widget.card a {
+      letter-spacing: 0.8px;
+      text-decoration: none;
+      display: block;
+      color: $light;
+
+      &:hover {
+        font-weight: bold;
+      }
+    }
+
+    .widget.card.simple-social-icons {
+      padding: 3em 0;
+    }
+
+    .widget.card.simple-social-icons ul {
+      clear: both;
+      display: flex;
+      flex-direction: row;
+      width: 100%;
+      padding: 0 !important;
+    }
+
+    .widget.card.simple-social-icons ul li a {
+      font-size: 29px;
+    }
+
+    @media (max-width: 576px) {
+      .widget.card.simple-social-icons ul li a {
+        margin: 0 auto;
+      }
+    }
+
+    .widget.card.widget_recent_comments ul li span.comment-author-link {
+      display: flex;
+      justify-content: right;
+      height: auto;
+      padding: 7px;
+      background-color: $dark;
+    }
+
+    .widget.card.widget_recent_comments ul li span.comment-author-link a {
+      display: block;
+      width: 100%;
+      color: $gray-400;
+      font-weight: bold;
+      text-align: right;
+      padding: 15px;
+
+      &:hover {
+        text-align: center;
+        background-color: $primary;
+        -webkit-transition: 0.73519s ease;
+        -moz-transition: 0.73519s ease;
+        -o-transition: 0.73519s ease;
+        transition: 0.73519s ease;
+      }
+    }
+  }
+
+  @media (max-width: 992px) {
+    #widget-section.card-columns {
+      -webkit-column-count: 1;
+      -moz-column-count: 1;
+      column-count: 1;
+    }
+  }
+}

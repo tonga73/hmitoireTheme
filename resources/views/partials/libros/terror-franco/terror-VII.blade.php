@@ -13,20 +13,20 @@
 				    	</li>
 				    	<li>
 				    		<p>Mensajes del Más Allá 
-				    			<span class="text-muted">
-				    				(3ra. Parte - Final)
-				    			</span>
 				    		</p>
+				    		<span>
+				    			(3ra. Parte - Final)
+				    		</span>
 				    	</li>
 				    	<li>
 				    		<p>El monte de las ánimas</p>
 				    	</li>
 				    	<li>
 				    		<p>La Bestia 
-				    			<span class="text-muted">
-				    				(4ta. Parte)
-				    			</span>
 				    		</p>
+				    		<span>
+				    			(4ta. Parte)
+				    		</span>
 				    	</li>
 				    	<li>
 				    		<p>
@@ -40,10 +40,10 @@
 				    	</li>
 				    	<li>
 				    		<p>Crispín Soto y El Diablo
-				    			<span class="text-muted">
-				    				(4ta. Parte)
-				    			</span>
 				    		</p>
+				    		<span>
+				    			(4ta. Parte)
+				    		</span>
 				    	</li>
 				    	<li>
 				    		<p>

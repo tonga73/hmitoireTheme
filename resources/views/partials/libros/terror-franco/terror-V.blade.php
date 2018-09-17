@@ -4,10 +4,10 @@
 				    <ul>
 				    	<li>
 				    		<p>Mensajes del Más Allá 
-				    			<span class="text-muted">
-				    				(1ra Parte)
-				    			</span>
 				    		</p>
+				    		<span>
+				    			(1ra Parte)
+				    		</span>
 				    	</li>
 				    	<li>
 								<!-- Button trigger modal -->
@@ -20,30 +20,30 @@
 				    	</li>
 				    	<li>
 				    		<p>Crispín Soto y El Diablo 
-				    			<span class="text-muted">
-				    				(2da. Parte)
-				    			</span>
 				    		</p>
+				    		<span>
+				    			(2da. Parte)
+				    		</span>
 				    	</li>
 				    	<li>
 				    		<p>A la deriva</p>
 				    	</li>
 				    	<li>
 				    		<p>La bestia 
-				    			<span class="text-muted">
-				    				(2da. Parte)
-				    			</span>
 				    		</p>
+				    		<span>
+				    			(2da. Parte)
+				    		</span>
 				    	</li>
 				    	<li>
 				    		<p>La pieza de las víboras</p>
 				    	</li>
 				    	<li>
 				    		<p>Eduardo, el lobisón
-				    			<span class="text-muted">
-				    				(4ta. Parte - Final)
-				    			</span>
 				    		</p>
+				    		<span>
+				    			(4ta. Parte - Final)
+				    		</span>
 				    	</li>
 				    	<li>
 				    		<p>Domingo sangriento</p>
